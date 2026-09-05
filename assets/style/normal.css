@@ -17,7 +17,7 @@ body {
   background-image: url("WhatsApp\ Image\ 2026-09-05\ at\ 17.37.51.jpeg");
 }
 
-h1 {
+h1, h2 {
   color: black;
   background-color: beige;
 }
