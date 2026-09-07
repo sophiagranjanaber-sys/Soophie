@@ -6,7 +6,7 @@
 ### 4 sept Deep dive: praktische css, fonts met kleur en effecten
 
 
-### 3 sept Deep dive: Typography, Schetsen
+### 2 sept Deep dive: Typography, Schetsen
 
 
 ### 31 aug - Kickoff
