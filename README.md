@@ -1,6 +1,15 @@
 ## Learning Log
 
-### 9 sept
+### 9 sept online les
+<img src="1.jpg" width="50%">
+<img src="2.jpg" width="50%">
+<img src="crazy 8.jpg" width="50%">
+
+1. Leg uit waar het Visual Research in 3 stappen naartoe werkt
+
+2. Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
+
+3. Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
 
 ### 8 sept Deep dive: light and dark mode
 
