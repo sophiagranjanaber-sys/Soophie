@@ -2,10 +2,13 @@
 
 ### 9 sept
 
-### 8 sept
+### 8 sept Deep dive: light and dark mode
+
+<img src="makkie.jpg" width="50%">
+<img src="kipkakie.jpg" width="50%">
 
 ### 7 sept
-
+Samenwerking in groepjes van 4:
 <img src="web analyse samen.jpg" width="50%">
 <img src="website inspo analyse indif.jpg" width="50%">
 <img src="web inspo tekst samenvatting.jpg" width="50%">
