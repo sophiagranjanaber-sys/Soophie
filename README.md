@@ -10,8 +10,6 @@
 <img src="website inspo analyse indif.jpg" width="50%">
 <img src="web inspo tekst samenvatting.jpg" width="50%">
 
-De checkout vragen voor vandaag:
-
 1. Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website:
 Het is heel erg persoonlijk. Er hoeft geen perfectie in te zitten. Je kan er je eigen ideeen erin verwerken.
 
@@ -22,8 +20,9 @@ Dat iemand een website Webby vind verschilde heel erg per persoon dus wij denken
 Op dit moment heb ik bedacht het thema bergen te gaan gebruiken. Ik wil in mijn website laten zien wat voor activiteiten er allemaal gedaan kunnen worden in de bergen. Met animaties en collages wil ik de schoonheid en uniekheid van bergen laten zien.
 
 ### 4 sept Deep dive: praktische css, fonts met kleur en effecten
-Ik heb bij de praktische css oa veel mee geluisterd
-een screenshot van een paar tags waarbij ik heb mee geschreven:
+Ik heb bij de praktische css oa veel mee geluisterd.
+
+Een screenshot van een paar tags waarbij ik heb mee geschreven:
 <img src="codepen praktische css.jpg" width="50%">
 
 ### 2 sept Deep dive: Typography
