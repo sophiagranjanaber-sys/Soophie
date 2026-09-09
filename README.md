@@ -15,15 +15,20 @@ Op dit moment heb ik bedacht het thema bergen te gaan gebruiken. Ik wil in mijn 
 
 ### 4 sept Deep dive: praktische css, fonts met kleur en effecten
 
+### 2 sept Deep dive: Typography
+Voor deze les heb ik informatie vezamelt over Dolly Parton die ik al wist over haar. Daarmee heb ik schetsjes gemaakt om die kennis visueel duidelijk te maken. 
 
-### 2 sept Deep dive: Typography, Schetsen
-
+<img src="dollyp.jpg" width="50%">
+<img src="country dollyp.jpg" width="50%">
 
 ### 31 aug - Kickoff
 
 1. Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
+wij hebben beide voor github gekozen. het is een platform die je nodig hebt om een website te maken.
 
 2. Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.
+Voor mijn domeinnaam heb ik gewoon mijn roepnaam gebruikt omdat ik niet wist waar de opdracht over zou gaan. 
 
 3. Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
+Ik schrijf een code en synchronyseer het.
 
