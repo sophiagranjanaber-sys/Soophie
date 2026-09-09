@@ -15,6 +15,8 @@ Op dit moment heb ik bedacht het thema bergen te gaan gebruiken. Ik wil in mijn 
 
 ### 4 sept Deep dive: praktische css, fonts met kleur en effecten
 
+<img src="codepen praktische css.jpg" width="50%">
+
 ### 2 sept Deep dive: Typography
 Voor deze les heb ik informatie vezamelt over Dolly Parton die ik al wist over haar. Daarmee heb ik schetsjes gemaakt om die kennis visueel duidelijk te maken. 
 
