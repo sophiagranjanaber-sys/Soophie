@@ -21,3 +21,9 @@ Op dit moment heb ik bedacht het thema bergen te gaan gebruiken. Ik wil in mijn 
 
 ### 31 aug - Kickoff
 
+1. Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
+
+2. Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.
+
+3. Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
+
