@@ -15,6 +15,8 @@
 
 <img src="makkie.jpg" width="50%">
 <img src="kipkakie.jpg" width="50%">
+<img src="katten.jpg" width="50%">
+
 
 ### 7 sept
 Samenwerking in groepjes van 4:
