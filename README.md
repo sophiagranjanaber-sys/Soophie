@@ -2,7 +2,7 @@
 
 ### 10 sept Deep dive gradient en scherm schetsen
 
-<img src="gradient.jpg" width="50%">
+<img src="gradients.jpg" width="50%">
 
 
 ### 9 sept online les
