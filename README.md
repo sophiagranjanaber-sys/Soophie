@@ -1,6 +1,7 @@
 ## Learning Log
 
 ### 10 sept Deep dive gradient en scherm schetsen
+Geoefend met verschillende gardients maken:
 
 <img src="gradients.jpg" width="50%">
 
