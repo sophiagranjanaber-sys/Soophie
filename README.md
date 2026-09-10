@@ -1,5 +1,10 @@
 ## Learning Log
 
+### 10 sept Deep dive gradient en scherm schetsen
+
+<img src="gradient.jpg" width="50%">
+
+
 ### 9 sept online les
 <img src="1.jpg" width="50%">
 <img src="2.jpg" width="50%">
