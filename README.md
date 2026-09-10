@@ -4,12 +4,17 @@
 <img src="1.jpg" width="50%">
 <img src="2.jpg" width="50%">
 <img src="crazy 8.jpg" width="50%">
+<img src="visualr.jpg" width="50%">
+
 
 1. Leg uit waar het Visual Research in 3 stappen naartoe werkt
+Beelden, foto's, schetsen verzamelen. Verzameling van informatie. Lijdt tot patronen vinden om jou stijl en ontwerp te kunnen analyseren.
 
-2. Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
+3. Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
+Kijkers overhalen meer activiteiten in de bergen te doen om ervoor te zorgen dat er meer respect ontstaat voor de natuur. Aan de hand van collages en informatie over hoe makkelijk het is om de bergen in te gaan.
 
-3. Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
+5. Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
+In mijn eerste schets heb ik een zon die in een maan veranderd, geschetst. Het idee daaracht is dat als je er op klikt je overstapt van ligt naar dark mode. Dit vond ik zelf echt een leuk idee dus ik zou het wel heel leuk vinf=den als ik dit in mijn tuintje kan verwerken.
 
 ### 8 sept Deep dive: light and dark mode
 
