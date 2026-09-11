@@ -1,5 +1,9 @@
 ## Learning Log
 
+### 11 sept deep dive grid en les
+<img src="schermen 1.jpg" width="50%">
+<img src="schermen 2.jpg" width="50%">
+
 ### 10 sept Deep dive gradient en scherm schetsen
 Geoefend met verschillende gardients maken:
 
