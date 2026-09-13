@@ -1,5 +1,8 @@
 ## Learning Log
 
+### 13 sept
+<img src="web1.jpg" width="50%">
+
 ### 11 sept deep dive grid en les
 <img src="schermen 1.jpg" width="50%">
 <img src="schermen 2.jpg" width="50%">
