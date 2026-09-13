@@ -12,11 +12,19 @@
 
 body {
   font-family: "indieflower", system-ui;
-  background-color: Canvas;
+  background-color: skyblue;
   color: CanvasText;
   color-scheme: light dark;
 }
 
 h1 {
   color:white;
+}
+
+main{
+  color: skyblue;
+}
+
+script{
+  color: skyblue;
 }
