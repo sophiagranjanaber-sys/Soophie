@@ -10,21 +10,22 @@
   font-style: normal;
 }
 
+html {
+  color-scheme:light dark;
+
+  --background: light-dark(skyblue, midnightblue);
+  --color: light-dark(black, white);
+}
+
 body {
   font-family: "indieflower", system-ui;
-  background-color: skyblue;
-  color: CanvasText;
-  color-scheme: light dark;
+  background-color: var(--background);
+  color: var(--color);
 }
 
 h1 {
-  color:white;
+  color: var(--color);
+  text-align: center;
+  font-size: 50px;
 }
 
-main{
-  color: skyblue;
-}
-
-script{
-  color: skyblue;
-}
