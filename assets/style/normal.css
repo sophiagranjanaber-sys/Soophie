@@ -73,3 +73,10 @@ nav li a[aria-current="page"] {
   color: var(--color);
 }
 
+[href="zonnetje.svg"]{
+  background-image: url("zonnetje.svg");
+  background-repeat: no-repeat;
+  background-color: transparent;
+  background-size: 150%;
+  background-position: center;
+}
