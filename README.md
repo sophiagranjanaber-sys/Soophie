@@ -1,5 +1,19 @@
 ## Learning Log
 
+### 14 sept
+Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
+
+geordent houden, adaptief top maat/goede verhouding, css ook gebruiken, juiste maat voor afbeeldingen
+
+Vertel welke volgende stap je neemt om je website responsive te maken.
+
+de deepdives toepassen, css gebruiken
+
+Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+
+Ik heb aan mijn tweetal beschreven wat mijn plan is voor mijn website
+
+
 ### 13 sept
 <img src="web1.jpg" width="50%">
 
