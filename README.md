@@ -1,15 +1,22 @@
 ## Learning Log
 
+### 15 sept Deep dive
+<img src="grid1.jpg">
+<img src="grid2.jpg">
+
 ### 14 sept
-Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
+<img src="code1.jpg">
+<img src="code2.jpg">
+
+1. Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
 
 geordent houden, adaptief top maat/goede verhouding, css ook gebruiken, juiste maat voor afbeeldingen
 
-Vertel welke volgende stap je neemt om je website responsive te maken.
+2. Vertel welke volgende stap je neemt om je website responsive te maken.
 
 de deepdives toepassen, css gebruiken
 
-Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+3. Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
 
 Ik heb aan mijn tweetal beschreven wat mijn plan is voor mijn website
 
