@@ -1,5 +1,9 @@
 ## Learning Log
 
+### 16 sept dark en light mode toegepast op website
+<img src="lightmode.jpg" width="50%">
+<img src="darkmode.jpg" width="50%">
+
 ### 15 sept Deep dive
 <img src="grid1.jpg" width="50%">
 <img src="grid2.jpg" width="50%">
