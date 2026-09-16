@@ -1,12 +1,12 @@
 ## Learning Log
 
 ### 15 sept Deep dive
-<img src="grid1.jpg">
-<img src="grid2.jpg">
+<img src="grid1.jpg" width="50%">
+<img src="grid2.jpg" width="50%">
 
 ### 14 sept
-<img src="code1.jpg">
-<img src="code2.jpg">
+<img src="code1.jpg" width="50%">
+<img src="code2.jpg" width="50%">
 
 1. Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
 
