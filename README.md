@@ -1,5 +1,18 @@
 ## Learning Log
 
+### 21 sept check out
+1. Wat zijn HTML landmark role elements?
+
+De tags die dingen groeperen: main,footer,header etc.
+
+2. Wat zijn heading elementen en hoe horen deze 'genest' te worden?
+
+belangrijkste is H1 en daarna H2, etc
+
+3. Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
+
+Ik klik altijd op alles afwijzen, ook al voor deze les.
+
 ### 16 sept dark en light mode toegepast op website
 <img src="lightmode.jpg" width="50%">
 <img src="darkmode.jpg" width="50%">
