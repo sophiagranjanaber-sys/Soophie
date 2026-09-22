@@ -49,6 +49,9 @@ body {
   font-family: "indieflower", system-ui;
   background-color: var(--background);
   color: var(--color);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 h1 {
@@ -57,13 +60,6 @@ h1 {
   font-size: 50px;
   margin-top: -1px;
 }
-
-header {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
 
 nav {
   order: -1;
