@@ -19,7 +19,6 @@ html {
   --buttontekst: light-dark(white, black);
 }
 
-
 body {
   font-family: "indieflower", system-ui;
   background-color: var(--background);
