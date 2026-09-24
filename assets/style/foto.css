@@ -41,7 +41,13 @@ h2 {
     font-size: 2.5em;
 }
 
-/* Afbeeldingen responsive maken */
+h3 {
+    grid-column: 1 / -1;   
+    text-align: center;    
+    margin: 2rem 0 1rem;   
+    font-size: 2.5rem;
+}
+
 img {
     width: 100%;
     aspect-ratio: 1 / 1;
@@ -50,7 +56,6 @@ img {
     border-radius: 0.5rem;
 }
 
-/* Standaard weergave (mobiel): 1 kolom onder elkaar */
 main {
     display: grid;
     grid-template-columns: 1fr;
@@ -58,23 +63,20 @@ main {
     padding: 1rem;
 }
 
-/* Scherm vanaf 35rem (grotere telefoons / kleine tablets): 2 foto's naast elkaar */
-@media (min-width: 35rem) {
+@media (min-width: 30rem) {
     main {
         grid-template-columns: repeat(2, 1fr);
     }
 }
 
-/* Scherm vanaf 50rem (tablets / kleine laptops): 3 foto's naast elkaar */
 @media (min-width: 50rem) {
     main {
         grid-template-columns: repeat(3, 1fr);
     }
 }
 
-/* Scherm vanaf 75rem (MacBook / grote schermen): 5 foto's naast elkaar */
 @media (min-width: 75rem) {
     main {
-        grid-template-columns: repeat(5, 1fr);
+        grid-template-columns: repeat(4, 1fr);
     }
 }
