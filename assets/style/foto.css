@@ -33,3 +33,41 @@ h1 {
   text-align: center;
   font-size: 50px;
 }
+
+/* Afbeeldingen responsive maken */
+img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    display: block;
+    border-radius: 0.5rem;
+}
+
+/* Standaard weergave (mobiel): 1 kolom onder elkaar */
+main {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+/* Scherm vanaf 35rem (grotere telefoons / kleine tablets): 2 foto's naast elkaar */
+@media (min-width: 35rem) {
+    main {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Scherm vanaf 50rem (tablets / kleine laptops): 3 foto's naast elkaar */
+@media (min-width: 50rem) {
+    main {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+/* Scherm vanaf 75rem (MacBook / grote schermen): 5 foto's naast elkaar */
+@media (min-width: 75rem) {
+    main {
+        grid-template-columns: repeat(5, 1fr);
+    }
+}
