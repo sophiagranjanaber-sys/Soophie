@@ -1,5 +1,11 @@
 ## Learning Log
 
+### 26 sept
+<img src="idk.jpg" width="50%">
+<img src="bd9c2410-ffa9-4e7d-88b4-b35f1f9295f3.jpg" width="50%">
+<img src="C Welingelichte Cookie Consent.jpg" width="50%">
+
+
 ### 21 sept check out
 1. Wat zijn HTML landmark role elements?
 
