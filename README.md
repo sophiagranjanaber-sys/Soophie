@@ -19,6 +19,19 @@ belangrijkste is H1 en daarna H2, etc
 
 Ik klik altijd op alles afwijzen, ook al voor deze les.
 
+### 19 sept Feedback van vrijdag
+- "Pagina verder uitbreiden waarbij je wild kamperen duidelijk overbrengt"
+
+Ik weet nog niet of wild kamperen is wat ik wil verwerken in mijn website. Ik had ook wat andere ideeën. Daarom wil ik eerst kijken wat ik het liefst nog wil toevoegen voordat ik verder ga met de volgende pagina.
+
+- "Je onderbouwt je eigen keuzes nog matig."
+
+Ik ga daarom nu in mijn learning log alle keuzes op een rijtje zetten en duidelijk overbrengen.
+
+- "mist nog een responsive grid"
+
+deze heb ik nu toegevoegd aan mijn scherm "galerij"
+
 ### 18 sept check out
 
 Oriënteren en begrijpen
