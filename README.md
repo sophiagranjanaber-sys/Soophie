@@ -1,5 +1,26 @@
 ## Learning Log
 
+### 28 sept
+Toetsenbord en screenreader:
+Aan = command f5
+verder = tab
+terug = shift tab
+kiezen = enter
+
+Checkout
+
+1. Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
+
+Hij vind de gehele ervaring belangrijker voor een goed resultaat.
+
+2. Wat voor type beperkingen hebben invloed op het gebruiken van websites?
+
+zicht, cognitief, consentratie 
+
+3. Noem drie manieren om door een website te navigeren met jouw screenreader.
+
+Tab, Tab shift, enter,
+
 ### 26 sept
 <img src="idk.jpg" width="50%">
 <img src="bd9c2410-ffa9-4e7d-88b4-b35f1f9295f3.jpg" width="50%">
