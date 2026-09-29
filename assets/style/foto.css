@@ -12,9 +12,9 @@
 html {
   color-scheme: light dark;
 
-  --background: light-dark(rgb(154, 205, 117), rgb(7, 61, 26));
+  --background: light-dark(#bbd062, #283b0a);
   --color: light-dark(black, white);
-  --buttonbackground: light-dark(rgb(7, 61, 26), rgb(154, 205, 117));
+  --buttonbackground: light-dark(#283b0a, #bbd062);
   --buttontekst: light-dark(white, black);
   --Jump: light-dark(#723a77, #3a023f);
   --hoverjump: light-dark(#3a023f, #723a77);

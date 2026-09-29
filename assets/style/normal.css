@@ -14,9 +14,9 @@
 html {
   color-scheme: light;
 
-  --background: light-dark(skyblue, midnightblue);
+  --background: light-dark(skyblue, #091540);
   --color: light-dark(black, white);
-  --buttonbackground: light-dark(midnightblue, skyblue);
+  --buttonbackground: light-dark(#091540, skyblue);
   --buttontekst: light-dark(white, black);
 }
 
