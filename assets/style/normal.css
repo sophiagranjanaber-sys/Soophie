@@ -136,15 +136,15 @@ main {
 
 main a {
     position: absolute;
-    top: -33%;                 
-    right: 3%;               
+    top: 5%;                 
+    right: 15%;               
     z-index: 10;
     display: block;
     cursor: pointer;
 }
 
 main a img {
-    width: 30rem;            
+    width: 10rem;            
     height: auto;
     display: block;
     pointer-events: none;
