@@ -13,14 +13,23 @@
   <body>
       <header>
           <h1>Digitale bergen van Soophi</h1>
-          <form>
-              <label for="light-mode">
-                  <img class="zon" src="zonnetje.svg" alt="zon" />
-              </label>
-              <label for="dark-mode">
-                  <img class="maan" src="maan.svg" alt="maan" />
-              </label>
-          </form>
+          
+        <form>
+            <!-- Onzichtbare schakelaars -->
+            <input type="radio" name="theme" id="light-mode" checked />
+            <input type="radio" name="theme" id="dark-mode" />
+
+            <!-- Klikken op de zon activeert dark-mode -->
+            <label for="dark-mode">
+                <img class="zon" src="zonnetje.svg" alt="zon" />
+            </label>
+
+            <!-- Klikken op de maan activeert light-mode -->
+            <label for="light-mode">
+                <img class="maan" src="maan.svg" alt="maan" />
+            </label>
+        </form>
+        
       </header>
 
       <nav>

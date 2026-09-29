@@ -10,8 +10,9 @@
   font-style: normal;
 }
 
+/* 1. Standaard staat de pagina op light mode */
 html {
-  color-scheme: light dark;
+  color-scheme: light;
 
   --background: light-dark(skyblue, midnightblue);
   --color: light-dark(black, white);
@@ -19,29 +20,46 @@ html {
   --buttontekst: light-dark(white, black);
 }
 
-img.zon {
-  display: block;
-  width: 500px;
-  height: auto;
-  margin-top: -50px;
+/* 2. Zodra op de zon is geklikt (#dark-mode wordt actief): schakel color-scheme om naar dark */
+html:has(#dark-mode:checked) {
+  color-scheme: dark;
 }
 
-@media (prefers-color-scheme: dark) {
-  img.zon {
-    display: none;
-  }
-}
-
-img.maan {
+/* 3. Afbeeldingen tonen/verbergen op basis van de gekozen modus */
+html:has(#dark-mode:checked) img.zon {
   display: none;
 }
-@media (prefers-color-scheme: dark) {
-  img.maan {
+
+html:has(#dark-mode:checked) img.maan {
+  display: block;
+}
+
+/* 1. Verberg de standaard radio-rondjes */
+form input[type="radio"] {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+}
+
+/* 2. Zorg dat de muis verandert in een handje */
+form label {
+    cursor: pointer;
+    display: inline-block;
+}
+
+/* 3. Standaard (Light mode actief): Toon zon, verberg maan */
+img.zon {
     display: block;
     width: 500px;
     height: auto;
+    margin-top: -50px;
+}
+
+img.maan {
+    display: none;
+    width: 500px;
+    height: auto;
     margin-top: -100px;
-  }
 }
 
 body {
@@ -118,8 +136,8 @@ main {
 
 main a {
     position: absolute;
-    top: -33%;                 /* Verhoog dit percentage om te zakken, verlaag om te stijgen */
-    right: 3%;               /* Afstand vanaf de rechterkant */
+    top: -33%;                 
+    right: 3%;               
     z-index: 10;
     display: block;
     cursor: pointer;
