@@ -154,3 +154,33 @@ main a img {
 main a:hover img {
     transform: scale(1.15);
 }
+
+button {
+  padding:.5em 1em;
+	
+	appearance:none;
+  background-color:#333;
+	border:solid .225em white;
+  
+	color:white;
+	line-height:1.25;
+	font-size:1em;
+	
+  cursor:pointer;
+}
+
+:focus-visible {
+  outline:solid .3rem #f09;
+  outline-offset:.15rem;
+}
+
+main > button {
+	position:fixed;
+	right: 3em;;
+	bottom: 3em;;
+	z-index:1;
+	
+  width:6em;
+  aspect-ratio:1;
+  border: radius 3em;;
+}
