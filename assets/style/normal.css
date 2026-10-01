@@ -34,11 +34,9 @@ html:has(#dark-mode:checked) img.maan {
   display: block;
 }
 
-/* 1. Verberg de standaard radio-rondjes */
-form input[type="radio"] {
-    position: absolute;
-    opacity: 0;
-    pointer-events: none;
+form input[type="radio"]:focus-visible + label {
+    outline: 3px solid orange;
+    outline-offset: 4px;
 }
 
 /* 2. Zorg dat de muis verandert in een handje */

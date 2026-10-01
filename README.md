@@ -1,5 +1,24 @@
 ## Learning Log
 
+### 30 sept
+checkout
+
+1. Waar staat WCAG en A11y voor?
+
+Web content accessibility guidelines en accessibility
+
+2. Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen?
+
+Met screenreader. Ik heb daar geen geduld voor.
+
+3. Met welke beperking rekening houden vind je het meest lastig?
+
+ Blind
+
+4. Vind je dat je beperkt wordt in wat je kunt ontwerpen? Of heb je al manieren gevonden om vanuit een solide basis  - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?
+
+Ik denk niet dat ik daardoor heel erg beperkt word in het ontwerpen. Maar het zijn wel veel dingen waar ik rekening mee moet houden.
+
 ### 28 sept
 Toetsenbord en screenreader:
 Aan = command f5
