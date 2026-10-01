@@ -218,7 +218,7 @@ In mijn eerste schets heb ik een zon die in een maan veranderd, geschetst. Het i
 
 ### 8 sept Deep dive: light and dark mode
 
-<img src="readme/makkie.jpg" width="50%">
+<img src="Readme/makkie.jpg" width="50%">
 <img src="readme/kipkakie.jpg" width="50%">
 <img src="readme/katten.jpg" width="50%">
 
