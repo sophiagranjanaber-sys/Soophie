@@ -1,5 +1,15 @@
 ## Learning Log
 
+### 1 okt
+Waarom heb ik voor dit font gekozen?
+
+Mijn zoektocht begon in Adobe Illustrator. Ik vond daar een mooi font dat goed paste bij het thema bergen en natuur, maar wist toen nog niet dat ik daar de font niet op kan downloaden. Daarom ben ik overgestapt naar Google Fonts.
+
+Hier koos ik voor Indie Flower. De vrije, handgeschreven vorm geeft de website een natuurlijk en persoonlijk karakter, precies wat ik zocht in plaats van een standaard, zakelijk lettertype.
+
+
+
+
 ### 30 sept
 checkout
 
@@ -42,7 +52,7 @@ Tab, Tab shift, enter,
 
 ### 26 sept
 <img src="idk.jpg" width="50%">
-<img src="bd9c2410-ffa9-4e7d-88b4-b35f1f9295f3.jpg" width="50%">
+<img src="bd9c2410-ffa9-4e7d-88b4-b35f1f9295f3.JPG" width="50%">
 <img src="C Welingelichte Cookie Consent.jpg" width="50%">
 
 
