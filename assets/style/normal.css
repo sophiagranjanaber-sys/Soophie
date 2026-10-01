@@ -35,7 +35,7 @@ html:has(#dark-mode:checked) img.maan {
 }
 
 form input[type="radio"]:focus-visible + label {
-    outline: 3px solid orange;
+    outline: 3px solid;
     outline-offset: 4px;
 }
 
