@@ -8,7 +8,14 @@ Mijn zoektocht begon in Adobe Illustrator. Ik vond daar een mooi font dat goed p
 Hier koos ik voor Indie Flower. De vrije, handgeschreven vorm geeft de website een natuurlijk en persoonlijk karakter, precies wat ik zocht in plaats van een standaard, zakelijk lettertype.
 
 
+Waarom heb ik gekozen voor het onderwerp bergen?
 
+Bergen geven mij een gevoel van vrijheid, rust en avontuur. Ik houd enorm van buiten zijn, de natuur ontdekken en activiteiten zoals boulderen en klimmen. Door bergen als thema te kiezen, kon ik een onderwerp nemen waar ik écht enthousiast over ben. Het leek mij een onderwerp waar ik heel creatief mee kon zijn, omdat ik vrijwel meteen verschillende ideeën in mijn hoofd had, zoals de collage van bergen. Dit maakte het ontwerpen en bouwen van de website leuker en zorgde ervoor dat ik graag verschillende creatieve dingen wilde uitproberen met CSS.
+
+
+Hoe ben ik op het idee van de zon en de maan gekomen?
+
+Tijdens de light/dark mode deep dive gaf Vasilis aan dat hij het vaak te veel moeite vindt om een schakelaar op een website te zetten, en hij vroeg wie daar nu eigenlijk echt op klikt. Mijn reactie was direct: “Ik klik daar altijd op, vind ik leuk om te zien!” Tijdens de les ben ik gaan nadenken over hoe ik zo'n interactieve toggle in mijn eigen website kon verwerken, terwijl ik tegelijkertijd leerde welke technische mogelijkheden er allemaal waren met CSS. Zo ontstond het idee om de dag en nachtstand visueel te koppelen aan een zon en een maan, bovenop de bergen.
 
 ### 30 sept
 checkout
