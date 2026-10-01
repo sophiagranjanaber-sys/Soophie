@@ -51,9 +51,9 @@ zicht, cognitief, consentratie
 Tab, Tab shift, enter,
 
 ### 26 sept
-<img src="idk.jpg" width="50%">
-<img src="bd9c2410-ffa9-4e7d-88b4-b35f1f9295f3.JPG" width="50%">
-<img src="C Welingelichte Cookie Consent.jpg" width="50%">
+<img src="readme/idk.jpg" width="50%">
+<img src="readme/bd9c2410-ffa9-4e7d-88b4-b35f1f9295f3.JPG" width="50%">
+<img src="readme/C Welingelichte Cookie Consent.jpg" width="50%">
 
 
 ### 21 sept check out
@@ -160,16 +160,16 @@ Wat vond ik (niet) leuk?
 Ik vond het leuk om te werken aan een idee waar ik heel verheugd van werd. Ik vond het niet leuk dat ik eraan moest werken met veel stress en tijdsdruk.
 
 ### 16 sept dark en light mode toegepast op website
-<img src="lightmode.jpg" width="50%">
-<img src="darkmode.jpg" width="50%">
+<img src="readme/lightmode.jpg" width="50%">
+<img src="readme/darkmode.jpg" width="50%">
 
 ### 15 sept Deep dive
-<img src="grid1.jpg" width="50%">
-<img src="grid2.jpg" width="50%">
+<img src="readme/grid1.jpg" width="50%">
+<img src="readme/grid2.jpg" width="50%">
 
 ### 14 sept
-<img src="code1.jpg" width="50%">
-<img src="code2.jpg" width="50%">
+<img src="readme/code1.jpg" width="50%">
+<img src="readme/code2.jpg" width="50%">
 
 1. Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
 
@@ -185,23 +185,23 @@ Ik heb aan mijn tweetal beschreven wat mijn plan is voor mijn website
 
 
 ### 13 sept
-<img src="web1.jpg" width="50%">
+<img src="readme/web1.jpg" width="50%">
 
 ### 11 sept deep dive grid en les
-<img src="schermen 1.jpg" width="50%">
-<img src="schermen 2.jpg" width="50%">
+<img src="readme/schermen 1.jpg" width="50%">
+<img src="readme/schermen 2.jpg" width="50%">
 
 ### 10 sept Deep dive gradient en scherm schetsen
 Geoefend met verschillende gardients maken:
 
-<img src="gradients.jpg" width="50%">
+<img src="readme/gradients.jpg" width="50%">
 
 
 ### 9 sept online les
-<img src="1.jpg" width="50%">
-<img src="2.jpg" width="50%">
-<img src="crazy 8.jpg" width="50%">
-<img src="visualr.jpg" width="50%">
+<img src="readme/1.jpg" width="50%">
+<img src="readme/2.jpg" width="50%">
+<img src="readme/crazy 8.jpg" width="50%">
+<img src="readme/visualr.jpg" width="50%">
 
 
 1. Leg uit waar het Visual Research in 3 stappen naartoe werkt
@@ -218,17 +218,17 @@ In mijn eerste schets heb ik een zon die in een maan veranderd, geschetst. Het i
 
 ### 8 sept Deep dive: light and dark mode
 
-<img src="makkie.jpg" width="50%">
-<img src="kipkakie.jpg" width="50%">
-<img src="katten.jpg" width="50%">
+<img src="readme/makkie.jpg" width="50%">
+<img src="readme/kipkakie.jpg" width="50%">
+<img src="readme/katten.jpg" width="50%">
 
 
 ### 7 sept
 Samenwerking in groepjes van 4:
 
-<img src="web analyse samen.jpg" width="50%">
-<img src="website inspo analyse indif.jpg" width="50%">
-<img src="web inspo tekst samenvatting.jpg" width="50%">
+<img src="readme/web analyse samen.jpg" width="50%">
+<img src="readme/website inspo analyse indif.jpg" width="50%">
+<img src="readme/web inspo tekst samenvatting.jpg" width="50%">
 
 1. Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website:
 
@@ -247,13 +247,13 @@ Op dit moment heb ik bedacht het thema bergen te gaan gebruiken. Ik wil in mijn 
 Ik heb bij de praktische css oa veel mee geluisterd.
 
 Een screenshot van een paar tags waarbij ik heb mee geschreven:
-<img src="codepen praktische css.jpg" width="50%">
+<img src="readme/codepen praktische css.jpg" width="50%">
 
 ### 2 sept Deep dive: Typography
 Voor deze les heb ik informatie vezamelt over Dolly Parton die ik al wist over haar. Daarmee heb ik schetsjes gemaakt om die kennis visueel duidelijk te maken. 
 
-<img src="dollyp.jpg" width="50%">
-<img src="country dollyp.jpg" width="50%">
+<img src="readme/dollyp.jpg" width="50%">
+<img src="readme/country dollyp.jpg" width="50%">
 
 ### 31 aug - Kickoff
 
