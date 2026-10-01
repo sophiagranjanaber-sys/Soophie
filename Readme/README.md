@@ -58,7 +58,7 @@ zicht, cognitief, consentratie
 Tab, Tab shift, enter,
 
 ### 26 sept
-<img src="readme/idk.jpg" width="50%">
+<img src="idk.jpg" width="50%">
 <img src="readme/bd9c2410-ffa9-4e7d-88b4-b35f1f9295f3.JPG" width="50%">
 <img src="readme/C Welingelichte Cookie Consent.jpg" width="50%">
 
