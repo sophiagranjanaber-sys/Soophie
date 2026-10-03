@@ -1,6 +1,9 @@
 ## Learning Log
 
-### 1 okt
+### 3 okt feedback van Vasilis verwerken en retrospect opdacht
+<img src="altweggehaald.jpg" width="50%"> Bij de toegankelijkheids test stond er voor decoratieve afbeeldingen een lege alt te plaatsen. Daarom heb ik dat bij alle foto's gedaan. Vasilis heeft me tijdens het feedback moment verteld dat het belangrijk is bij deze afbeeldingen wel alt neer te zetten omdat het het belangrijkste deel van de pagina is.
+
+### 1 okt keuzes
 Waarom heb ik voor dit font gekozen?
 
 Mijn zoektocht begon in Adobe Illustrator. Ik vond daar een mooi font dat goed paste bij het thema bergen en natuur, maar wist toen nog niet dat ik daar de font niet op kan downloaden. Daarom ben ik overgestapt naar Google Fonts.
@@ -17,7 +20,15 @@ Hoe ben ik op het idee van de zon en de maan gekomen?
 
 Tijdens de light/dark mode deep dive gaf Vasilis aan dat hij het vaak te veel moeite vindt om een schakelaar op een website te zetten, en hij vroeg wie daar nu eigenlijk echt op klikt. Mijn reactie was direct: “Ik klik daar altijd op, vind ik leuk om te zien!” Tijdens de les ben ik gaan nadenken over hoe ik zo'n interactieve toggle in mijn eigen website kon verwerken, terwijl ik tegelijkertijd leerde welke technische mogelijkheden er allemaal waren met CSS. Zo ontstond het idee om de dag en nachtstand visueel te koppelen aan een zon en een maan, bovenop de bergen.
 
-### 30 sept
+### 30 sept kleur aanpassen
+<img src="toggeltoegevoegd.jpg" width="50%"> Uit mijn toegankelijkheids test bleek dat de zon/maan niet bereikbaar waren met tab. Dit kwam omdat er geen toggel zichtbaar was. Dus om dit op te lossen heb ik toch een zichtbare toggel toegevoegd.
+
+<img src="galerij.jpg" width="50%">
+<img src="galerijkleuraangepast.jpg" width="50%">
+<img src="galerijdefinitievekleur.jpg" width="50%"> Omdat ik nog niet tevreden was met de kleuren van mijn website, ik vond ze te fel en niet natuurlijk genoeg, heb ik verschillende combinaties uitgeprobeerd. Uiteindelijk heb ik op de homepage het donkerblauw aangepast naar een nog diepere blauwtint, en zijn de twee verschillende groentinten veranderd naar een wat meer moerasgroen.
+
+<img src="focuskleurtoevoegen.jpg" width="50%"> Uit mijn toegankelijkheidstest bleek dat er een duidelijke focuskleur nodig was voor het navigeren met de Tab-toets. Ik heb ervoor gekozen om deze kleur per pagina aan te passen: omdat de drie pagina's elk een eigen kleurenpalet hebben, zorgt een afgestemde focuskleur voor het beste contrast en een duidelijkere weergave.
+
 checkout
 
 1. Waar staat WCAG en A11y voor?
@@ -42,6 +53,7 @@ Aan = command f5
 verder = tab
 terug = shift tab
 kiezen = enter
+venstermenu = control option u
 
 Checkout
 
@@ -58,12 +70,17 @@ zicht, cognitief, consentratie
 Tab, Tab shift, enter,
 
 ### 26 sept
-<img src="idk.jpg" width="50%">
-<img src="bd9c2410-ffa9-4e7d-88b4-b35f1f9295f3.JPG" width="50%">
+<img src="idk.jpg" width="50%"> bi-weekly geek
 <img src="C Welingelichte Cookie Consent.jpg" width="50%">
 
 
-### 21 sept check out
+### 21 sept light en dark mode knop
+<img src="lightdarkknop.jpg" width="50%"> Na veel onderzoeken en uitproberen, is het mij gelukt om de light en dark mode knop toe te voegen.
+
+<img src="lightdarkknop2.jpg" width="50%">
+
+<img src="lightdarkknopobstacel.jpg" width="50%"> Ik had onderweg een brobleem. De blauwe achtergront was zwart geworden.
+
 1. Wat zijn HTML landmark role elements?
 
 De tags die dingen groeperen: main,footer,header etc.
@@ -89,7 +106,8 @@ Ik ga daarom nu in mijn learning log alle keuzes op een rijtje zetten en duideli
 
 deze heb ik nu toegevoegd aan mijn scherm "galerij"
 
-### 18 sept check out
+### 18 sept check out en retrospect opdracht
+<img src="bd9c2410-ffa9-4e7d-88b4-b35f1f9295f3.JPG" width="50%"> retrospect opdracht
 
 Oriënteren en begrijpen
 
@@ -170,11 +188,12 @@ Ik vond het leuk om te werken aan een idee waar ik heel verheugd van werd. Ik vo
 <img src="lightmode.jpg" width="50%">
 <img src="darkmode.jpg" width="50%">
 
-### 15 sept Deep dive
+### 15 sept Deep dive grid
 <img src="grid1.jpg" width="50%">
 <img src="grid2.jpg" width="50%">
 
 ### 14 sept
+Poging tot toevoegen van light en dark mode toggel, met de svg's.
 <img src="code1.jpg" width="50%">
 <img src="code2.jpg" width="50%">
 
@@ -188,17 +207,17 @@ de deepdives toepassen, css gebruiken
 
 3. Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
 
-Ik heb aan mijn tweetal beschreven wat mijn plan is voor mijn website
+Ik heb aan mijn tweetal beschreven wat mijn plan is voor mijn website. Veel foto's toevoegen. Light en dark effect. Weinig tekst.
 
 
-### 13 sept
-<img src="web1.jpg" width="50%">
+### 13 sept, font
+<img src="web1.jpg" width="50%"> Font toegepast op mijn website.
 
-### 11 sept deep dive grid en les
+### 11 sept schermschetsen
 <img src="schermen 1.jpg" width="50%">
 <img src="schermen 2.jpg" width="50%">
 
-### 10 sept Deep dive gradient en scherm schetsen
+### 10 sept Deep dive gradient
 Geoefend met verschillende gardients maken:
 
 <img src="gradients.jpg" width="50%">
@@ -208,7 +227,8 @@ Geoefend met verschillende gardients maken:
 <img src="1.jpg" width="50%">
 <img src="2.jpg" width="50%">
 <img src="crazy 8.jpg" width="50%">
-<img src="visualr.jpg" width="50%">
+
+<img src="visualr.jpg" width="50%"> Uit mijn visuele onderzoek kwam naar voren dat ik voor mijn lettertype graag een vrije, natuurlijke vorm wilde. Dit past goed bij mijn onderwerp en vind ik zelf ook heel mooi.
 
 
 1. Leg uit waar het Visual Research in 3 stappen naartoe werkt
@@ -224,18 +244,21 @@ Kijkers overhalen meer activiteiten in de bergen te doen om ervoor te zorgen dat
 In mijn eerste schets heb ik een zon die in een maan veranderd, geschetst. Het idee daaracht is dat als je er op klikt je overstapt van ligt naar dark mode. Dit vond ik zelf echt een leuk idee dus ik zou het wel heel leuk vinf=den als ik dit in mijn tuintje kan verwerken.
 
 ### 8 sept Deep dive: light and dark mode
+Foto's van de opdracht die ik heb gemaak. Ik heb veel van deze deep dive geleerd en veel inspiratie opgedaan. Bij 1 oktober leg ik uit wat voor inspiratie.
 
 <img src="makkie.jpg" width="50%">
 <img src="kipkakie.jpg" width="50%">
 <img src="katten.jpg" width="50%">
 
 
-### 7 sept
+### 7 sept website analyseren
 Samenwerking in groepjes van 4:
 
-<img src="web analyse samen.jpg" width="50%">
-<img src="website inspo analyse indif.jpg" width="50%">
-<img src="web inspo tekst samenvatting.jpg" width="50%">
+<img src="web analyse samen.jpg" width="50%"> In een groepje de websites analyseren.
+
+<img src="website inspo analyse indif.jpg" width="50%"> Websites onderzoeken/kijken hoe webby ze zijn.
+
+<img src="web inspo tekst samenvatting.jpg" width="50%"> Onderzoek naar wat een digital graden is.
 
 1. Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website:
 
