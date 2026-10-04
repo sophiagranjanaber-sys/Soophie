@@ -3,6 +3,22 @@
 ### 3 okt feedback van Vasilis verwerken en retrospect opdacht
 <img src="altweggehaald.jpg" width="50%"> Bij de toegankelijkheids test stond er voor decoratieve afbeeldingen een lege alt te plaatsen. Daarom heb ik dat bij alle foto's gedaan. Vasilis heeft me tijdens het feedback moment verteld dat het belangrijk is bij deze afbeeldingen wel alt neer te zetten omdat het het belangrijkste deel van de pagina is.
 
+<img src="retrospect2.1.jpg" width="50%">
+<img src="retrospect2.2.jpg" width="50%">
+<img src="retrospect2.3.jpg" width="50%">
+
+### 2 okt wcag checklist
+<img src="wcag1.jpg" width="50%">
+<img src="wcag2.jpg" width="50%">
+<img src="wcag3.jpg" width="50%">
+<img src="wcag4.jpg" width="50%"> Ik moet nu nog uitvogelen hoe ik horizontal scroling weghaal en captions en transscript toevoeg.
+
+<img src="toegankelijkheidstest.jpeg" width="50%">
+<img src="toegankelijkheidstest2.jpeg" width="50%">
+<img src="toegankelijkheidstest3.jpeg" width="50%">
+<img src="toegankelijkheidstest4.jpeg" width="50%">
+<img src="toegankelijkheidstest1.jpeg" width="50%"> Dit heb ik verbeterd en is nu allemaal goed.
+
 ### 1 okt keuzes
 Waarom heb ik voor dit font gekozen?
 
@@ -48,6 +64,9 @@ Met screenreader. Ik heb daar geen geduld voor.
 Ik denk niet dat ik daardoor heel erg beperkt word in het ontwerpen. Maar het zijn wel veel dingen waar ik rekening mee moet houden.
 
 ### 28 sept
+<img src="bi-weeklygeek1.jpg" width="50%">
+<img src="bi-weeklygeek2.jpg" width="50%">
+
 Toetsenbord en screenreader:
 Aan = command f5
 verder = tab
@@ -108,6 +127,9 @@ deze heb ik nu toegevoegd aan mijn scherm "galerij"
 
 ### 18 sept check out en retrospect opdracht
 <img src="bd9c2410-ffa9-4e7d-88b4-b35f1f9295f3.JPG" width="50%"> retrospect opdracht
+<img src="retrospect1.1.jpg" width="50%">
+<img src="retrospect1.2.jpg" width="50%">
+<img src="retrospect1.3.jpg" width="50%">
 
 Oriënteren en begrijpen
 
