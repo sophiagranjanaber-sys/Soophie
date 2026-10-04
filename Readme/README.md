@@ -231,13 +231,13 @@ de deepdives toepassen, css gebruiken
 
 Ik heb aan mijn tweetal beschreven wat mijn plan is voor mijn website. Veel foto's toevoegen. Light en dark effect. Weinig tekst.
 
-
 ### 13 sept, font
 <img src="web1.jpg" width="50%"> Font toegepast op mijn website.
 
 ### 11 sept schermschetsen
 <img src="schermen 1.jpg" width="50%">
 <img src="schermen 2.jpg" width="50%">
+<img src="schets3.jpg" width="50%">
 
 ### 10 sept Deep dive gradient
 Geoefend met verschillende gardients maken:
