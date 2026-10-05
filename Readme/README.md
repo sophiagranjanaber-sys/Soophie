@@ -1,5 +1,45 @@
 ## Learning Log
 
+### 5 okt checkout
+1. Leg uit wat er met de volgende termen bedoeld wordt: 
+
+kerning: De afstand tussen letters in een woord verkleinen of vergroten om het leesbaarden te maken. 
+
+tracking: Ruimtes over meer het algemeel. bijv woordt ruimte of alinea etc
+
+leading: ruimte tussen 2 regels
+
+flush-left: een regelmatig beginpunt van de zin. Alles staat netjes tegen de linker kantlijn
+
+flush-right: alles tegen rechter kantlijn
+
+centered: kantlijn in het midden van het blad 
+
+justified indent: Tegen bijde kantlijnen. Waardoor het een rechthoek wordt
+
+outdent: De eerste lijn zien er anders uit dan de rest.
+
+modular scale: Nette manier om dingen te schalen.
+
+movable type: Een printer waarbij ze letters verplaatsen om verschillende prints te maken.
+
+focus punt: Verschil in groote van lettertypen dat zorgt voor een focus 
+
+vijf soorten contrast: Typografie, groot klein, kleur, positie, witruimtes
+
+spatial tension: witruimte om een emotie neer te zetten.
+
+
+2. Wat is jouw ideale regellengte (measure)? Leg uit waarom.
+
+Tussen 40 en 60 px omdat dat het meest leesbaar is.
+
+3. Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
+
+grootte  
+
+
+
 ### 3 okt feedback van Vasilis verwerken en retrospect opdacht
 <img src="altweggehaald.jpg" width="50%"> Bij de toegankelijkheids test stond er voor decoratieve afbeeldingen een lege alt te plaatsen. Daarom heb ik dat bij alle foto's gedaan. Vasilis heeft me tijdens het feedback moment verteld dat het belangrijk is bij deze afbeeldingen wel alt neer te zetten omdat het het belangrijkste deel van de pagina is.
 
