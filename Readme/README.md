@@ -4,6 +4,9 @@
 <img src="interesanterelayouts.jpg" width="50%">
 <img src="interesanterelayouts2.jpg" width="50%">
 
+<img src="horizontalscroling2.jpg" width="50%">
+<img src="horizontalscroling.jpg" width="50%"> Ik heb hier met Vasilis gekeken waarom er een horizontal scrol zat in mijn website op de telefoon. Dit heb ik daarna in mijn code toegepast.
+
 ### 5 okt checkout
 1. Leg uit wat er met de volgende termen bedoeld wordt: 
 
