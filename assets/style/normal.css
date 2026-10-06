@@ -48,16 +48,18 @@ form label {
 /* 3. Standaard (Light mode actief): Toon zon, verberg maan */
 img.zon {
     display: block;
-    width: 500px;
+    width: 100vw;
     height: auto;
     margin-top: -50px;
+    max-width: 500px;
 }
 
 img.maan {
     display: none;
-    width: 500px;
+    width: 100vw;
     height: auto;
     margin-top: -100px;
+    max-width: 500px;
 }
 
 body {

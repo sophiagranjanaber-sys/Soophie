@@ -1,5 +1,9 @@
 ## Learning Log
 
+### deepdive intresantere layout
+<img src="interesanterelayouts.jpg" width="50%">
+<img src="interesanterelayouts2.jpg" width="50%">
+
 ### 5 okt checkout
 1. Leg uit wat er met de volgende termen bedoeld wordt: 
 
@@ -47,11 +51,21 @@ grootte
 <img src="retrospect2.2.jpg" width="50%">
 <img src="retrospect2.3.jpg" width="50%">
 
+Feedback van Vasilis:
+
+- Wat meer focusen op onderzoek doen naar cookies en de cookie popupp toevoegen, daarna verder met je website. Want je website ziet er goed uit, het is te zien dat je dat leuk leuk vindt.
+
+- schetsen maken voor cookie popupp
+
+- wcag checklist moet nog afgemaakt worden
+
+- Oefenen met screenreader
+
 ### 2 okt wcag checklist
 <img src="wcag1.jpg" width="50%">
 <img src="wcag2.jpg" width="50%">
 <img src="wcag3.jpg" width="50%">
-<img src="wcag4.jpg" width="50%"> Ik moet nu nog uitvogelen hoe ik horizontal scroling weghaal en captions en transscript toevoeg.
+<img src="wcag4.jpg" width="50%"> Na de eerste test heb ik bijna alles verbeterd. Ik moet nu nog uitvogelen hoe ik horizontal scroling weghaal en captions en transscript toevoeg.
 
 <img src="toegankelijkheidstest.jpeg" width="50%">
 <img src="toegankelijkheidstest2.jpeg" width="50%">
@@ -76,6 +90,10 @@ Hoe ben ik op het idee van de zon en de maan gekomen?
 
 Tijdens de light/dark mode deep dive gaf Vasilis aan dat hij het vaak te veel moeite vindt om een schakelaar op een website te zetten, en hij vroeg wie daar nu eigenlijk echt op klikt. Mijn reactie was direct: “Ik klik daar altijd op, vind ik leuk om te zien!” Tijdens de les ben ik gaan nadenken over hoe ik zo'n interactieve toggle in mijn eigen website kon verwerken, terwijl ik tegelijkertijd leerde welke technische mogelijkheden er allemaal waren met CSS. Zo ontstond het idee om de dag en nachtstand visueel te koppelen aan een zon en een maan, bovenop de bergen.
 
+Waarom heb ik toch geen pagina over wildkamperen gemaakt?
+
+Zelf heb ik weinig ervaring met wildkamperen, terwijl boulderen juist een grote passie van me is. Het leek me daarom veel interessanter en echter om een pagina te maken aan een onderwerp waar ik zelf actief mee bezig ben en mijn eigen foto's en video's voor kan gebruiken.
+
 ### 30 sept kleur aanpassen
 <img src="toggeltoegevoegd.jpg" width="50%"> Uit mijn toegankelijkheids test bleek dat de zon/maan niet bereikbaar waren met tab. Dit kwam omdat er geen toggel zichtbaar was. Dus om dit op te lossen heb ik toch een zichtbare toggel toegevoegd.
 
@@ -97,7 +115,7 @@ Met screenreader. Ik heb daar geen geduld voor.
 
 3. Met welke beperking rekening houden vind je het meest lastig?
 
- Blind
+Blind
 
 4. Vind je dat je beperkt wordt in wat je kunt ontwerpen? Of heb je al manieren gevonden om vanuit een solide basis  - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?
 
@@ -271,8 +289,9 @@ de deepdives toepassen, css gebruiken
 
 Ik heb aan mijn tweetal beschreven wat mijn plan is voor mijn website. Veel foto's toevoegen. Light en dark effect. Weinig tekst.
 
-### 13 sept, font
+### 13 sept, font en feedback
 <img src="web1.jpg" width="50%"> Font toegepast op mijn website.
+<img src="feedback1.jpg" width="50%"> Dit heb ik nu in mijn website gedaan. Ik vond dit een goed idee omdat ik daardoor beter 1 idee kan uitwerken in plaats van verschillende ideetjes minder goed afgewerkt laten.
 
 ### 11 sept schermschetsen
 <img src="schermen 1.jpg" width="50%">
