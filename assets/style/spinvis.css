@@ -1,0 +1,147 @@
+/* MARK: fonts */
+@font-face {
+  font-family: "Seraphs";
+  src: url(../type/SeraphsVF.woff2); /* Modern Browsers */
+}
+
+body {
+  margin: 5.5555vh 5.5555vw;
+  display: grid;
+  font-family: "Seraphs";
+  text-align: center;
+
+  @media (width > 50em) {
+    grid-template-columns: 1fr 30em;
+    align-items: start;
+  }
+}
+
+/*h1 {
+  @media (width > 50em) {
+    position: sticky;
+    top: 0;
+  }
+}*/
+
+main {
+  max-width: 60em;
+  container-type: inline-size;
+
+  @media (width > 50em) {
+    margin-left: -30vi;
+  }
+}
+
+h1 {
+  font-size: clamp(2em, 9vi, 7em);
+  margin: 0;
+  font-variation-settings:
+    "wght" 150,
+    "SRFS" 40;
+
+  @media (width > 50em) {
+  position: sticky;
+  top: 0;
+  writing-mode: sideways-lr;
+  }
+}
+/* Elke opeenvolgende letter i een stukje groter maken */
+h1 span:nth-of-type(1) {
+  font-size: 1.2em;
+  font-variation-settings:
+    "wght" 120,
+    "SRFS" 40;
+}
+
+h1 span:nth-of-type(2) {
+  font-size: 1.4em;
+  font-variation-settings:
+    "wght" 110,
+    "SRFS" 40;
+}
+
+h1 span:nth-of-type(3) {
+  font-size: 1.6em;
+  font-variation-settings:
+    "wght" 100,
+    "SRFS" 40;
+}
+
+h1 span:nth-of-type(4) {
+  margin-left: 0.4em;
+}
+
+h2 {
+  font-size: clamp(1em, 6vi, 7em);
+  font-variation-settings: 
+    "wght" 167, 
+    "SRFS" 60;
+}
+
+h3 {
+  font-size: clamp(2em, 5.5vi, 7em);
+  font-variation-settings:
+    "wght" 100,
+    "SRFS" 40;
+}
+
+h3 span:nth-of-type(1) {
+  font-size: 1.4em;
+  font-weight: 150;
+}
+
+h3 span:nth-of-type(2) {
+  font-size: 1.7em;
+  font-weight: 130;
+}
+
+h3 span:nth-of-type(3) {
+  margin-left: 0.6em;
+}
+
+p {
+  font-size: clamp(1em, 3.5vi, 7em);
+  font-variation-settings:
+    "wght" 130,
+    "SRFS" 12;
+}
+
+p span:nth-of-type(1) {
+  font-size: 4.3vi;
+}
+
+p span:nth-of-type(2) {
+  font-size: 4.8vi;
+}
+
+p span:nth-of-type(3) {
+  font-size: clamp(0.5em, 3.2vi, 7em);
+}
+
+p span:nth-of-type(4) {
+  font-size: clamp(0.5em, 3vi, 7em);
+}
+
+p span:nth-of-type(5) {
+  font-size: clamp(0.5em, 2.8vi, 7em);
+}
+
+p:nth-of-type(3) {
+  font-variation-settings:
+    "wght" 200,
+    "SRFS" 12;
+  font-size: clamp(1em, 4.5vi, 7em);
+}
+
+
+p:nth-of-type(4) {
+  letter-spacing: 0.3em;
+  font-size: 3vi;
+  font-variation-settings:
+    "wght" 150,
+    "SRFS" 12;
+
+  @media (width < 50em) {
+    font-size: 4.4vi;
+  }
+}

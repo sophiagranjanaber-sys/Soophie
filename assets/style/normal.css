@@ -86,7 +86,10 @@ header {
 
 nav {
   order: -1;
+  
 }
+
+
 
 nav ul {
   display: flex;
@@ -183,4 +186,11 @@ main > button {
   width:6em;
   aspect-ratio:1;
   border: radius 3em;;
+}
+
+@media (max-width: 25em) {
+  nav ul{
+    flex-direction: column;
+    align-items: stretch; 
+  }
 }
