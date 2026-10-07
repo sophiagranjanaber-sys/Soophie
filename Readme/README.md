@@ -1,5 +1,8 @@
 ## Learning Log
 
+### Spinvis - voor ik vergeet
+<img src="voorikvergeet.jpg" width="50%">
+
 ### deepdive intresantere layout
 <img src="interesanterelayouts.jpg" width="50%">
 <img src="interesanterelayouts2.jpg" width="50%">
