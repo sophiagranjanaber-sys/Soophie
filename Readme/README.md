@@ -1,11 +1,25 @@
 ## Learning Log
 
 ### Spinvis - voor ik vergeet
-<img src="voorikvergeet.jpg" width="50%">
+<img src="geencookies.jpg" width="50%">
+<img src="geencookies2.jpg" width="50%">
+<img src="geencookies3.jpg" width="50%">
+
+<img src="headercode.jpg" width="50%">
+<img src="geensticky.jpg" width="50%">
+
+<img src="horizontalescrol.jpg" width="50%">
+<img src="horizontalescrolcode.jpg" width="50%">
+
+<img src="voorikvergeet1.jpg" width="50%"> Hier is mijn schets vertaling naar html/css te zien van een deel van de lyrics van voor ik vergeet. Ik zou graag later nog meer dingentjes willen toevoegen zoals een scheve titel. Ik nu vooral erop gelet dat het zo goed mogelijk leest zoal het in het nummer echt wordt uitgesproken. Door de letters binnen een woord kleiner of groter te laten worden hoop ik over te brengen dat de toon omhoog gaat. 
+
+Ik heb de letters groter gemaakt door een span binnen een h of p te zetten:
+
+<img src="lettervergotenmetspan.jpg" width="50%">
 
 ### deepdive intresantere layout
 <img src="interesanterelayouts.jpg" width="50%">
-<img src="interesanterelayouts2.jpg" width="50%">
+<img src="interesanterelayout2.jpg" width="50%">
 
 <img src="horizontalscroling2.jpg" width="50%">
 <img src="horizontalscroling.jpg" width="50%"> Ik heb hier met Vasilis gekeken waarom er een horizontal scrol zat in mijn website op de telefoon. Dit heb ik daarna in mijn code toegepast.

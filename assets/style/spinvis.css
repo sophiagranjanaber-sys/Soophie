@@ -5,7 +5,7 @@
 }
 
 body {
-  margin: 5.5555vh 5.5555vw;
+  margin: 3vh 5vw;
   display: grid;
   font-family: "Seraphs";
   text-align: center;
@@ -16,20 +16,21 @@ body {
   }
 }
 
-/*h1 {
-  @media (width > 50em) {
-    position: sticky;
-    top: 0;
-  }
-}*/
+header {
+  height: 100%; /* Zonder deze tag bleef de header niet sticky */
+}
 
 main {
-  max-width: 60em;
+  max-width: 90em;
   container-type: inline-size;
 
   @media (width > 50em) {
-    margin-left: -30vi;
+    margin-left: -20vi;
   }
+
+  @media (width > 70em) {
+    margin-left: -40vi;
+  }  
 }
 
 h1 {
@@ -41,8 +42,18 @@ h1 {
 
   @media (width > 50em) {
   position: sticky;
-  top: 0;
+  top: 8vh;
   writing-mode: sideways-lr;
+  margin-left: -1.5vi;
+  font-size: clamp(2em, 10vi, 7em);
+  }
+
+  @media (width > 70em) {
+  position: sticky;
+  top: 5vh;
+  writing-mode: sideways-lr;
+  margin-left: -1.5vi;
+  font-size: clamp(2em, 11vi, 20em);
   }
 }
 /* Elke opeenvolgende letter i een stukje groter maken */
@@ -100,30 +111,31 @@ h3 span:nth-of-type(3) {
 }
 
 p {
-  font-size: clamp(1em, 3.5vi, 7em);
+  font-size: clamp(1em, 3.5vi, 10em);
   font-variation-settings:
     "wght" 130,
     "SRFS" 12;
 }
 
-p span:nth-of-type(1) {
-  font-size: 4.3vi;
+p:nth-of-type(2) {
+  margin-block: 2em; /* Zorgt voor extra witruimte boven en onder */
+  font-size: 5vi
 }
 
-p span:nth-of-type(2) {
-  font-size: 4.8vi;
+p:nth-of-type(2) span:nth-of-type(1) {
+  font-size: 5.5vi;
 }
 
-p span:nth-of-type(3) {
-  font-size: clamp(0.5em, 3.2vi, 7em);
+p:nth-of-type(2) span:nth-of-type(2) {
+  font-size: 6vi;
 }
 
-p span:nth-of-type(4) {
+p:nth-of-type(2) span:nth-of-type(3) {
+  font-size: clamp(0.5em, 3.6vi, 7em);
+}
+
+p:nth-of-type(2) span:nth-of-type(4) {
   font-size: clamp(0.5em, 3vi, 7em);
-}
-
-p span:nth-of-type(5) {
-  font-size: clamp(0.5em, 2.8vi, 7em);
 }
 
 p:nth-of-type(3) {
@@ -132,7 +144,6 @@ p:nth-of-type(3) {
     "SRFS" 12;
   font-size: clamp(1em, 4.5vi, 7em);
 }
-
 
 p:nth-of-type(4) {
   letter-spacing: 0.3em;
@@ -144,4 +155,90 @@ p:nth-of-type(4) {
   @media (width < 50em) {
     font-size: 4.4vi;
   }
+}
+
+p:nth-of-type(6) {
+  margin-top: 2.5em; /* Zorgt voor extra witruimte boven en onder */
+}
+
+p:nth-of-type(7) {
+  margin-bottom: 2.5em; /* Zorgt voor extra witruimte boven en onder */
+}
+
+p:nth-of-type(8) span:nth-of-type(1) { 
+  margin-left: 1em;
+}
+
+p:nth-of-type(8) {
+  font-variation-settings: 
+  "wght" 200, 
+  "SRFS" 60;
+  font-size: clamp(1em, 4.5vi, 7em);
+}
+
+p:nth-of-type(9) {
+  font-variation-settings: 
+  "wght" 100, 
+  "SRFS" 60;
+  font-size: clamp(1em, 3vi, 7em);
+}
+
+p:nth-of-type(9) span:nth-of-type(1) {
+  font-size: clamp(1em, 3.2vi, 7em);
+}
+
+p:nth-of-type(9) span:nth-of-type(2) {
+  font-size: clamp(1em, 3.4vi, 7em);
+}
+
+p:nth-of-type(9) span:nth-of-type(3) {
+  font-size: clamp(1em, 3.6vi, 7em);
+}
+
+p:nth-of-type(9) span:nth-of-type(4) {
+  font-size: 2.8vi;
+}
+
+p:nth-of-type(9) span:nth-of-type(5) {
+  font-size: 2.6vi;
+}
+
+p:nth-of-type(9) span:nth-of-type(6) {
+  font-size: 2.4vi;
+}
+
+p:nth-of-type(9) span:nth-of-type(7) {
+  font-size: 2.3vi;
+}
+
+p:nth-of-type(10) {
+  font-size: 2.8vi;
+}
+
+p:nth-of-type(10) span:nth-of-type(1) {
+  margin-left: 1.7em;
+}
+
+p:nth-of-type(10) span:nth-of-type(2) {
+  margin-left: 1.7em;
+}
+
+p:nth-of-type(10) {
+  margin-block: 2em;
+}
+
+p:nth-of-type(11) span:nth-of-type(1) {
+  font-size: 5vi;
+}
+
+p:nth-of-type(11) span:nth-of-type(2) {
+  font-size: 5.5vi;
+}
+
+p:nth-of-type(11) {
+  font-variation-settings:
+    "wght" 100,
+    "SRFS" 43;
+  font-size: 4.4vi;
+  margin-block: 2em;
 }
