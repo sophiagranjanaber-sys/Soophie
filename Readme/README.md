@@ -25,7 +25,7 @@ Ik heb de letters groter gemaakt door een span binnen een h of p te zetten:
 <img src="lettervergotenmetspan.jpg" width="50%">
 
 ### deepdive intresantere layout
-<img src="interesanterelayouts.jpg" width="50%">
+<img src="Interesanterelayouts.jpg" width="50%">
 <img src="interesanterelayout2.jpg" width="50%">
 
 <img src="horizontalscroling2.jpg" width="50%">
