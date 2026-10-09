@@ -149,8 +149,8 @@ Blind
 Ik denk niet dat ik daardoor heel erg beperkt word in het ontwerpen. Maar het zijn wel veel dingen waar ik rekening mee moet houden.
 
 ### 28 sept
-<img src="bi-weeklygeek1.jpg" width="50%">
-<img src="bi-weeklygeek2.jpg" width="50%">
+<img src="Bi-weeklygeek1.jpg" width="50%">
+<img src="Bi-weeklygeek2.jpg" width="50%">
 
 Toetsenbord en screenreader:
 Aan = command f5
