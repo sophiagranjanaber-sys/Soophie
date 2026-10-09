@@ -1,4 +1,11 @@
 ## Learning Log
+### check out - 9 okt
+1. Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
+
+
+2. Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchie of de uitstraling die je wil bereiken)?
+
+3. Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken?
 
 ### Spinvis - voor ik vergeet
 <img src="geencookies.jpg" width="50%">
@@ -9,9 +16,9 @@
 <img src="geensticky.jpg" width="50%">
 
 <img src="horizontalescrol.jpg" width="50%">
-<img src="horizontalescrolcode.jpg" width="50%">
+<img src="horizontalscrolcode.jpg" width="50%"> ik heb straten en examens en vakanties aan elkaar geschreven omdat het in het nummer ook klinkt alsof het 1 woord is. Omdat het daardoor 1 heel lang woord wordt had ik
 
-<img src="voorikvergeet1.jpg" width="50%"> Hier is mijn schets vertaling naar html/css te zien van een deel van de lyrics van voor ik vergeet. Ik zou graag later nog meer dingentjes willen toevoegen zoals een scheve titel. Ik nu vooral erop gelet dat het zo goed mogelijk leest zoal het in het nummer echt wordt uitgesproken. Door de letters binnen een woord kleiner of groter te laten worden hoop ik over te brengen dat de toon omhoog gaat. 
+<img src="Voorikvergeet1.jpg" width="50%"> Hier is mijn schets vertaling naar html/css te zien van een deel van de lyrics van voor ik vergeet. Ik zou graag later nog meer dingentjes willen toevoegen zoals een scheve titel. Ik nu vooral erop gelet dat het zo goed mogelijk leest zoal het in het nummer echt wordt uitgesproken. Door de letters binnen een woord kleiner of groter te laten worden hoop ik over te brengen dat de toon omhoog gaat. 
 
 Ik heb de letters groter gemaakt door een span binnen een h of p te zetten:
 

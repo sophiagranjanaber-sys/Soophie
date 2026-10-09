@@ -4,6 +4,15 @@
   src: url(../type/SeraphsVF.woff2); /* Modern Browsers */
 }
 
+@keyframes --gnome-animation {
+  0% {
+    rotate: 0turn;
+  }
+  100% {
+    rotate: 1turn;
+  }
+}
+
 body {
   margin: 3vh 5vw;
   display: grid;
@@ -40,6 +49,10 @@ h1 {
     "wght" 150,
     "SRFS" 40;
 
+  animation-name: --gnome-animation;
+  animation-duration: 2s;
+  animation-iteration-count: 4;
+
   @media (width > 50em) {
   position: sticky;
   top: 8vh;
@@ -56,7 +69,7 @@ h1 {
   font-size: clamp(2em, 11vi, 20em);
   }
 }
-/* Elke opeenvolgende letter i een stukje groter maken */
+
 h1 span:nth-of-type(1) {
   font-size: 1.2em;
   font-variation-settings:
@@ -151,7 +164,7 @@ p:nth-of-type(4) {
   font-variation-settings:
     "wght" 150,
     "SRFS" 12;
-
+  
   @media (width < 50em) {
     font-size: 4.4vi;
   }
@@ -180,7 +193,7 @@ p:nth-of-type(9) {
   font-variation-settings: 
   "wght" 100, 
   "SRFS" 60;
-  font-size: clamp(1em, 3vi, 7em);
+  font-size: clamp(0.1em, 3vi, 7em);
 }
 
 p:nth-of-type(9) span:nth-of-type(1) {
