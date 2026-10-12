@@ -4,15 +4,6 @@
   src: url(../type/SeraphsVF.woff2); /* Modern Browsers */
 }
 
-@keyframes --gnome-animation {
-  0% {
-    rotate: 0turn;
-  }
-  100% {
-    rotate: 1turn;
-  }
-}
-
 body {
   margin: 3vh 5vw;
   display: grid;
@@ -26,7 +17,15 @@ body {
 }
 
 header {
-  height: 100%; /* Zonder deze tag bleef de header niet sticky */
+  @media (width > 50em) {
+    position: sticky;
+    top: 8vh;
+  }
+
+  @media (width > 70em) {
+    position: sticky;
+    top: 5vh;
+  }
 }
 
 main {
@@ -49,21 +48,13 @@ h1 {
     "wght" 150,
     "SRFS" 40;
 
-  animation-name: --gnome-animation;
-  animation-duration: 2s;
-  animation-iteration-count: 4;
-
   @media (width > 50em) {
-  position: sticky;
-  top: 8vh;
   writing-mode: sideways-lr;
   margin-left: -1.5vi;
   font-size: clamp(2em, 10vi, 7em);
   }
 
   @media (width > 70em) {
-  position: sticky;
-  top: 5vh;
   writing-mode: sideways-lr;
   margin-left: -1.5vi;
   font-size: clamp(2em, 11vi, 20em);
@@ -92,7 +83,7 @@ h1 span:nth-of-type(3) {
 }
 
 h1 span:nth-of-type(4) {
-  margin-left: 0.4em;
+  margin-left: 2em;
 }
 
 h2 {

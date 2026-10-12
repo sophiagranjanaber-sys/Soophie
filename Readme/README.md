@@ -1,22 +1,28 @@
 ## Learning Log
-### check out - 9 okt
-1. Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
+### feedback, check out en animatie deepdive - 9 okt
+<img src="animatiedeepdive.jpg" width="50%">
 
+Feedback Vasilis:
+Alles heel erg overdrijven in grootes en afstalden in je lyrics zodat het minder rommelig lijkt. Mischien dat het er daarna nog steeds niet goed uitziet maar het brengt vaak wel ideeën op
+
+1. Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
+aangepaste weight en serifs
 
 2. Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchie of de uitstraling die je wil bereiken)?
+
 
 3. Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken?
 
 ### Spinvis - voor ik vergeet
 <img src="geencookies.jpg" width="50%">
 <img src="geencookies2.jpg" width="50%">
-<img src="geencookies3.jpg" width="50%">
+<img src="geencookies3.jpg" width="50%"> Voor mijn cookie-popup heb ik onderzocht welke cookies mijn website gebruikt. Hieruit bleek dat de site momenteel helemaal geen cookies plaatst. Ik heb daarom aan Vasilis gevraagd of ik functionaliteiten met cookies moest toevoegen, of dat ik fictieve cookies mocht gebruiken. Omdat het om een prototype gaat, adviseerde hij om gewoon zelf een cookie te bedenken.
 
 <img src="headercode.jpg" width="50%">
-<img src="geensticky.jpg" width="50%">
+<img src="geensticky.jpg" width="50%"> Mijn header bleef niet sticky. Om dit op te lossen had ik height: 100% toegevoegd. Daarna heb ik met Vasilis gekeken waarom het niet werkte, dit kwam omdat ik position: sticky in de h1 heb gezet. Dus nu heb ik dit aangepast.
 
 <img src="horizontalescrol.jpg" width="50%">
-<img src="horizontalscrolcode.jpg" width="50%"> ik heb straten en examens en vakanties aan elkaar geschreven omdat het in het nummer ook klinkt alsof het 1 woord is. Omdat het daardoor 1 heel lang woord wordt had ik
+<img src="horizontalscrolcode.jpg" width="50%"> ik heb "straten en examens en vakanties" aan elkaar geschreven omdat het in het nummer klinkt alsof het 1 woord is. Ik heb daardoor wel moeite gehald met horizontale scrol. Om dat op te lossen heb ik 2 media queries toegevoegd.
 
 <img src="Voorikvergeet1.jpg" width="50%"> Hier is mijn schets vertaling naar html/css te zien van een deel van de lyrics van voor ik vergeet. Ik zou graag later nog meer dingentjes willen toevoegen zoals een scheve titel. Ik nu vooral erop gelet dat het zo goed mogelijk leest zoal het in het nummer echt wordt uitgesproken. Door de letters binnen een woord kleiner of groter te laten worden hoop ik over te brengen dat de toon omhoog gaat. 
 
