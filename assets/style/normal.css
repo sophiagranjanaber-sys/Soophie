@@ -137,7 +137,7 @@ main {
     overflow: hidden;
 }
 
-main a {
+main > a {
     position: absolute;
     top: 5%;                 
     right: 15%;               
