@@ -158,34 +158,9 @@ main a:hover img {
     transform: scale(1.15);
 }
 
-button {
-  padding:.5em 1em;
-	
-	appearance:none;
-  background-color:#333;
-	border:solid .225em white;
-  
-	color:white;
-	line-height:1.25;
-	font-size:1em;
-	
-  cursor:pointer;
-}
-
 :focus-visible {
   outline:solid .3rem rgb(207, 21, 21);
   outline-offset:.15rem;
-}
-
-main > button {
-	position:fixed;
-	right: 3em;;
-	bottom: 3em;;
-	z-index:1;
-	
-  width:6em;
-  aspect-ratio:1;
-  border: radius 3em;;
 }
 
 @media (max-width: 25em) {
@@ -193,4 +168,95 @@ main > button {
     flex-direction: column;
     align-items: stretch; 
   }
+}
+
+.cookie-trigger {
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  border-radius: 999px;
+  border: 1px solid currentColor;
+  background: transparent;
+  font-size: clamp(1em, 3vi, 7em);
+  display: inline-flex;
+  flex-direction: row;  
+  justify-content: center;                 
+}
+
+.cookie-trigger span {
+  font-family: "indieflower", sans-serif;
+}
+
+.cookie-trigger img {
+  width: clamp(2em, 4vi, 7em);
+  height: clamp(2em, 4vi, 7em);
+  display: block;
+}
+
+dialog {
+  border: none;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  width: min(90vw, 28rem); 
+  box-sizing: border-box;  
+  background-color: #33073c;
+}
+
+dialog::backdrop {
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(2px);
+}
+
+p{
+  color: white;
+  font-size: clamp(1em, 1.5vi, 5em);
+}
+
+.cookie-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-size: clamp(1em, 2vi, 5em);
+  color: white;
+}
+
+.dialog-cookie-icon {
+  width: 3rem;
+  height: 3rem;
+}
+
+.cookie-actions {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap; 
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.cookie-actions button {
+  font-family: "indieflower";
+  font-size: 1.5em;
+  background-color: #f7e788;
+  border-radius: 3em;
+  width: 7em;
+  border: none
+}
+
+.cookie-actions button:hover{
+  font-family: "indieflower";
+  font-size: 1.5em;
+  background-color: #f5d004;
+  border-radius: 3em;
+  width: 7em;
+  border: none
+}
+
+dialog p a {
+  color: #f7e788;          
+  text-decoration: underline;
+}
+
+dialog p a:hover {
+  color: #f5d004;
 }

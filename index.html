@@ -11,52 +11,63 @@
   </head>
 
   <body>
-      <header>
-        <nav>
-          <ul>
-              <li><a href="/" aria-current="page">Home</a></li>
-              <li><a href="klimmen.html">Klimmen</a></li>
-              <li><a href="foto.html">Galerij</a></li>
-              <li><a href="spinvis.html">spinvis</a></li>
-          </ul>
-        </nav>
+    <header>
+      <nav>
+        <ul>
+            <li><a href="/" aria-current="page">Home</a></li>
+            <li><a href="klimmen.html">Klimmen</a></li>
+            <li><a href="foto.html">Galerij</a></li>
+            <li><a href="spinvis.html">spinvis</a></li>
+        </ul>
+      </nav>
 
-        <h1>Digitale bergen van Soophi</h1>
+      <h1>Digitale bergen van Soophi</h1>
+        
+      <form>
+          <input type="radio" name="theme" id="light-mode" checked />
+          <input type="radio" name="theme" id="dark-mode" />
+          <label for="dark-mode">
+            <img class="zon" src="homepage/zonnetje.svg" alt="Schakel naar donkere modus" />
+          </label>
+          <label for="light-mode">
+            <img class="maan" src="homepage/maan.svg" alt="Schakel naar lichte modus" />
+          </label>
+      </form>
+    </header>
+
+    <main>
+      <img src="homepage/collagebergenkopie.png" alt=""/>
+
+      <a href="klimmen.html">
+        <img src="homepage/boulderen.png" alt="klim foto's, filmpjes en beschrijvingen" />
+      </a>
+
+      <button class="cookie-trigger" aria-label="Open cookie-instellingen">
+        <img src="homepage/cookies.svg" alt="" aria-hidden="true">
+        <span>Cookies</span>
+      </button>
+
+      <dialog>
+        <form method="dialog">
+
+          <div class="cookie-header">
+            <img src="homepage/cookies.svg" alt="" class="dialog-cookie-icon" aria-hidden="true">
+            <h2>cookies?</h2>
+          </div>
           
-        <form>
-            <input type="radio" name="theme" id="light-mode" checked />
-            <input type="radio" name="theme" id="dark-mode" />
-            <label for="dark-mode">
-                <img class="zon" src="homepage/zonnetje.svg" alt="Schakel naar donkere modus" />
-            </label>
-            <label for="light-mode">
-                <img class="maan" src="homepage/maan.svg" alt="Schakel naar lichte modus" />
-            </label>
+          <p>Deze website gebruikt alleen de verplichte cookies die door de hostingprovider zijn ingesteld om de site goed en veilig te laten functioneren. Er zijn door ons geen tracking- of advertentiecookies toegevoegd. Voor meer informatie kunt u de <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">Algemene privacyverklaring</a> lezen
+          </p>
+
+          <div class="cookie-actions">
+            <button type="submit" value="afwijzen">afwijzen</button>
+            <button type="submit" value="accepteren">accepteren</button>
+          </div>
+
         </form>
+      </dialog>
+    </main>
 
-      </header>
+    <script src="script.js" defer></script>
 
-      
-
-      <main>
-          <img src="homepage/collagebergenkopie.png" alt=""/>
-          <a href="klimmen.html">
-            <img src="homepage/boulderen.png" alt="klim foto's, filmpjes en beschrijvingen" />
-          </a>
-
-          <button>cookies</button>
-		
-		<dialog>
-			<form method="dialog">
-				<h2>cookies?</h2>
-				<button class="close" aria-label="sluit hulp">X</button>
-				<p>Deze website gebruikt alleen de verplichte cookies die door de hostingprovider zijn ingesteld om de site goed en veilig te laten functioneren. Er zijn door ons geen tracking- of advertentiecookies toegevoegd. Voor meer informatie kunt u de
-                    <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">Algemene privacyverklaring</a>
-                </p>
-				<button type="submit">afwijzen</button>
-                <button type="submit">accepteren</button>
-			</form>
-		</dialog>
-      </main>
   </body>
 </html>
