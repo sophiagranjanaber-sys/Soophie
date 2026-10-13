@@ -2,7 +2,7 @@
 ### cookies popup ontwerpen
 <img src="cookies1.jpg" width="50%">
 <img src="cookies2.jpg" width="50%">
-<img src="cookies3.png" width="50%">hhh
+<img src="cookies3.png" width="50%">
 
 ### feedback, check out en animatie deepdive - 9 okt
 <img src="animatiedeepdive.jpg" width="50%">
