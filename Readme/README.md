@@ -241,7 +241,7 @@ deze heb ik nu toegevoegd aan mijn scherm "galerij"
 <img src="bd9c2410-ffa9-4e7d-88b4-b35f1f9295f3.JPG" width="50%"> retrospect opdracht
 <img src="retrospect1.1.jpg" width="50%">
 <img src="retrospect1.2.jpg" width="50%">
-<img src="retrospect1.3.jpg" width="50%">
+<img src="retrospect1.3.jpg" width="50%"> Ik heb hier een stad gemaakt met wolken krabbers maar ook lage huizen in gekke vormen omdat de laatste 2 weken voor mij heel erg varieerde in of het goed of wat minder goed ging en het voelde ook allemaal een beetje gek omdat ik net uit de lange vakantie kom.
 
 Oriënteren en begrijpen
 
@@ -320,7 +320,7 @@ Ik vond het leuk om te werken aan een idee waar ik heel verheugd van werd. Ik vo
 
 ### 16 sept dark en light mode toegepast op website
 <img src="lightmode.jpg" width="50%">
-<img src="darkmode.jpg" width="50%">
+<img src="darkmode.jpg" width="50%"> met aria-current="page" wordt de pagina knop home licht blauw omdat de website zich daar bevint.
 
 ### 15 sept Deep dive grid
 <img src="grid1.jpg" width="50%">
@@ -344,7 +344,7 @@ de deepdives toepassen, css gebruiken
 Ik heb aan mijn tweetal beschreven wat mijn plan is voor mijn website. Veel foto's toevoegen. Light en dark effect. Weinig tekst.
 
 ### 13 sept, font en feedback
-<img src="web1.jpg" width="50%"> Font toegepast op mijn website.
+<img src="web1.jpg" width="50%"> Font toegepast op mijn website. Hierbij heb ik @fontface gebruikt. Ik heb ook een light en darkmode gemaakt met custom properties. Met de light en dark mode wil ik een effect maken dat het dag of nacht is in de bergen.
 <img src="feedback1.jpg" width="50%"> Dit heb ik nu in mijn website gedaan. Ik vond dit een goed idee omdat ik daardoor beter 1 idee kan uitwerken in plaats van verschillende ideetjes minder goed afgewerkt laten.
 
 ### 11 sept schermschetsen
@@ -364,6 +364,8 @@ Geoefend met verschillende gardients maken:
 <img src="crazy 8.jpg" width="50%">
 
 <img src="visualr.jpg" width="50%"> Uit mijn visuele onderzoek kwam naar voren dat ik voor mijn lettertype graag een vrije, natuurlijke vorm wilde. Dit past goed bij mijn onderwerp en vind ik zelf ook heel mooi.
+
+Verder had ik al bedacht om een collage van verschillende berg foto's te maken. Omdat ik veel mooie bergen heb gezien op mijn vakanties vond ik dit een leuke manier om die allemaal te kunnen laten zien.
 
 
 1. Leg uit waar het Visual Research in 3 stappen naartoe werkt

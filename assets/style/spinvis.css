@@ -122,7 +122,7 @@ p {
 }
 
 p:nth-of-type(2) {
-  margin-block: 2em; /* Zorgt voor extra witruimte boven en onder */
+  margin-block: 2em; 
   font-size: 5vi
 }
 
@@ -162,11 +162,11 @@ p:nth-of-type(4) {
 }
 
 p:nth-of-type(6) {
-  margin-top: 2.5em; /* Zorgt voor extra witruimte boven en onder */
+  margin-top: 2.5em; 
 }
 
 p:nth-of-type(7) {
-  margin-bottom: 2.5em; /* Zorgt voor extra witruimte boven en onder */
+  margin-bottom: 2.5em; 
 }
 
 p:nth-of-type(8) span:nth-of-type(1) { 

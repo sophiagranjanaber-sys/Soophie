@@ -10,22 +10,19 @@
   font-style: normal;
 }
 
-/* 1. Standaard staat de pagina op light mode */
 html {
   color-scheme: light;
-
+  
   --background: light-dark(skyblue, #091540);
   --color: light-dark(black, white);
   --buttonbackground: light-dark(#091540, skyblue);
   --buttontekst: light-dark(white, black);
 }
 
-/* 2. Zodra op de zon is geklikt (#dark-mode wordt actief): schakel color-scheme om naar dark */
 html:has(#dark-mode:checked) {
   color-scheme: dark;
 }
 
-/* 3. Afbeeldingen tonen/verbergen op basis van de gekozen modus */
 html:has(#dark-mode:checked) img.zon {
   display: none;
 }
@@ -35,31 +32,29 @@ html:has(#dark-mode:checked) img.maan {
 }
 
 form input[type="radio"]:focus-visible + label {
-    outline: 3px solid;
-    outline-offset: 4px;
+  outline: 3px solid;
+  outline-offset: 4px;
 }
 
-/* 2. Zorg dat de muis verandert in een handje */
 form label {
-    cursor: pointer;
-    display: inline-block;
+  cursor: pointer;
+  display: inline-block;
 }
 
-/* 3. Standaard (Light mode actief): Toon zon, verberg maan */
 img.zon {
-    display: block;
-    width: 100vw;
-    height: auto;
-    margin-top: -50px;
-    max-width: 500px;
+  display: block;
+  width: 100vw;
+  height: auto;
+  margin-top: -50px;
+  max-width: 500px;
 }
 
 img.maan {
-    display: none;
-    width: 100vw;
-    height: auto;
-    margin-top: -100px;
-    max-width: 500px;
+  display: none;
+  width: 100vw;
+  height: auto;
+  margin-top: -100px;
+  max-width: 500px;
 }
 
 body {
@@ -86,10 +81,7 @@ header {
 
 nav {
   order: -1;
-  
 }
-
-
 
 nav ul {
   display: flex;
@@ -131,31 +123,31 @@ main > img{
 }
 
 main {
-    position: relative;
-    width: 100%;
-    margin-top: 1rem;
-    overflow: hidden;
+  position: relative;
+  width: 100%;
+  margin-top: 1rem;
+  overflow: hidden;
 }
 
 main > a {
-    position: absolute;
-    top: 5%;                 
-    right: 15%;               
-    z-index: 10;
-    display: block;
-    cursor: pointer;
+  position: absolute;
+  top: 5%;                 
+  right: 15%;               
+  z-index: 10;
+  display: block;
+  cursor: pointer;
 }
 
 main a img {
-    width: 10rem;            
-    height: auto;
-    display: block;
-    pointer-events: none;
-    transition: transform 0.2s ease;
+  width: 10rem;            
+  height: auto;
+  display: block;
+  pointer-events: none;
+  transition: transform 0.2s ease;
 }
 
 main a:hover img {
-    transform: scale(1.15);
+  transform: scale(1.15);
 }
 
 :focus-visible {
