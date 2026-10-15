@@ -1,24 +1,42 @@
 ## Learning Log
 ### cookies popup ontwerpen
 <img src="cookies1.jpg" width="50%">
-<img src="cookies2.jpg" width="50%">
+<img src="cookies2.jpg" width="50%"> Ik heb hier verschillende tekeningen gemaakt voor mijn cookie popup. Uiteindelijk heb ik gekozen voor de paars gele popup. Ik vond die kleuren het beste bij elkaar passen en ook bij de rest van mijn website. Paars is een kleur die ik nog niet had gebruikt en ik hebruik voor elk scherm een andere kleuren combinatie. Ondanks dat er  nog geen paars in zat vond ik het wel goed passend bij de donkeren marine en groene kleuren.
+
 <img src="cookies3.png" width="50%">
 
 ### feedback, check out en animatie deepdive - 9 okt
-<img src="animatiedeepdive.jpg" width="50%">
+<img src="animatiedeepdive.jpg" width="50%"> Ik heb hier de oefeningentjes gedaan van de deep dive. Het heeft me nog geen inspiratie gegeven hoe ik het kan toepassen op mijn lyrics.
+
+Het nummer van Spinvis vind ik een uitdagend stuk om vorm te geven. Het is een rustig nummer waarin juist de poëzie van de tekst centraal staat. Mijn eerste gevoel was daarom dat het overmatig uitvergroten van de typografiegeen goed effect zou hebben aan die subtiliteit. Tegelijkertijd ben ik nog niet tevreden met het huidige resultaat. Om het ontwerp naar een hoger niveau te brengen en nieuwe invalshoeken te ontdekken, ga ik de feedback van Vasilis volgen: juist wél bewust te gaan overdrijven. Door die overdrijvingen in vormgeving uit te proberen, wil ik onderzoeken hoe ik het nummer meer visuele expressie kan geven zonder de rustige poëzie te verliezen.
 
 Feedback Vasilis:
+
 Alles heel erg overdrijven in grootes en afstalden in je lyrics zodat het minder rommelig lijkt. Mischien dat het er daarna nog steeds niet goed uitziet maar het brengt vaak wel ideeën op
 
 1. Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
-aangepaste weight en serifs
+
+Aangepaste weight en serifs
 
 2. Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchie of de uitstraling die je wil bereiken)?
 
+Ik zorg voor visuele hiërarchie en contrast door een schommelingen in dikte te maken. daarmee stuur ik de blik van de gebruiker een beetje aan. Stevige zinnen of woorden eisen als eerste de aandacht op. Door binnen 1 woord de letters groter te laten worden wil ik overbrengen dat het woord steeds hoger in toon wordt uitgesproken.
+
+Sfeer en uitstraling: De fijnere lijnen van de dunnere letters van bepaalde woorden roepen een gevoel van rust, nuance en zachtheid op.
 
 3. Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken?
 
+Omdat het nummer subtiele melodische modulaties en toonhoogteverschillen heeft die niet plotseling omslaan, sluit een vloeiende, golvende animatie hier goed bij aan.
+
 ### Spinvis - voor ik vergeet
+<img src="voorik1.jpg" width="50%">
+<img src="voorik2.jpg" width="50%">
+<img src="voorik3.jpg" width="50%">
+<img src="voorik4.jpg" width="50%">
+<img src="voorik5.jpg" width="50%">
+<img src="voorik6.jpg" width="50%">
+<img src="voorik7.jpg" width="50%"> Achteraf gezien had ik in mijn schetsfase meer kunnen variëren door actiever te experimenteren met verschillende vormen, groottes en witruimtes. Door dat breder te verkennen, was ik waarschijnlijk op meer ontwerpideeën uitgekomen.
+
 <img src="geencookies.jpg" width="50%">
 <img src="geencookies2.jpg" width="50%">
 <img src="geencookies3.jpg" width="50%"> Voor mijn cookie-popup heb ik onderzocht welke cookies mijn website gebruikt. Hieruit bleek dat de site momenteel helemaal geen cookies plaatst. Ik heb daarom aan Vasilis gevraagd of ik functionaliteiten met cookies moest toevoegen, of dat ik fictieve cookies mocht gebruiken. Omdat het om een prototype gaat, adviseerde hij om gewoon zelf een cookie te bedenken.
@@ -79,8 +97,6 @@ Tussen 40 en 60 px omdat dat het meest leesbaar is.
 3. Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
 
 grootte  
-
-
 
 ### 3 okt feedback van Vasilis verwerken en retrospect opdacht
 <img src="altweggehaald.jpg" width="50%"> Bij de toegankelijkheids test stond er voor decoratieve afbeeldingen een lege alt te plaatsen. Daarom heb ik dat bij alle foto's gedaan. Vasilis heeft me tijdens het feedback moment verteld dat het belangrijk is bij deze afbeeldingen wel alt neer te zetten omdat het het belangrijkste deel van de pagina is.
