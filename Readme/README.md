@@ -8,10 +8,13 @@ Omdat ik nog erg ontevreden was met mijn lyric ontwerp heb ik heel veel nieuwe s
 <img src="vergeet4.jpg" width="50%">
 <img src="vergeet5.jpg" width="50%">
 <img src="vergeet6.jpg" width="50%">
-<img src="vergeet7.jpg" width="50%">
+<img src="vergeet7.jpg" width="50%"> Bij deze schets wilde ik een animatie koppelen aan een specifiek geluid in de muziek. In het nummer hoor je een soort fonkeling die doet denken aan twinkelende sterren. Om dit visueel te vertalen, animeer ik de woorden appart van dik naar dun. Hierdoor hoop een sterreneffect na te maken dat het geluid in de tekst versterkt en er visueel mooi uitziet.
+
 <img src="vergeet8.jpg" width="50%">
 <img src="vergeet9.jpg" width="50%">
 <img src="vergeet10.jpg" width="50%">
+
+Omdat ik veel verschillende schetsen had gemaakt en twijfelde over de juiste samenhang, heb ik de meest interessante elementen uitgeknipt. Door losse onderdelen handmatig te combineren en te schuiven, kon ik verschillende lay-outs en combinaties direct vergelijken. Dit gaf mij inzicht in welke combinatie het meest passend was voor de uiteindelijke uitwerking in code.
 <img src="vergeet11.jpg" width="50%">
 <img src="vergeet12.jpg" width="50%">
 <img src="vergeet13.jpg" width="50%">
@@ -21,6 +24,9 @@ Omdat ik nog erg ontevreden was met mijn lyric ontwerp heb ik heel veel nieuwe s
 <img src="vergeet17.jpg" width="50%">
 <img src="vergeet18.jpg" width="50%">
 <img src="vergeet19.jpg" width="50%">
+
+
+<img src="nieuwecode.jpg" width="50%"> Bij het schrijven van deze code merk ik dat ik meer notities aan het schrijven ben en dat ik dat heel handig vind om te doen. Bij alle vorige codes die ik heb geschreven heb ik af en toe een paar notities gezet maar is het vooral code.
 
 ### cookies popup ontwerpen
 <img src="cookies1.jpg" width="50%">

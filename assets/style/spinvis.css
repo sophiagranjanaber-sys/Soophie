@@ -1,247 +1,61 @@
-/* MARK: fonts */
 @font-face {
   font-family: "Seraphs";
   src: url(../type/SeraphsVF.woff2); /* Modern Browsers */
 }
 
 body {
-  margin: 3vh 5vw;
-  display: grid;
-  font-family: "Seraphs";
-  text-align: center;
+  padding: 4rem; /* Wit ruimte links en boven */
+  box-sizing: border-box;
+  font-family: "seraphs", sans-serif;
 
-  @media (width > 50em) {
-    grid-template-columns: 1fr 30em;
-    align-items: start;
+  @media (width < 30em) {
+    padding: 2rem;
   }
-}
-
-header {
-  @media (width > 50em) {
-    position: sticky; /* zorgt ervoor dat de header vast staat */
-    top: 8vh;
-  }
-
-  @media (width > 70em) { 
-    position: sticky;
-    top: 5vh; /* zodat de header netjes in het midden blijft */
-  }
-}
-
-main {
-  max-width: 90em;
-  container-type: inline-size;
-
-  @media (width > 50em) {
-    margin-left: -20vi;
-  }
-
-  @media (width > 70em) {
-    margin-left: -40vi;
-  }  
 }
 
 h1 {
-  font-size: clamp(2em, 9vi, 7em);
-  font-variation-settings:
-    "wght" 150,
-    "SRFS" 40;
-
-  @media (width > 50em) {
-  writing-mode: sideways-lr;
-  margin-left: -1.5vi;
-  font-size: clamp(2em, 10vi, 7em);
-  }
-
-  @media (width > 70em) {
-  writing-mode: sideways-lr;
-  margin-left: -1.5vi;
-  font-size: clamp(2em, 11vi, 20em);
-  }
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  line-height: 1; /* Ruimte tussen de woorden boven en onder */
 }
 
-h1 span:nth-of-type(1) {
-  font-size: 1.2em;
-  font-variation-settings:
-    "wght" 120,
-    "SRFS" 40;
+h1 div {
+  display: flex;
+  align-items: baseline; /* Zorgt dat de kleine en grote woorden op dezelfde lijn staan */
+  gap: .5rem; /* Ruimte tussen het kleine en grote woord */
 }
 
-h1 span:nth-of-type(2) {
-  font-size: 1.4em;
-  font-variation-settings:
-    "wght" 110,
-    "SRFS" 40;
-}
-
-h1 span:nth-of-type(3) {
-  font-size: 1.6em;
-  font-variation-settings:
-    "wght" 100,
-    "SRFS" 40;
-}
-
-h1 span:nth-of-type(4) {
-  margin-left: 2em;
-}
-
-h2 {
-  font-size: clamp(1em, 6vi, 7em);
+h1 span {
+  font-size: clamp(1em, 8vi, 6em);
   font-variation-settings: 
     "wght" 167, 
     "SRFS" 60;
 }
 
-h3 {
-  font-size: clamp(2em, 5.5vi, 7em);
-  font-variation-settings:
-    "wght" 100,
-    "SRFS" 40;
+h1 div:nth-of-type(2) {
+  margin-left: 4rem; /* Schuift de hele regel iets naar rechts */
 }
 
-h3 span:nth-of-type(1) {
-  font-size: 1.4em;
-  font-weight: 150;
+/* kleine 'voor' voor het grote 'ik' */
+h1 div:nth-of-type(2) span:nth-of-type(1) {
+  font-size: clamp(.4em, 3vi, 3em);
+  font-variation-settings: "wght" 300;
 }
 
-h3 span:nth-of-type(2) {
-  font-size: 1.7em;
-  font-weight: 130;
+h1 div:nth-of-type(3) {
+  margin-left: 9rem; /* Schuift deze regel nog wat verder naar rechts */
 }
 
-h3 span:nth-of-type(3) {
-  margin-left: 0.6em;
-}
-
-p {
-  font-size: clamp(1em, 3.5vi, 10em);
-  font-variation-settings:
-    "wght" 130,
-    "SRFS" 12;
-}
-
-p:nth-of-type(2) {
-  margin-block: 2em; 
-  font-size: 5vi
-}
-
-p:nth-of-type(2) span:nth-of-type(1) {
-  font-size: 5.5vi;
-}
-
-p:nth-of-type(2) span:nth-of-type(2) {
-  font-size: 6vi;
-}
-
-p:nth-of-type(2) span:nth-of-type(3) {
-  font-size: clamp(0.5em, 3.6vi, 7em);
-}
-
-p:nth-of-type(2) span:nth-of-type(4) {
-  font-size: clamp(0.5em, 3vi, 7em);
-}
-
-p:nth-of-type(3) {
-  font-variation-settings:
-    "wght" 200,
-    "SRFS" 12;
-  font-size: clamp(1em, 4.5vi, 7em);
-}
-
-p:nth-of-type(4) {
-  letter-spacing: 0.3em;
-  font-size: 3vi;
-  font-variation-settings:
-    "wght" 150,
-    "SRFS" 12;
-  
-  @media (width < 50em) {
-    font-size: 4.4vi;
-  }
-}
-
-p:nth-of-type(6) {
-  margin-top: 2.5em; 
-}
-
-p:nth-of-type(7) {
-  margin-bottom: 2.5em; 
-}
-
-p:nth-of-type(8) span:nth-of-type(1) { 
-  margin-left: 1em;
-}
-
-p:nth-of-type(8) {
+/* kleine 'ik' voor het grote 'vergeet' */
+h1 div:nth-of-type(3) span:nth-of-type(1) {
+  font-size: clamp(.4em, 3vi, 3em);
   font-variation-settings: 
-  "wght" 200, 
-  "SRFS" 60;
-  font-size: clamp(1em, 4.5vi, 7em);
+    "wght" 300;
 }
 
-p:nth-of-type(9) {
-  font-variation-settings: 
-  "wght" 100, 
-  "SRFS" 60;
-  font-size: clamp(0.1em, 3vi, 7em);
-}
-
-p:nth-of-type(9) span:nth-of-type(1) {
-  font-size: clamp(1em, 3.2vi, 7em);
-}
-
-p:nth-of-type(9) span:nth-of-type(2) {
-  font-size: clamp(1em, 3.4vi, 7em);
-}
-
-p:nth-of-type(9) span:nth-of-type(3) {
-  font-size: clamp(1em, 3.6vi, 7em);
-}
-
-p:nth-of-type(9) span:nth-of-type(4) {
-  font-size: 2.8vi;
-}
-
-p:nth-of-type(9) span:nth-of-type(5) {
-  font-size: 2.6vi;
-}
-
-p:nth-of-type(9) span:nth-of-type(6) {
-  font-size: 2.4vi;
-}
-
-p:nth-of-type(9) span:nth-of-type(7) {
-  font-size: 2.3vi;
-}
-
-p:nth-of-type(10) {
-  font-size: 2.8vi;
-}
-
-p:nth-of-type(10) span:nth-of-type(1) {
-  margin-left: 1.7em;
-}
-
-p:nth-of-type(10) span:nth-of-type(2) {
-  margin-left: 1.7em;
-}
-
-p:nth-of-type(10) {
-  margin-block: 2em;
-}
-
-p:nth-of-type(11) span:nth-of-type(1) {
-  font-size: 5vi;
-}
-
-p:nth-of-type(11) span:nth-of-type(2) {
-  font-size: 5.5vi;
-}
-
-p:nth-of-type(11) {
-  font-variation-settings:
-    "wght" 100,
-    "SRFS" 43;
-  font-size: 4.4vi;
-  margin-block: 2em;
+/* Regel 4: onderste regel 'Vergeten ben' */
+h1 div:nth-of-type(4) {
+  margin-top: 3rem; /* Extra afstand naar beneden zoals in je schets */
+  margin-left: 0;
 }
