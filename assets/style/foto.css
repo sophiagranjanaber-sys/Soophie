@@ -126,7 +126,7 @@ body > nav {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-wrap: wrap;
+    flex-wrap: wrap; /* automatisch volgende regel als het niet meer past */
     gap: 0.75rem;
     background-color: var(--buttonbackground);         
     width: 100%;                 

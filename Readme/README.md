@@ -1,4 +1,27 @@
 ## Learning Log
+### nieuwe schetsen voor lyrics
+Omdat ik nog erg ontevreden was met mijn lyric ontwerp heb ik heel veel nieuwe scheten gemaakt. de vorige keer had ik maar een paar schetsen gemaakt en er was weinig verandering per schets. Dit keer heb ik juist het tegenovergestelde gedaan omdat ik denk dat dat voor een beter resultaat gaat zorgen.
+
+<img src="vergeet1.jpg" width="50%">
+<img src="vergeet2.jpg" width="50%">
+<img src="vergeet3.jpg" width="50%">
+<img src="vergeet4.jpg" width="50%">
+<img src="vergeet5.jpg" width="50%">
+<img src="vergeet6.jpg" width="50%">
+<img src="vergeet7.jpg" width="50%">
+<img src="vergeet8.jpg" width="50%">
+<img src="vergeet9.jpg" width="50%">
+<img src="vergeet10.jpg" width="50%">
+<img src="vergeet11.jpg" width="50%">
+<img src="vergeet12.jpg" width="50%">
+<img src="vergeet13.jpg" width="50%">
+<img src="vergeet14.jpg" width="50%">
+<img src="vergeet15.jpg" width="50%">
+<img src="vergeet16.jpg" width="50%">
+<img src="vergeet17.jpg" width="50%">
+<img src="vergeet18.jpg" width="50%">
+<img src="vergeet19.jpg" width="50%">
+
 ### cookies popup ontwerpen
 <img src="cookies1.jpg" width="50%">
 <img src="cookies2.jpg" width="50%"> Ik heb hier verschillende tekeningen gemaakt voor mijn cookie popup. Uiteindelijk heb ik gekozen voor de paars gele popup. Ik vond die kleuren het beste bij elkaar passen en ook bij de rest van mijn website. Paars is een kleur die ik nog niet had gebruikt en ik hebruik voor elk scherm een andere kleuren combinatie. Ondanks dat er  nog geen paars in zat vond ik het wel goed passend bij de donkeren marine en groene kleuren.

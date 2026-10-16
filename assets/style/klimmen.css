@@ -19,7 +19,7 @@ html {
   --Jump: light-dark(#723a77, #3a023f);
   --hoverjump: light-dark(#3a023f, #723a77);
 
-  scroll-behavior: smooth;
+  scroll-behavior: smooth; /* zodat de scrol naar de foto's smooth gaat */
 }
 
 body {
@@ -28,18 +28,18 @@ body {
   color: var(--color);
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: center; /* elementen worden gecentreerd */
 }
 
 header nav {
-  order: -1;
+  order: -1; /* zodat navigatie menu helemaal bovenaan komt te staan */
 }
 
 nav ul {
-  display: flex;
+  display: flex; /* flexibele/mooie uitlijning van elkaar */
   gap: 10px;
   padding: 0;
-  list-style: none;
+  list-style: none; /* zonder opsommings puntjes */
 }
 
 nav li a {
@@ -54,7 +54,7 @@ nav li a {
 }
 
 nav li a:hover,
-nav li a[aria-current="page"] {
+nav li a[aria-current="page"] { /* de pagina waar de bezoeker zich nu bevind */
   background-color: var(--background);
   color: var(--color);
 }
@@ -68,7 +68,7 @@ h1 {
 
 img {
   width: 100%;
-  aspect-ratio: 1 / 1;
+  aspect-ratio: 1 / 1; /* de foto's allemaal in een vierkant */
   object-fit: cover;
   display: block;
   border-radius: 0.5rem;
@@ -85,7 +85,7 @@ main {
   padding: 1rem;
 }
 
-@media (min-width: 30rem) {
+@media (min-width: 30rem) { /* bij een smaller scherm staan er minder foto's naast elkaar */
   main {
     grid-template-columns: repeat(2, 1fr);
   }
@@ -99,5 +99,5 @@ main {
 
 :focus-visible {
   outline:solid .3rem rgb(75, 255, 47);
-  outline-offset:.15rem;
+  outline-offset:.15rem; /* creëert ruimte tussen het element en de lijn */
 }

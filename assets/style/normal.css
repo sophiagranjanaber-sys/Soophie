@@ -133,7 +133,7 @@ main > a {
   position: absolute;
   top: 5%;                 
   right: 15%;               
-  z-index: 10;
+  z-index: 10; /* zodat de foto van mij op de collage van de bergen zit en niet er naast of er boven */
   display: block;
   cursor: pointer;
 }
@@ -142,7 +142,6 @@ main a img {
   width: 10rem;            
   height: auto;
   display: block;
-  pointer-events: none;
   transition: transform 0.2s ease;
 }
 
@@ -232,7 +231,8 @@ p{
   background-color: #f7e788;
   border-radius: 3em;
   width: 7em;
-  border: none
+  border: none;
+  color: black; /* zodat het bij light mode ook zwart blijft */
 }
 
 .cookie-actions button:hover{

@@ -18,13 +18,13 @@ body {
 
 header {
   @media (width > 50em) {
-    position: sticky;
+    position: sticky; /* zorgt ervoor dat de header vast staat */
     top: 8vh;
   }
 
-  @media (width > 70em) {
+  @media (width > 70em) { 
     position: sticky;
-    top: 5vh;
+    top: 5vh; /* zodat de header netjes in het midden blijft */
   }
 }
 
@@ -43,7 +43,6 @@ main {
 
 h1 {
   font-size: clamp(2em, 9vi, 7em);
-  margin: 0;
   font-variation-settings:
     "wght" 150,
     "SRFS" 40;
