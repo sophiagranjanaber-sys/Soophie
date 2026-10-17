@@ -31,8 +31,9 @@ Omdat ik veel verschillende schetsen had gemaakt en twijfelde over de juiste sam
 <img src="vergeet23.jpg" width="50%">
 <img src="vergeet21.jpg" width="50%"> 
 <img src="vergeet22.jpg" width="50%"> 
+<img src="vergeet24.jpg" width="50%"> 
 
-Ik heb in html nog verschillende versies gemaakt omdat ik het zoals de schets toch niet goed vond. Daar heb ik allemaal screenshots van gemaakt zodat ik ze kan vergelijken en kan kiezen welke het beste is.
+Ik heb verschillende iteraties van mijn schetsen gemaakt, omdat de oorspronkelijke schets op de laptop er toch niet helemaal uitzach zoals wat ik wilde verbeelden. De vierkanten sloten visueel niet goed aan bij de rest van de compositie. Ook twijfelde ik over het toevoegen van de kleinere woorden 'voor' en 'ik'. Uiteindelijk heb ik hier bewust voor gekozen: de zin "voor ik vergeet" wordt in het nummer continu herhaald. Door alleen die twee kernwoorden subtiel te herhalen, visualiseer ik die herhaling zonder dat de volledige zin letterlijk terug hoeft te komen. Ik heb van alle tussenstappen screenshots gemaakt om de versies te vergelijken en tot de beste keuze te komen.
 
 ### 14 okt - cookies popup ontwerpen
 <img src="cookies1.jpg" width="50%">
