@@ -14,7 +14,7 @@ Omdat ik nog erg ontevreden was met mijn lyric ontwerp heb ik heel veel nieuwe s
 <img src="vergeet9.jpg" width="50%">
 <img src="vergeet10.jpg" width="50%">
 
-Omdat ik veel verschillende schetsen had gemaakt en twijfelde over de juiste samenhang, heb ik de meest interessante elementen uitgeknipt. Door losse onderdelen handmatig te combineren en te schuiven, kon ik verschillende lay-outs en combinaties direct vergelijken. Dit gaf mij inzicht in welke combinatie het meest passend was voor de uiteindelijke uitwerking in code.
+Omdat ik veel verschillende schetsen had gemaakt en twijfelde over de juiste samenhang, heb ik mijn favorieten stukjes uitgeknipt. Door losse onderdelen handmatig te combineren en te schuiven, kon ik verschillende lay-outs en combinaties direct vergelijken. Dit gaf mij inzicht in welke combinatie het meest passend was voor de uiteindelijke uitwerking in code.
 <img src="vergeet11.jpg" width="50%">
 <img src="vergeet12.jpg" width="50%">
 <img src="vergeet13.jpg" width="50%">
@@ -25,8 +25,14 @@ Omdat ik veel verschillende schetsen had gemaakt en twijfelde over de juiste sam
 <img src="vergeet18.jpg" width="50%">
 <img src="vergeet19.jpg" width="50%">
 
+<img src="nieuwecode.jpg" width="50%"> Bij het schrijven van deze code merk ik dat ik meer notities aan het schrijven ben en dat ik dat heel handig vind om te doen omdat ik alles makkelijker terug kan vinden en aanpassen. Bij alle vorige codes die ik heb geschreven heb ik af en toe een paar notities gezet maar is het vooral code.
 
-<img src="nieuwecode.jpg" width="50%"> Bij het schrijven van deze code merk ik dat ik meer notities aan het schrijven ben en dat ik dat heel handig vind om te doen. Bij alle vorige codes die ik heb geschreven heb ik af en toe een paar notities gezet maar is het vooral code.
+<img src="vergeet20.jpg" width="50%"> 
+<img src="vergeet23.jpg" width="50%">
+<img src="vergeet21.jpg" width="50%"> 
+<img src="vergeet22.jpg" width="50%"> 
+
+Ik heb in html nog verschillende versies gemaakt omdat ik het zoals de schets toch niet goed vond. Daar heb ik allemaal screenshots van gemaakt zodat ik ze kan vergelijken en kan kiezen welke het beste is.
 
 ### 14 okt - cookies popup ontwerpen
 <img src="cookies1.jpg" width="50%">
