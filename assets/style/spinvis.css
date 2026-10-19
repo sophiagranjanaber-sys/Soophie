@@ -7,12 +7,19 @@
   box-sizing: border-box; 
 }
 
+
+
+
+
 body {
   margin: 0;              /* Geen buitenrand in website */
   padding: 2.5rem 1.5rem; 
   font-family: "seraphs";
   overflow-x: hidden;     /* Geen horizontale schuifbalk op telefoon */
 }
+
+
+
 
 
 h1 {
@@ -66,11 +73,15 @@ h1 div:nth-of-type(4) span:nth-of-type(1){
     "SRFS" 42;   
 }
 
+
+
+
+
 h2 {
   position: relative;     
   width: min(100%, 28rem);
   height: 9rem;           /* Hoogte van de boog */
-  margin: 0 auto;         /* Centreert de boog */
+  margin: 0 auto;         /* Centreert de boog */ 
 }
 
 h2 span {
@@ -83,149 +94,142 @@ h2 span {
 }
 
 /* Coördinaten en rotaties voor letterboog */
-h2 span:nth-of-type(1)  { left: 3%;  top: 74%; transform: rotate(-55deg); }
-h2 span:nth-of-type(2)  { left: 8%;  top: 54%; transform: rotate(-44deg); }
-h2 span:nth-of-type(3)  { left: 14%; top: 37%; transform: rotate(-33deg); }
-h2 span:nth-of-type(4)  { left: 21%; top: 24%; transform: rotate(-24deg); }
-h2 span:nth-of-type(5)  { left: 28%; top: 14%; transform: rotate(-16deg); }
-h2 span:nth-of-type(6)  { left: 36%; top: 7%;  transform: rotate(-9deg);  }
-h2 span:nth-of-type(7)  { left: 44%; top: 3%;  transform: rotate(-3deg);  }
-h2 span:nth-of-type(8)  { left: 51%; top: 3%;  transform: rotate(3deg);   }
-h2 span:nth-of-type(9)  { left: 59%; top: 7%;  transform: rotate(9deg);   }
-h2 span:nth-of-type(10) { left: 67%; top: 14%; transform: rotate(17deg);  }
-h2 span:nth-of-type(11) { left: 74%; top: 24%; transform: rotate(26deg);  }
-h2 span:nth-of-type(12) { left: 81%; top: 38%; transform: rotate(36deg);  }
-h2 span:nth-of-type(13) { left: 88%; top: 54%; transform: rotate(47deg);  }
-h2 span:nth-of-type(14) { left: 93%; top: 74%; transform: rotate(57deg);  }
+h2 span:nth-of-type(1)  { left: 3%;  top: 74%; transform: rotate(-55deg); } /* k */
+h2 span:nth-of-type(2)  { left: 8%;  top: 54%; transform: rotate(-44deg); } /* o */
+h2 span:nth-of-type(3)  { left: 14%; top: 37%; transform: rotate(-33deg); } /* n */
+h2 span:nth-of-type(4)  { left: 21%; top: 24%; transform: rotate(-24deg); } /* i */
+h2 span:nth-of-type(5)  { left: 28%; top: 14%; transform: rotate(-16deg); } /* n */
+h2 span:nth-of-type(6)  { left: 36%; top: 7%;  transform: rotate(-9deg);  } /* g */
+h2 span:nth-of-type(7)  { left: 44%; top: 3%;  transform: rotate(-3deg);  } /* i */
+h2 span:nth-of-type(8)  { left: 51%; top: 3%;  transform: rotate(3deg);   } /* n */
+h2 span:nth-of-type(9)  { left: 59%; top: 7%;  transform: rotate(9deg);   } /* n */
+h2 span:nth-of-type(10) { left: 67%; top: 14%; transform: rotate(17deg);  } /* e */
+h2 span:nth-of-type(11) { left: 74%; top: 24%; transform: rotate(26deg);  } /* n */
+h2 span:nth-of-type(12) { left: 81%; top: 38%; transform: rotate(36deg);  } /* d */
+h2 span:nth-of-type(13) { left: 88%; top: 54%; transform: rotate(47deg);  } /* a */
+h2 span:nth-of-type(14) { left: 93%; top: 74%; transform: rotate(57deg);  } /* g */
+
+
+
 
 
 body > p {
   text-align: center;  
   font-size: clamp(1.1rem, 2.8vw, 1.4rem); 
   margin: 0.5rem 0 9rem 0; 
-  letter-spacing: 0.02em; /* Lichte spatiëring tussen letters voor leesbaarheid */
+  letter-spacing: 0.05em; 
   font-variation-settings: 
     "wght" 100, 
     "SRFS" 0;  
 }
 
-/* ==========================================================================
-   SECTIE 3: DE ONDERSTE CONTAINER (BEVAT DE DRIE VISUELE ONDERDELEN)
-   ========================================================================== */
 body > div {
-  display: flex;          /* Zet de drie alinea's naast elkaar */
-  justify-content: space-between; /* Verdeelt de ruimte tussen links, midden en rechts */
-  align-items: center;    /* Lijnt de onderdelen verticaal uit */
-  gap: 2rem;              /* Voorkomt dat elementen tegen elkaar botsen */
-  max-width: 65rem;       /* Voorkomt dat de layout op brede schermen te ver uitrekt */
-  margin: 0 auto;         /* Centreert het hele blok horizontaal */
+  display: flex;
+  justify-content: space-around; /* Zorgt voor overal evenveel tussenruimte */
+  max-width: 80rem; 
+  margin: 1rem auto; /* boven en onder, links en rechts */
+  padding: 1rem;
 }
 
-/* --------------------------------------------------------------------------
-   3A: LINKERBLOK ('En nieets meer weet van')
-   -------------------------------------------------------------------------- */
 body > div > p:nth-of-type(1) {
-  display: flex;          /* Flexbox voor de verspringende woorden */
-  flex-direction: column; /* Woorden verticaal onder elkaar gestapeld */
-  margin: 0;              /* Verwijdert standaard paragraafmarges */
-  line-height: 1.05;      /* Compacte regelafstand */
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  line-height: 1.05;
+  font-variation-settings: 
+    "wght" 100, 
+    "SRFS" 0;  
 }
 
 body > div > p:nth-of-type(1) span {
-  font-size: clamp(1.8rem, 4vw, 2.8rem); /* Grote, duidelijke letters */
-  font-weight: 400;                      /* Normale lijndikte */
+  font-size: clamp(1.1rem, 3vw, 3rem);
 }
 
-/* De dubbele 'e' in 'nieets': het tweede 'e'-tje is groter en verspringt */
-body > div > p:nth-of-type(1) span:nth-of-type(2) span {
-  font-size: 1.35em;      /* Maakt deze letter extra groot */
-  display: inline-block;  /* Noodzakelijk om te kunnen transformeren */
-  transform: translateY(0.12em); /* Laat de letter speels iets omlaag zakken */
+/* 2e e in nieeets */
+body > div > p:nth-of-type(1) span:nth-of-type(2) span:nth-of-type(1) {
+  font-size: clamp(1.3rem, 4vw, 3rem);
 }
 
-/* Het onderste woord 'van' */
+/* 3e e in nieeets */
+body > div > p:nth-of-type(1) span:nth-of-type(2) span:nth-of-type(2) {
+  font-size: clamp(1.4rem, 4.5vw, 3.5rem);
+}
+
 body > div > p:nth-of-type(1) span:nth-of-type(5) {
-  font-weight: 800;       /* Extra vetgedrukt volgens de schets */
-  margin-top: 0.8rem;     /* Extra witruimte boven het woord */
+  font-variation-settings: 
+    "wght" 150, 
+    "SRFS" 0;  
+  margin-top: 2rem;
 }
 
-/* --------------------------------------------------------------------------
-   3B: MIDDENBLOK (CIRKELTEKST MET STRATEN / VAKANTIES)
-   -------------------------------------------------------------------------- */
-body > div > p:nth-of-type(2) {
-  position: relative;     /* Zorgt dat de boven- en onderboog gepositioneerd kunnen worden */
-  width: clamp(11rem, 24vw, 15rem);  /* Vaste, schaalbare breedte */
-  height: clamp(11rem, 24vw, 15rem); /* Vaste, schaalbare hoogte (vierkant/cirkel) */
-  margin: 0 auto;         /* Centreert de cirkel */
+
+
+
+
+h3 {
+  position: relative;
+  width: 48vw;             
+  height: 48vw;
+  margin: 4rem auto; /* boven en onder, links en rechts */
 }
 
-/* Bovenste boog: 'Stratenenexamens' */
-body > div > p:nth-of-type(2) span:nth-of-type(1) {
+h3 span {
   position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
+  left: 50%;
+  top: 50%;
+  font-size: 3.5vw;          
+  font-variation-settings: 
+    "wght" 200, 
+    "SRFS" 60;
   text-align: center;
-  font-size: clamp(1rem, 2.3vw, 1.45rem);
-  font-weight: 700;
-  transform: rotate(-35deg); /* Roteert de tekst schuin over de bovenboog */
+  margin-left: -0.5em; 
 }
 
-/* Onderste boog: 'envakanties' */
-body > div > p:nth-of-type(2) span:nth-of-type(2) {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  text-align: center;
-  font-size: clamp(1.1rem, 2.5vw, 1.55rem);
-  font-weight: 700;
-  transform: rotate(25deg);  /* Roteert de tekst schuin over de onderboog */
-}
+/* bovenste boog */
+h3 span:nth-of-type(1)  { transform: rotate(-95deg) translateY(-17vw); } /* s */
+h3 span:nth-of-type(2)  { transform: rotate(-83deg) translateY(-17vw); } /* t */
+h3 span:nth-of-type(3)  { transform: rotate(-72deg) translateY(-17vw); } /* r */
+h3 span:nth-of-type(4)  { transform: rotate(-60deg) translateY(-17vw); } /* a */
+h3 span:nth-of-type(5)  { transform: rotate(-49deg) translateY(-17vw); } /* t */
+h3 span:nth-of-type(6)  { transform: rotate(-38deg) translateY(-17vw); } /* e */
+h3 span:nth-of-type(7)  { transform: rotate(-26deg) translateY(-17vw); } /* n */
+h3 span:nth-of-type(8)  { transform: rotate(-14deg) translateY(-17vw); } /* e */
+h3 span:nth-of-type(9)  { transform: rotate(-2deg)  translateY(-17vw); } /* n */
+h3 span:nth-of-type(10) { transform: rotate(10deg)  translateY(-17vw); } /* e */
+h3 span:nth-of-type(11) { transform: rotate(22deg)  translateY(-17vw); } /* x */
+h3 span:nth-of-type(12) { transform: rotate(34deg)  translateY(-17vw); } /* a */
+h3 span:nth-of-type(13) { transform: rotate(47deg)  translateY(-17vw); } /* m */
+h3 span:nth-of-type(14) { transform: rotate(62deg)  translateY(-17vw); } /* e */
+h3 span:nth-of-type(15) { transform: rotate(74deg)  translateY(-17vw); } /* n */
+h3 span:nth-of-type(16) { transform: rotate(86deg)  translateY(-17vw); } /* s */
 
-/* --------------------------------------------------------------------------
-   3C: RECHTERBLOK ('En ruzie op een feest')
-   -------------------------------------------------------------------------- */
-body > div > p:nth-of-type(3) {
-  display: flex;          /* Flexbox voor de regels */
-  flex-direction: column; /* Regels onder elkaar */
-  text-align: right;      /* Lijn de tekst strak uit naar rechts */
+/* onderste boog */
+h3 span:nth-of-type(17) { transform: rotate(50deg)  translateY(17vw); } /* e */
+h3 span:nth-of-type(18) { transform: rotate(40deg)  translateY(17vw); } /* n */
+h3 span:nth-of-type(19) { transform: rotate(30deg)  translateY(17vw); } /* v */
+h3 span:nth-of-type(20) { transform: rotate(20deg)  translateY(17vw); } /* a */
+h3 span:nth-of-type(21) { transform: rotate(10deg)  translateY(17vw); } /* k */
+h3 span:nth-of-type(22) { transform: rotate(0deg)   translateY(17vw); } /* a */
+h3 span:nth-of-type(23) { transform: rotate(-10deg) translateY(17vw); } /* n */
+h3 span:nth-of-type(24) { transform: rotate(-20deg) translateY(17vw); } /* t */
+h3 span:nth-of-type(25) { transform: rotate(-30deg) translateY(17vw); } /* i */
+h3 span:nth-of-type(26) { transform: rotate(-40deg) translateY(17vw); } /* e */
+h3 span:nth-of-type(27) { transform: rotate(-50deg) translateY(17vw); } /* s */
+
+
+
+
+body > div > p:last-of-type {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;          
+  text-align: right;
   margin: 0;
-  line-height: 1.25;
+  font-variation-settings: 
+    "wght" 100, 
+    "SRFS" 0;  
 }
 
-body > div > p:nth-of-type(3) span {
-  font-size: clamp(1rem, 2.2vw, 1.4rem); /* Vriendelijk, leesbaar formaat */
-  font-weight: 400;
-}
-
-/* ==========================================================================
-   MEDIA QUERIES (VOOR MOBIELE TELEFOONS EN SMALLE SCHERMEN)
-   ========================================================================== */
-@media (max-width: 680px) {
-  body {
-    padding: 1.5rem 1rem; /* Minder witruimte aan de schermrand op mobiel */
-  }
-
-  /* Onderste sectie vouwt verticaal onder elkaar op smalle telefoons */
-  body > div {
-    flex-direction: column; /* Onderdelen komen netjes onder elkaar te staan */
-    gap: 3.5rem;            /* Voldoende witruimte tussen de onderdelen */
-    align-items: stretch;   /* Benut de volledige breedte van het scherm */
-  }
-
-  /* Het linkerblok ('En niets meer weet van') blijft links */
-  body > div > p:nth-of-type(1) {
-    align-self: flex-start;
-  }
-
-  /* De cirkel blijft netjes in het midden */
-  body > div > p:nth-of-type(2) {
-    align-self: center;
-  }
-
-  /* Het rechterblok ('En ruzie op een feest') blijft netjes rechts uitgelijnd */
-  body > div > p:nth-of-type(3) {
-    align-self: flex-end;
-  }
+body > div > p:last-of-type span {
+  font-size: clamp(1.1rem, 3vw, 3rem);
 }
