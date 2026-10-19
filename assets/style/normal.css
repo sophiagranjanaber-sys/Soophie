@@ -137,6 +137,10 @@ main > a {
   z-index: 10; /* zodat de foto van mij op de collage van de bergen zit en niet er naast of er boven */
   display: block;
   cursor: pointer;
+
+  @media (max-width: 35em) {
+    
+  }
 }
 
 main a img {
@@ -144,6 +148,10 @@ main a img {
   height: auto;
   display: block;
   transition: transform 0.2s ease;
+
+  @media (max-width: 35em) {
+    width: 5rem;   
+  }
 }
 
 main a:hover img {
@@ -155,13 +163,16 @@ main a:hover img {
   outline-offset:.15rem;
 }
 
-@media (max-width: 25em) {
+/* zodat alle knoppen passen op een small scherm */
+@media (max-width: 35em) {
   nav ul{
     flex-direction: column;
     align-items: stretch; 
   }
 }
 
+
+/* COOKIES */
 .cookie-trigger {
   align-items: center;
   gap: 0.5rem;
