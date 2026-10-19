@@ -218,7 +218,7 @@ h3 span:nth-of-type(27) { transform: rotate(-50deg) translateY(17vw); } /* s */
 
 
 
-/* MARK: En ruzie op een feest */
+/* MARK: ruzie op feest */
 body > div:nth-of-type(1) > p:nth-of-type(2) {
   display: flex;
   flex-direction: column;
@@ -235,7 +235,7 @@ body > div:nth-of-type(1) > p:nth-of-type(2) span {
 }
 
 
-
+/* MARK: Biltstraat */
 body > div:nth-of-type(2) {
   display: flex;
   align-items: center;    
@@ -245,23 +245,14 @@ body > div:nth-of-type(2) {
   flex-direction: column;
 }
 
-/* Basisstijl voor beide alinea's */
 body > div:nth-of-type(2) > p {
   display: flex;
-  gap: 0.65rem;           /* Vaste spatie tussen de losse woorden */
+  gap: 1.65rem;           
   margin: 0;
   font-size: clamp(1.8rem, 4vw, 2.8rem);
   line-height: 1.2;
 }
 
-/* Standaard dunne/lichte stijl voor alle woorden */
-body > div:nth-of-type(2) > p > span {
-  font-variation-settings: 
-    "wght" 100, 
-    "SRFS" 0; 
-}
-
-/* --- Regel 1: 'in' (2e span) en 'Biltstraat' (4e span) vetgedrukt --- */
 body > div:nth-of-type(2) > p:first-of-type > span:nth-of-type(2),
 body > div:nth-of-type(2) > p:first-of-type > span:nth-of-type(4) {
   font-variation-settings: 
@@ -269,7 +260,6 @@ body > div:nth-of-type(2) > p:first-of-type > span:nth-of-type(4) {
     "SRFS" 0; 
 }
 
-/* --- Regel 2: 'ik' (2e span) en 'niemand' (4e span) vetgedrukt --- */
 body > div:nth-of-type(2) > p:last-of-type > span:nth-of-type(2),
 body > div:nth-of-type(2) > p:last-of-type > span:nth-of-type(4) {
   font-variation-settings: 
@@ -277,3 +267,45 @@ body > div:nth-of-type(2) > p:last-of-type > span:nth-of-type(4) {
     "SRFS" 0; 
 }
 
+@keyframes dunNaarDik {
+  0% {
+    font-variation-settings: 
+      "wght" 100, 
+      "SRFS" 0;
+  }
+  100% {
+    font-variation-settings: 
+      "wght" 200, 
+      "SRFS" 60;
+  }
+}
+
+@keyframes dikNaarDun {
+  0% {
+    font-variation-settings: 
+      "wght" 200, 
+      "SRFS" 60;
+  }
+  100% {
+    font-variation-settings: 
+      "wght" 100, 
+      "SRFS" 0;
+  }
+}
+
+body > div:nth-of-type(2) > p > span {
+  font-variation-settings: 
+    "wght" 100, 
+    "SRFS" 0;
+  animation: dunNaarDik 2s ease-in-out infinite alternate;
+}
+
+body > div:nth-of-type(2) > p:first-of-type > span:nth-of-type(2),
+body > div:nth-of-type(2) > p:first-of-type > span:nth-of-type(4),
+body > div:nth-of-type(2) > p:last-of-type > span:nth-of-type(2),
+body > div:nth-of-type(2) > p:last-of-type > span:nth-of-type(4) {
+  font-variation-settings: 
+    "wght" 200, 
+    "SRFS" 60;
+  animation: dikNaarDun 2s ease-in-out infinite alternate;
+}
