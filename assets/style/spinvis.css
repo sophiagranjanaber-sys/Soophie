@@ -113,7 +113,7 @@ h2 span:nth-of-type(14) { left: 93%; top: 74%; transform: rotate(57deg);  } /* g
 
 
 
-body > p {
+body > p:nth-of-type(1) {
   text-align: center;  
   font-size: clamp(1.1rem, 2.8vw, 1.4rem); 
   margin: 0.5rem 0 9rem 0; 
@@ -123,7 +123,7 @@ body > p {
     "SRFS" 0;  
 }
 
-body > div {
+body > div:nth-of-type(1) {
   display: flex;
   justify-content: space-around; /* Zorgt voor overal evenveel tussenruimte */
   max-width: 80rem; 
@@ -131,7 +131,7 @@ body > div {
   padding: 1rem;
 }
 
-body > div > p:nth-of-type(1) {
+body > div:nth-of-type(1) > p:nth-of-type(1) {
   display: flex;
   flex-direction: column;
   margin: 0;
@@ -141,21 +141,21 @@ body > div > p:nth-of-type(1) {
     "SRFS" 0;  
 }
 
-body > div > p:nth-of-type(1) span {
+body > div:nth-of-type(1) > p:nth-of-type(1) span {
   font-size: clamp(1.1rem, 3vw, 3rem);
 }
 
 /* 2e e in nieeets */
-body > div > p:nth-of-type(1) span:nth-of-type(2) span:nth-of-type(1) {
+body > div:nth-of-type(1) > p:nth-of-type(1) span:nth-of-type(2) span:nth-of-type(1) {
   font-size: clamp(1.3rem, 4vw, 3rem);
 }
 
 /* 3e e in nieeets */
-body > div > p:nth-of-type(1) span:nth-of-type(2) span:nth-of-type(2) {
+body > div:nth-of-type(1) > p:nth-of-type(1) span:nth-of-type(2) span:nth-of-type(2) {
   font-size: clamp(1.4rem, 4.5vw, 3.5rem);
 }
 
-body > div > p:nth-of-type(1) span:nth-of-type(5) {
+body > div:nth-of-type(1) > p:nth-of-type(1) span:nth-of-type(5) {
   font-variation-settings: 
     "wght" 150, 
     "SRFS" 0;  
@@ -218,8 +218,8 @@ h3 span:nth-of-type(27) { transform: rotate(-50deg) translateY(17vw); } /* s */
 
 
 
-
-body > div > p:last-of-type {
+/* MARK: En ruzie op een feest */
+body > div:nth-of-type(1) > p:nth-of-type(2) {
   display: flex;
   flex-direction: column;
   align-self: flex-end;          
@@ -230,6 +230,50 @@ body > div > p:last-of-type {
     "SRFS" 0;  
 }
 
-body > div > p:last-of-type span {
+body > div:nth-of-type(1) > p:nth-of-type(2) span {
   font-size: clamp(1.1rem, 3vw, 3rem);
 }
+
+
+
+body > div:nth-of-type(2) {
+  display: flex;
+  align-items: center;    
+  gap: 0.5rem;            
+  margin: 6rem auto;     
+  text-align: center;
+  flex-direction: column;
+}
+
+/* Basisstijl voor beide alinea's */
+body > div:nth-of-type(2) > p {
+  display: flex;
+  gap: 0.65rem;           /* Vaste spatie tussen de losse woorden */
+  margin: 0;
+  font-size: clamp(1.8rem, 4vw, 2.8rem);
+  line-height: 1.2;
+}
+
+/* Standaard dunne/lichte stijl voor alle woorden */
+body > div:nth-of-type(2) > p > span {
+  font-variation-settings: 
+    "wght" 100, 
+    "SRFS" 0; 
+}
+
+/* --- Regel 1: 'in' (2e span) en 'Biltstraat' (4e span) vetgedrukt --- */
+body > div:nth-of-type(2) > p:first-of-type > span:nth-of-type(2),
+body > div:nth-of-type(2) > p:first-of-type > span:nth-of-type(4) {
+  font-variation-settings: 
+    "wght" 200, 
+    "SRFS" 0; 
+}
+
+/* --- Regel 2: 'ik' (2e span) en 'niemand' (4e span) vetgedrukt --- */
+body > div:nth-of-type(2) > p:last-of-type > span:nth-of-type(2),
+body > div:nth-of-type(2) > p:last-of-type > span:nth-of-type(4) {
+  font-variation-settings: 
+    "wght" 200, 
+    "SRFS" 0; 
+}
+

@@ -31,6 +31,8 @@ html:has(#dark-mode:checked) img.maan {
   display: block;
 }
 
+
+
 form input[type="radio"]:focus-visible + label {
   outline: 3px solid;
   outline-offset: 4px;
@@ -80,6 +82,8 @@ header {
   align-items: center;
 }
 
+/* MARK: De Navigatie */
+
 nav {
   order: -1;
 }
@@ -90,6 +94,7 @@ nav ul {
   padding: 0;
   list-style: none;
 }
+
 
 nav li a {
   display: block;
