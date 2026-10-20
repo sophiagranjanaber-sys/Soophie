@@ -1,4 +1,25 @@
 ## Learning Log
+### 20 okt - lyric uitwerken
+<img src="nieuwecode.jpg" width="50%"> Bij het schrijven van deze code merk ik dat ik meer notities aan het schrijven ben en dat ik dat heel handig vind om te doen omdat ik alles makkelijker terug kan vinden en aanpassen. Bij alle vorige codes die ik heb geschreven heb ik af en toe een paar notities gezet maar is het vooral code.
+
+<img src="vergeet20.jpg" width="50%"> 
+<img src="vergeet23.jpg" width="50%">
+<img src="vergeet21.jpg" width="50%"> 
+<img src="vergeet22.jpg" width="50%"> 
+<img src="vergeet24.jpg" width="50%"> 
+
+Ik heb verschillende iteraties van mijn schetsen gemaakt, omdat de oorspronkelijke schets op de laptop er toch niet helemaal uitzach zoals wat ik wilde verbeelden. De vierkanten sloten visueel niet goed aan bij de rest van de compositie. Ook twijfelde ik over het toevoegen van de kleinere woorden 'voor' en 'ik'. Uiteindelijk heb ik hier bewust voor gekozen: de zin "voor ik vergeet" wordt in het nummer continu herhaald. Door alleen die twee kernwoorden subtiel te herhalen, visualiseer ik die herhaling zonder dat de volledige zin letterlijk terug hoeft te komen. Ik heb van alle tussenstappen screenshots gemaakt om de versies te vergelijken en tot de beste keuze te komen.
+
+<img src="vergeet25.jpg" width="50%"> 
+<img src="vergeet26.jpg" width="50%"> 
+<img src="vergeet27.jpg" width="50%"> 
+<img src="vergeet28.jpg" width="50%"> 
+
+<img src="dubbelespan.jpg" width="50%"> 
+<img src="dubbelespan2.jpg" width="50%"> 
+
+<img src="animatie.jpg" width="50%"> 
+
 ### 16 okt - nieuwe schetsen voor lyrics
 Omdat ik nog erg ontevreden was met mijn lyric ontwerp heb ik heel veel nieuwe scheten gemaakt. de vorige keer had ik maar een paar schetsen gemaakt en er was weinig verandering per schets. Dit keer heb ik juist het tegenovergestelde gedaan omdat ik denk dat dat voor een beter resultaat gaat zorgen.
 
@@ -25,15 +46,7 @@ Omdat ik veel verschillende schetsen had gemaakt en twijfelde over de juiste sam
 <img src="vergeet18.jpg" width="50%">
 <img src="vergeet19.jpg" width="50%">
 
-<img src="nieuwecode.jpg" width="50%"> Bij het schrijven van deze code merk ik dat ik meer notities aan het schrijven ben en dat ik dat heel handig vind om te doen omdat ik alles makkelijker terug kan vinden en aanpassen. Bij alle vorige codes die ik heb geschreven heb ik af en toe een paar notities gezet maar is het vooral code.
 
-<img src="vergeet20.jpg" width="50%"> 
-<img src="vergeet23.jpg" width="50%">
-<img src="vergeet21.jpg" width="50%"> 
-<img src="vergeet22.jpg" width="50%"> 
-<img src="vergeet24.jpg" width="50%"> 
-
-Ik heb verschillende iteraties van mijn schetsen gemaakt, omdat de oorspronkelijke schets op de laptop er toch niet helemaal uitzach zoals wat ik wilde verbeelden. De vierkanten sloten visueel niet goed aan bij de rest van de compositie. Ook twijfelde ik over het toevoegen van de kleinere woorden 'voor' en 'ik'. Uiteindelijk heb ik hier bewust voor gekozen: de zin "voor ik vergeet" wordt in het nummer continu herhaald. Door alleen die twee kernwoorden subtiel te herhalen, visualiseer ik die herhaling zonder dat de volledige zin letterlijk terug hoeft te komen. Ik heb van alle tussenstappen screenshots gemaakt om de versies te vergelijken en tot de beste keuze te komen.
 
 ### 14 okt - cookies popup ontwerpen
 <img src="cookies1.jpg" width="50%">
