@@ -117,6 +117,16 @@ img.zon {
   height: auto;
   margin-top: -50px;
   max-width: 500px;
+  animation: draaiendezon 10s linear infinite;
+}
+
+@keyframes draaiendezon {
+  0% {
+    rotate:0deg;
+  }
+  100% {
+		rotate:360deg;
+  }
 }
 
 img.maan {
@@ -126,6 +136,7 @@ img.maan {
   margin-top: -100px;
   max-width: 500px;
 }
+
 
 
 /* MARK: Ik en bergen */
