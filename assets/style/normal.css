@@ -33,6 +33,74 @@ html:has(#dark-mode:checked) img.maan {
 
 
 
+body {
+  margin: 0;
+  font-family: "indieflower", system-ui;
+  background-color: var(--background);
+  color: var(--color);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+
+
+/* MARK: De Navigatie */
+nav {
+  order: -1;
+}
+
+nav ul {
+  display: flex;
+  gap: 10px;
+  padding: 0;
+  list-style: none;
+}
+
+nav li a {
+  display: block;
+  padding: 10px 16px;
+  background-color: var(--buttonbackground);
+  color: var(--buttontekst);
+  text-decoration: none;
+  border: 2px solid var(--buttonbackground);
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+nav li a:hover,
+nav li a[aria-current="page"] {
+  background-color: var(--background);
+  color: var(--color);
+}
+
+/* zodat alle knoppen passen op een small scherm */
+@media (max-width: 35em) {
+  nav ul{
+    flex-direction: column;
+    align-items: stretch; 
+  }
+}
+
+
+
+h1 {
+  color: var(--color);
+  text-align: center;
+  font-size: 4em;
+  margin-top: -1px;
+}
+
+
+
+/* MARK: Maan en zon */
 form input[type="radio"]:focus-visible + label {
   outline: 3px solid;
   outline-offset: 4px;
@@ -59,58 +127,13 @@ img.maan {
   max-width: 500px;
 }
 
-body {
-  margin: 0;
-  font-family: "indieflower", system-ui;
-  background-color: var(--background);
-  color: var(--color);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
 
-h1 {
-  color: var(--color);
-  text-align: center;
-  font-size: 4em;
-  margin-top: -1px;
-}
-
-header {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-/* MARK: De Navigatie */
-
-nav {
-  order: -1;
-}
-
-nav ul {
-  display: flex;
-  gap: 10px;
-  padding: 0;
-  list-style: none;
-}
-
-
-nav li a {
-  display: block;
-  padding: 10px 16px;
-  background-color: var(--buttonbackground);
-  color: var(--buttontekst);
-  text-decoration: none;
-  border: 2px solid var(--buttonbackground);
-  border-radius: 10px;
-  font-size: 20px;
-}
-
-nav li a:hover,
-nav li a[aria-current="page"] {
-  background-color: var(--background);
-  color: var(--color);
+/* MARK: Ik en bergen */
+main {
+  position: relative;
+  width: 100%;
+  margin-top: 1rem;
+  overflow: hidden;
 }
 
 main > img{
@@ -128,13 +151,7 @@ main > img{
   }
 }
 
-main {
-  position: relative;
-  width: 100%;
-  margin-top: 1rem;
-  overflow: hidden;
-}
-
+/* Ik */
 main > a {
   position: absolute;
   top: 5%;                 
@@ -163,21 +180,10 @@ main a:hover img {
   transform: scale(1.15);
 }
 
-:focus-visible {
-  outline:solid .3rem rgb(207, 21, 21);
-  outline-offset:.15rem;
-}
-
-/* zodat alle knoppen passen op een small scherm */
-@media (max-width: 35em) {
-  nav ul{
-    flex-direction: column;
-    align-items: stretch; 
-  }
-}
 
 
-/* COOKIES */
+
+/* MARK: COOKIES */
 .cookie-trigger {
   align-items: center;
   gap: 0.5rem;
@@ -221,7 +227,7 @@ p{
   font-size: clamp(1em, 1.5vi, 5em);
 }
 
-.cookie-header {
+div:nth-of-type(1){
   display: flex;
   align-items: center;
   gap: 0.75rem;
@@ -234,7 +240,7 @@ p{
   height: 3rem;
 }
 
-.cookie-actions {
+div:nth-of-type(2){
   display: flex;
   justify-content: center;
   flex-wrap: wrap; 
@@ -242,7 +248,7 @@ p{
   margin-top: 1rem;
 }
 
-.cookie-actions button {
+div:nth-of-type(2) button {
   font-family: "indieflower";
   font-size: 1.5em;
   background-color: #f7e788;
@@ -252,7 +258,7 @@ p{
   color: black; /* zodat het bij light mode ook zwart blijft */
 }
 
-.cookie-actions button:hover{
+div:nth-of-type(2) button:hover{
   font-family: "indieflower";
   font-size: 1.5em;
   background-color: #f5d004;
@@ -268,4 +274,12 @@ dialog p a {
 
 dialog p a:hover {
   color: #f5d004;
+}
+
+
+
+
+:focus-visible {
+  outline:solid .3rem rgb(207, 21, 21);
+  outline-offset:.15rem;
 }
