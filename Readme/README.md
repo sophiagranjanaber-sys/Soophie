@@ -1,5 +1,9 @@
 ## Learning Log
-### 20 okt - lyric uitwerken
+### 19 okt
+Ik heb vandaag geleerd dat je een MARK kan zeten in de code. Super handig, wel lekker laat. Vasilis heeft me de feedback gegeven om mijn code wat netter te organiseren. Mijn body stond bijvoorbeeld in het midden van de hele code. Dus dit heb ik gedaan. Ik heb overal marks neergezet en alles netjes gesorteert en bij elkaar gedaan. Nu kan ik het allemaal in 1 keer vinden:
+<img src="MARK.jpg" width="50%">
+
+### 17 okt - lyric uitwerken
 <img src="nieuwecode.jpg" width="50%"> Bij het schrijven van deze code merk ik dat ik meer notities aan het schrijven ben en dat ik dat heel handig vind om te doen omdat ik alles makkelijker terug kan vinden en aanpassen. Bij alle vorige codes die ik heb geschreven heb ik af en toe een paar notities gezet maar is het vooral code.
 
 <img src="vergeet20.jpg" width="50%"> 

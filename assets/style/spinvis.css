@@ -173,7 +173,7 @@ h3 {
   position: relative;
   width: 48vw;             
   height: 48vw;
-  margin: 4rem auto; /* boven en onder, links en rechts */
+  margin: 4rem 0; /* boven en onder, links en rechts */
 }
 
 h3 span {
