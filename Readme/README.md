@@ -5,6 +5,13 @@ Ik heb vandaag geleerd dat je een MARK kan schrijven in de code. Super handig, w
 
 Ik had gevraagd of de classes in mijn cookies wel echt nodig waren. Hierbij stelde Vasilis voor het te vervangen voor nth-of-type (Ik was even vergeten dat die mogelijkheid er was), dus dat heb ik nu aangepast.
 
+<img src="webbytest.jpg" width="50%">
+Uit deze test heb ik gehaald dat ik nog een animatie zou kunnen toevoegen. 
+Van Joelle heb ik als feedback onvangen:
+Alle navigatie knoppen (ik had spinvis en mijn readme nog niet) toevoegen in de klim en gallerij pagina. Dit heb ik nu gedaan zodat je op elke pagina bij mijn readme en lyric kan.
+
+Helmaal aan het begin van het maken van mijn website had ik wat feedback gekregen van mijn moeder: De zon is nog niet duidelijk een knop, dus mischien kan je daar wat mee doen om ervoor te zorgen dat dat wel duidelijk wordt. Ik heb daar daarna toch niks mee gedaan. Van Joelle had ik het idee gekregen iets te doen met de zon voor mijn animatie. Daaruit is het idee ontstaan om het te laten draaien. Dit heb ik toen ook meteen bij de maan toegepast. Hiermee hoop ik duidelijker te maken dat het een knop is.
+
 
 
 ### 17 okt - lyric uitwerken
