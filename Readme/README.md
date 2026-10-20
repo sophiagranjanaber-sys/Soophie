@@ -1,5 +1,5 @@
 ## Learning Log
-### 19 okt
+### 19 okt - feedback Vasilis
 Ik heb vandaag geleerd dat je een MARK kan zeten in de code. Super handig, wel lekker laat. Vasilis heeft me de feedback gegeven om mijn code wat netter te organiseren. Mijn body stond bijvoorbeeld in het midden van de hele code. Dus dit heb ik gedaan. Ik heb overal marks neergezet en alles netjes gesorteert en bij elkaar gedaan. Nu kan ik het allemaal in 1 keer vinden:
 <img src="MARK.jpg" width="50%">
 
