@@ -120,6 +120,15 @@ img.zon {
   animation: draaiendezon 10s linear infinite;
 }
 
+img.maan {
+  display: none;
+  width: 100vw;
+  height: auto;
+  margin-top: -100px;
+  max-width: 500px;
+  animation: draaiendezon 10s linear infinite;
+}
+
 @keyframes draaiendezon {
   0% {
     rotate:0deg;
@@ -129,13 +138,6 @@ img.zon {
   }
 }
 
-img.maan {
-  display: none;
-  width: 100vw;
-  height: auto;
-  margin-top: -100px;
-  max-width: 500px;
-}
 
 
 
@@ -171,8 +173,8 @@ main > a {
   display: block;
   cursor: pointer;
 
-  @media (max-width: 35em) {
-    
+  @media (max-width: 35em) {                
+    right: 2%;  
   }
 }
 
