@@ -1,10 +1,10 @@
 ## Learning Log
 ### 21 okt
-<img src="biweekly3.jpg" width="50%">
+<img src="Biweekly3.jpg" width="50%">
 
 Feedback:
 
-<img src="feedback2.jpg" width="80%">
+<img src="Feedback2.jpg" width="80%">
 <img src="feedback3.jpg" width="80%">
 
 
