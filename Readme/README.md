@@ -485,21 +485,23 @@ In mijn eerste schets heb ik een zon die in een maan veranderd, geschetst. Het i
 
 ### 8 sept Deep dive: light and dark mode
 
-Foto's van de opdracht die ik heb gemaak. Ik heb veel van deze deep dive geleerd en veel inspiratie opgedaan. Bij 1 oktober leg ik uit wat voor inspiratie.
+Screenshots van de opdracht die ik heb gemaak. Ik heb veel van deze deep dive geleerd en veel inspiratie opgedaan. Bij 1 oktober leg ik uit wat voor inspiratie.
 
 <img src="makkie.jpg" width="50%">
 <img src="kipkakie.jpg" width="50%">
 <img src="katten.jpg" width="50%">
 
+![alt text](feedback3.jpg)
+
 ### 7 sept website analyseren
 
 Samenwerking in groepjes van 4:
 
-<img src="web analyse samen.jpg" width="50%"> In een groepje de websites analyseren.
+<img src="web analyse samen.jpg" width="50%"> In een groepje de websites analyseren. We hebben hier samen gekeken naar welke wesite we het meest en het minst webby vinden. Dit hebben we onderbouwd en opgeschreven.
 
 <img src="website inspo analyse indif.jpg" width="50%"> Websites onderzoeken/kijken hoe webby ze zijn.
 
-<img src="web inspo tekst samenvatting.jpg" width="50%"> Onderzoek naar wat een digital graden is.
+<img src="web inspo tekst samenvatting.jpg" width="50%"> Onderzoek naar wat een digital graden is. Ik heb hier een samenvatting geschreven van de teksten die ik moest analyseren. Hierin staan oa de eigenschappen van een digital garden.
 
 1. Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website:
 
