@@ -1,4 +1,13 @@
 ## Learning Log
+### 21 okt
+<img src="biweekly3.jpg" width="50%">
+
+Feedback:
+
+<img src="feedback2.jpg" width="80%">
+<img src="feedback3.jpg" width="80%">
+
+
 ### 19 okt - feedback Vasilis en Joëlle
 Vandaag heb ik geleerd dat je met MARKS in je code verschillende onderdelen kunt markeren. Dit maakt het een stuk overzichtelijker en makkelijker om specifieke onderdelen terug te vinden. Vasilis gaf me de feedback om mijn code netter te organiseren. Zo stond mijn body bijvoorbeeld midden in de rest van mijn code, waardoor de structuur onoverzichtelijk was.
 
@@ -491,7 +500,7 @@ Een screenshot van een paar tags waarbij ik heb mee geschreven:
 <img src="codepen praktische css.jpg" width="50%">
 
 ### 2 sept Deep dive: Typography
-Voor deze les heb ik informatie vezamelt over Dolly Parton die ik al wist over haar. Daarmee heb ik schetsjes gemaakt om die kennis visueel duidelijk te maken. 
+Voor deze les heb ik informatie vezamelt over Dolly Parton die ik al over haar wist. Daarmee heb ik schetsjes gemaakt om die kennis visueel duidelijk te maken. 
 
 <img src="dollyp.jpg" width="50%">
 <img src="country dollyp.jpg" width="50%">

@@ -221,6 +221,20 @@ main a:hover img {
   display: block;
 }
 
+/* dialog#cookie-trigger[open]{ 
+  animation: verschijn 1s ease-in;
+}
+
+@keyframes verschijn {
+  0%{
+    opacity: 0;
+  }
+
+  100%{
+    opacity: 1;
+  }
+}*/
+
 dialog {
   border: none;
   border-radius: 1rem;
