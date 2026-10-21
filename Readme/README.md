@@ -419,8 +419,15 @@ Ik vond het leuk om te werken aan een idee waar ik heel verheugd van werd. Ik vo
 ### 16 sept dark en light mode toegepast op website
 
 <img src="lightmode.jpg" width="50%">
-<img src="darkmode.jpg" width="50%"> met aria-current="page" wordt de pagina knop home licht blauw omdat de website zich daar bevint.
+<img src="darkmode.jpg" width="50%"> 
 
+Met `aria-current="page"` heb ik ervoor gezorgd dat de Home-knop lichtblauw kleurt wanneer de bezoeker zich op de homepage bevindt. Hierdoor is het voor de bezoeker duidelijker op welke pagina die zich bevindt en wordt de actieve pagina visueel herkenbaar gemaakt. Ik heb met behulp van chatgpt uitgezocht hoe ik dit kon doen:
+
+![alt text](aria-current.jpg)
+
+![alt text](zontekenen.jpg)
+
+Ik heb aan chat gpt gevraagd om stappen om in illustrator een zo te maken. Ik wist dat het mogelijk was om de stralen op perfecte afstand van elkaar neer te zetten, ik wist alleen niet precies hoe daarom heb ik daar hulp bij gevraagd.
 ### 15 sept Deep dive grid
 
 <img src="grid1.jpg" width="50%">
