@@ -244,6 +244,13 @@ dialog {
   background-color: #33073c;
 }
 
+button.cookie-trigger {
+  position: fixed;
+  bottom: 1em;
+  right: 1em;
+  background-color: var(--background);
+}
+
 dialog::backdrop {
   background: rgba(0, 0, 0, 0.5);
   backdrop-filter: blur(2px);

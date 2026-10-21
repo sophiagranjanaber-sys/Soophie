@@ -4,7 +4,9 @@
 
 Feedback:
 
-<img src="Feedback2.jpg" width="80%">
+We hebben in 3 tallen gekeken naar elkaars website en elkaar feedback gegeven. 
+
+<img src="feedback2.jpg" width="80%">
 <img src="feedback3.jpg" width="80%">
 
 
