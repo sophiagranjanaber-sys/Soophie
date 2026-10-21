@@ -301,12 +301,13 @@ Tab, Tab shift, enter,
 <img src="C Welingelichte Cookie Consent.jpg" width="50%">
 
 ### 21 sept light en dark mode knop
-
-<img src="lightdarkknop.jpg" width="50%"> Na veel onderzoeken en uitproberen, is het mij gelukt om de light en dark mode knop toe te voegen.
+Na veel onderzoek en experimenteren, met behulp van Gemini, is het me uiteindelijk gelukt om de light en darkmodeknop aan mijn website toe te voegen. Hiervoor heb ik gebruikgemaakt van input type="radio", waarin ik afbeeldingen van een zon en een maan heb geplaatst. Door de opacity van de radiobuttons op 0 te zetten, zijn die onzichtbaar. Hierdoor blijven alleen de afbeeldingen van de zon en de maan zichtbaar, die de bezoeker kan gebruiken om tussen de light en darkmode te wisselen.
 
 <img src="lightdarkknop2.jpg" width="50%">
 
-<img src="lightdarkknopobstacel.jpg" width="50%"> Ik had onderweg een brobleem. De blauwe achtergront was zwart geworden.
+<img src="lightdarkknopobstacel.jpg" width="50%"> 
+
+Ik had onderweg een probleem. De blauwe achtergront was zwart geworden.
 
 1. Wat zijn HTML landmark role elements?
 
@@ -324,15 +325,15 @@ Ik klik altijd op alles afwijzen, ook al voor deze les.
 
 - "Pagina verder uitbreiden waarbij je wild kamperen duidelijk overbrengt"
 
-Ik weet nog niet of wild kamperen is wat ik wil verwerken in mijn website. Ik had ook wat andere ideeën. Daarom wil ik eerst kijken wat ik het liefst nog wil toevoegen voordat ik verder ga met de volgende pagina.
+Uiteindelijk heb ik ervoor gekozen om een pagina met klimfoto’s te maken. Dit sluit aan bij mijn eigen interesse, omdat ik op dit moment zelf veel aan het klimmen ben. Daarnaast kan ik hierdoor ook mijn eigen foto tussen de bergen verwerken op de homepage, waardoor mijn tuintje persoonlijker wordt.
 
 - "Je onderbouwt je eigen keuzes nog matig."
 
-Ik ga daarom nu in mijn learning log alle keuzes op een rijtje zetten en duidelijk overbrengen.
+Om dit te verbeteren, ga ik in mijn learning log mijn keuzes op een rijtje zetten en duidelijk uitleggen waarom ik deze heb gemaakt.
 
 - "mist nog een responsive grid"
 
-deze heb ik nu toegevoegd aan mijn scherm "galerij"
+Dit heb ik inmiddels toegevoegd aan mijn pagina Galerij, zodat de indeling zich beter kan aanpassen aan verschillende schermformaten.
 
 ### 18 sept check out en retrospect opdracht
 
