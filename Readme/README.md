@@ -336,10 +336,12 @@ deze heb ik nu toegevoegd aan mijn scherm "galerij"
 
 ### 18 sept check out en retrospect opdracht
 
-<img src="bd9c2410-ffa9-4e7d-88b4-b35f1f9295f3.JPG" width="50%"> retrospect opdracht
+<img src="biweeklee.jpeg" width="50%">
 <img src="retrospect1.1.jpg" width="50%">
 <img src="retrospect1.2.jpg" width="50%">
-<img src="retrospect1.3.jpg" width="50%"> Ik heb hier een stad gemaakt met wolken krabbers maar ook lage huizen in gekke vormen omdat de laatste 2 weken voor mij heel erg varieerde in of het goed of wat minder goed ging en het voelde ook allemaal een beetje gek omdat ik net uit de lange vakantie kom.
+<img src="retrospect1.3.jpg" width="50%"> 
+
+Ik heb een stad gemaakt met zowel wolkenkrabbers als lage huizen in verschillende, bijzondere vormen. Hiermee wil ik laten zien hoe wisselend de afgelopen twee weken voor mij waren, waarbij het soms goed ging en soms wat minder. Ook voelde deze periode een beetje vreemd, omdat ik net terugkwam van een lange vakantie en weer moest wennen aan het dagelijkse ritme.
 
 Oriënteren en begrijpen
 
@@ -423,11 +425,10 @@ Ik vond het leuk om te werken aan een idee waar ik heel verheugd van werd. Ik vo
 
 Met `aria-current="page"` heb ik ervoor gezorgd dat de Home-knop lichtblauw kleurt wanneer de bezoeker zich op de homepage bevindt. Hierdoor is het voor de bezoeker duidelijker op welke pagina die zich bevindt en wordt de actieve pagina visueel herkenbaar gemaakt. Ik heb met behulp van chatgpt uitgezocht hoe ik dit kon doen:
 
-![alt text](aria-current.jpg)
+<img src="aria-current.jpg" width="50%"> 
 
-![alt text](zontekenen.jpg)
-
-Ik heb aan chat gpt gevraagd om stappen om in illustrator een zo te maken. Ik wist dat het mogelijk was om de stralen op perfecte afstand van elkaar neer te zetten, ik wist alleen niet precies hoe daarom heb ik daar hulp bij gevraagd.
+Ik heb aan chat gpt gevraagd om stappen om in illustrator een zo te maken. Ik wist dat het mogelijk was om de stralen op perfecte afstand van elkaar neer te zetten, ik wist alleen niet precies hoe daarom heb ik daar hulp bij gevraagd aan chatgpt:
+<img src="zontekenen.jpg" width="50%"> 
 ### 15 sept Deep dive grid
 
 <img src="grid1.jpg" width="50%">
