@@ -491,7 +491,7 @@ Screenshots van de opdracht die ik heb gemaak. Ik heb veel van deze deep dive ge
 <img src="kipkakie.jpg" width="50%">
 <img src="katten.jpg" width="50%">
 
-![alt text](feedback3.jpg)
+![alt text](IMG_7534.heic)
 
 ### 7 sept website analyseren
 
