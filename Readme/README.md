@@ -1,16 +1,18 @@
 ## Learning Log
+
 ### 21 okt
+
 <img src="Biweekly3.jpg" width="50%">
 
 Feedback:
 
-We hebben in 3 tallen gekeken naar elkaars website en elkaar feedback gegeven. 
+We hebben in 3 tallen gekeken naar elkaars website en elkaar feedback gegeven.
 
-<img src="feedback2.jpg" width="80%">
+<img src="Feedback2.jpg" width="80%">
 <img src="feedback3.jpg" width="80%">
 
-
 ### 19 okt - feedback Vasilis en Joëlle
+
 Vandaag heb ik geleerd dat je met MARKS in je code verschillende onderdelen kunt markeren. Dit maakt het een stuk overzichtelijker en makkelijker om specifieke onderdelen terug te vinden. Vasilis gaf me de feedback om mijn code netter te organiseren. Zo stond mijn body bijvoorbeeld midden in de rest van mijn code, waardoor de structuur onoverzichtelijk was.
 
 Naar aanleiding van deze feedback heb ik mijn code opnieuw georganiseerd. Ik heb MARKS toegevoegd aan de verschillende onderdelen en alles gesorteerd in dezelfde volgorde als in mijn html. Hierdoor is mijn code overzichtelijker geworden en kan ik onderdelen sneller terugvinden. Achteraf gezien had ik deze werkwijze graag eerder willen ontdekken, omdat het me veel tijd kan besparen tijdens het werken aan mijn website.
@@ -30,12 +32,13 @@ Aan het begin van het project kreeg ik van mijn moeder de feedback dat de zon no
 Tot slot adviseerde Joëlle om de cookie popup direct bij het openen van de website te tonen. Dit leek mij een goede oplossing, omdat de melding hierdoor beter opvalt. Ik kan de knop onderaan de pagina behouden, terwijl de cookie informatie als een duidelijke popup over de website verschijnt.
 
 ### 17 okt - lyric uitwerken
+
 <img src="nieuwecode.jpg" width="50%"> Bij het schrijven van deze code merk ik dat ik meer notities aan het schrijven ben en dat ik dat heel handig vind om te doen omdat ik alles makkelijker terug kan vinden en aanpassen. Bij alle vorige codes die ik heb geschreven heb ik af en toe een paar notities gezet maar is het vooral code.
 
 <img src="vergeet23.jpg" width="50%">
 <img src="vergeet21.jpg" width="50%"> 
 <img src="vergeet22.jpg" width="50%"> 
-<img src="vergeet24.jpg" width="50%"> 
+<img src="vergeet24.jpg" width="50%">
 
 ### Annotatie – Iteraties van de schetsen
 
@@ -48,14 +51,15 @@ Van alle tussenstappen heb ik screenshots gemaakt, zodat ik de verschillende ver
 <img src="vergeet25.jpg" width="50%"> 
 <img src="vergeet26.jpg" width="50%"> 
 <img src="vergeet27.jpg" width="50%"> 
-<img src="vergeet28.jpg" width="50%"> 
+<img src="vergeet28.jpg" width="50%">
 
 <img src="dubbelespan.jpg" width="50%"> 
-<img src="dubbelespan2.jpg" width="50%"> 
+<img src="dubbelespan2.jpg" width="50%">
 
-<img src="animatie.jpg" width="50%"> 
+<img src="animatie.jpg" width="50%">
 
 ### 16 okt - nieuwe schetsen voor lyrics
+
 Omdat ik nog erg ontevreden was met mijn lyric ontwerp heb ik heel veel nieuwe scheten gemaakt. de vorige keer had ik maar een paar schetsen gemaakt en er was weinig verandering per schets. Dit keer heb ik juist het tegenovergestelde gedaan omdat ik denk dat dat voor een beter resultaat gaat zorgen.
 
 <img src="vergeet1.jpg" width="50%">
@@ -81,9 +85,8 @@ Omdat ik veel verschillende schetsen had gemaakt en twijfelde over de juiste sam
 <img src="vergeet18.jpg" width="50%">
 <img src="vergeet19.jpg" width="50%">
 
-
-
 ### 14 okt - cookies popup ontwerpen
+
 <img src="cookies1.jpg" width="50%">
 <img src="cookies2.jpg" width="50%"> Ik heb hier verschillende tekeningen gemaakt voor mijn cookie popup. Uiteindelijk heb ik gekozen voor de paars gele popup. Ik vond die kleuren het beste bij elkaar passen en ook bij de rest van mijn website. Paars is een kleur die ik nog niet had gebruikt en ik hebruik voor elk scherm een andere kleuren combinatie. Ondanks dat er  nog geen paars in zat vond ik het wel goed passend bij de donkeren marine en groene kleuren.
 
@@ -92,6 +95,7 @@ Omdat ik veel verschillende schetsen had gemaakt en twijfelde over de juiste sam
 Om de code van de cookies te schrijven heb ik gekeken naar de code van de deepdive. Deze heb ik aangepast tot dat mijn popup eruit zag zoals hierboven te zien is.
 
 ### feedback, check out en animatie deepdive - 9 okt
+
 <img src="animatiedeepdive.jpg" width="50%"> Ik heb hier de oefeningentjes gedaan van de deep dive. Het heeft me nog geen inspiratie gegeven hoe ik het kan toepassen op mijn lyrics.
 
 Het nummer van Spinvis vind ik een uitdagend stuk om vorm te geven. Het is een rustig nummer waarin juist de poëzie van de tekst centraal staat. Mijn eerste gevoel was daarom dat het overmatig uitvergroten van de typografiegeen goed effect zou hebben aan die subtiliteit. Tegelijkertijd ben ik nog niet tevreden met het huidige resultaat. Om het ontwerp naar een hoger niveau te brengen en nieuwe invalshoeken te ontdekken, ga ik de feedback van Vasilis volgen: juist wél bewust te gaan overdrijven. Door die overdrijvingen in vormgeving uit te proberen, wil ik onderzoeken hoe ik het nummer meer visuele expressie kan geven zonder de rustige poëzie te verliezen.
@@ -115,6 +119,7 @@ Sfeer en uitstraling: De fijnere lijnen van de dunnere letters van bepaalde woor
 Omdat het nummer subtiele melodische modulaties en toonhoogteverschillen heeft die niet plotseling omslaan, sluit een vloeiende, golvende animatie hier goed bij aan.
 
 ### Spinvis - voor ik vergeet
+
 <img src="voorik1.jpg" width="50%">
 <img src="voorik2.jpg" width="50%">
 <img src="voorik3.jpg" width="50%">
@@ -133,13 +138,14 @@ Omdat het nummer subtiele melodische modulaties en toonhoogteverschillen heeft d
 <img src="horizontalescrol.jpg" width="50%">
 <img src="horizontalscrolcode.jpg" width="50%"> ik heb "straten en examens en vakanties" aan elkaar geschreven omdat het in het nummer klinkt alsof het 1 woord is. Ik heb daardoor wel moeite gehald met horizontale scrol. Om dat op te lossen heb ik 2 media queries toegevoegd.
 
-<img src="Voorikvergeet1.jpg" width="50%"> Hier is mijn schets vertaling naar html/css te zien van een deel van de lyrics van voor ik vergeet. Ik zou graag later nog meer dingentjes willen toevoegen zoals een scheve titel. Ik nu vooral erop gelet dat het zo goed mogelijk leest zoal het in het nummer echt wordt uitgesproken. Door de letters binnen een woord kleiner of groter te laten worden hoop ik over te brengen dat de toon omhoog gaat. 
+<img src="Voorikvergeet1.jpg" width="50%"> Hier is mijn schets vertaling naar html/css te zien van een deel van de lyrics van voor ik vergeet. Ik zou graag later nog meer dingentjes willen toevoegen zoals een scheve titel. Ik nu vooral erop gelet dat het zo goed mogelijk leest zoal het in het nummer echt wordt uitgesproken. Door de letters binnen een woord kleiner of groter te laten worden hoop ik over te brengen dat de toon omhoog gaat.
 
 Ik heb de letters groter gemaakt door een span binnen een h of p te zetten:
 
 <img src="lettervergotenmetspan.jpg" width="50%">
 
 ### deepdive intresantere layout
+
 <img src="Interesanterelayouts.jpg" width="50%">
 <img src="interesanterelayout2.jpg" width="50%">
 
@@ -147,9 +153,10 @@ Ik heb de letters groter gemaakt door een span binnen een h of p te zetten:
 <img src="horizontalscroling.jpg" width="50%"> Ik heb hier met Vasilis gekeken waarom er een horizontal scrol zat in mijn website op de telefoon. Dit heb ik daarna in mijn code toegepast.
 
 ### 5 okt checkout
-1. Leg uit wat er met de volgende termen bedoeld wordt: 
 
-kerning: De afstand tussen letters in een woord verkleinen of vergroten om het leesbaarden te maken. 
+1. Leg uit wat er met de volgende termen bedoeld wordt:
+
+kerning: De afstand tussen letters in een woord verkleinen of vergroten om het leesbaarden te maken.
 
 tracking: Ruimtes over meer het algemeel. bijv woordt ruimte of alinea etc
 
@@ -159,7 +166,7 @@ flush-left: een regelmatig beginpunt van de zin. Alles staat netjes tegen de lin
 
 flush-right: alles tegen rechter kantlijn
 
-centered: kantlijn in het midden van het blad 
+centered: kantlijn in het midden van het blad
 
 justified indent: Tegen bijde kantlijnen. Waardoor het een rechthoek wordt
 
@@ -169,12 +176,11 @@ modular scale: Nette manier om dingen te schalen.
 
 movable type: Een printer waarbij ze letters verplaatsen om verschillende prints te maken.
 
-focus punt: Verschil in groote van lettertypen dat zorgt voor een focus 
+focus punt: Verschil in groote van lettertypen dat zorgt voor een focus
 
 vijf soorten contrast: Typografie, groot klein, kleur, positie, witruimtes
 
 spatial tension: witruimte om een emotie neer te zetten.
-
 
 2. Wat is jouw ideale regellengte (measure)? Leg uit waarom.
 
@@ -182,9 +188,10 @@ Tussen 40 en 60 px omdat dat het meest leesbaar is.
 
 3. Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
 
-grootte  
+grootte
 
 ### 3 okt feedback van Vasilis verwerken en retrospect opdacht
+
 <img src="altweggehaald.jpg" width="50%"> Bij de toegankelijkheids test stond er voor decoratieve afbeeldingen een lege alt te plaatsen. Daarom heb ik dat bij alle foto's gedaan. Vasilis heeft me tijdens het feedback moment verteld dat het belangrijk is bij deze afbeeldingen wel alt neer te zetten omdat het het belangrijkste deel van de pagina is.
 
 <img src="retrospect2.1.jpg" width="50%">
@@ -202,6 +209,7 @@ Feedback van Vasilis:
 - Oefenen met screenreader
 
 ### 2 okt wcag checklist
+
 <img src="wcag1.jpg" width="50%">
 <img src="wcag2.jpg" width="50%">
 <img src="wcag3.jpg" width="50%">
@@ -214,17 +222,16 @@ Feedback van Vasilis:
 <img src="toegankelijkheidstest1.jpeg" width="50%"> Dit heb ik verbeterd en is nu allemaal goed.
 
 ### 1 okt keuzes
+
 Waarom heb ik voor dit font gekozen?
 
 Mijn zoektocht begon in Adobe Illustrator. Ik vond daar een mooi font dat goed paste bij het thema bergen en natuur, maar wist toen nog niet dat ik daar de font niet op kan downloaden. Daarom ben ik overgestapt naar Google Fonts.
 
 Hier koos ik voor Indie Flower. De vrije, handgeschreven vorm geeft de website een natuurlijk en persoonlijk karakter, precies wat ik zocht in plaats van een standaard, zakelijk lettertype.
 
-
 Waarom heb ik gekozen voor het onderwerp bergen?
 
 Bergen geven mij een gevoel van vrijheid, rust en avontuur. Ik houd enorm van buiten zijn, de natuur ontdekken en activiteiten zoals boulderen en klimmen. Door bergen als thema te kiezen, kon ik een onderwerp nemen waar ik écht enthousiast over ben. Het leek mij een onderwerp waar ik heel creatief mee kon zijn, omdat ik vrijwel meteen verschillende ideeën in mijn hoofd had, zoals de collage van bergen. Dit maakte het ontwerpen en bouwen van de website leuker en zorgde ervoor dat ik graag verschillende creatieve dingen wilde uitproberen met CSS.
-
 
 Hoe ben ik op het idee van de zon en de maan gekomen?
 
@@ -235,6 +242,7 @@ Waarom heb ik toch geen pagina over wildkamperen gemaakt?
 Zelf heb ik weinig ervaring met wildkamperen, terwijl boulderen juist een grote passie van me is. Het leek me daarom veel interessanter en echter om een pagina te maken aan een onderwerp waar ik zelf actief mee bezig ben en mijn eigen foto's en video's voor kan gebruiken.
 
 ### 30 sept kleur aanpassen
+
 <img src="toggeltoegevoegd.jpg" width="50%"> Uit mijn toegankelijkheids test bleek dat de zon/maan niet bereikbaar waren met tab. Dit kwam omdat er geen toggel zichtbaar was. Dus om dit op te lossen heb ik toch een zichtbare toggel toegevoegd.
 
 <img src="galerij.jpg" width="50%">
@@ -257,11 +265,12 @@ Met screenreader. Ik heb daar geen geduld voor.
 
 Blind
 
-4. Vind je dat je beperkt wordt in wat je kunt ontwerpen? Of heb je al manieren gevonden om vanuit een solide basis  - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?
+4. Vind je dat je beperkt wordt in wat je kunt ontwerpen? Of heb je al manieren gevonden om vanuit een solide basis - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?
 
 Ik denk niet dat ik daardoor heel erg beperkt word in het ontwerpen. Maar het zijn wel veel dingen waar ik rekening mee moet houden.
 
 ### 28 sept
+
 <img src="Bi-weeklyGeek1.jpg" width="50%">
 <img src="Bi-weeklyGeek2.jpg" width="50%">
 
@@ -280,18 +289,19 @@ Hij vind de gehele ervaring belangrijker voor een goed resultaat.
 
 2. Wat voor type beperkingen hebben invloed op het gebruiken van websites?
 
-zicht, cognitief, consentratie 
+zicht, cognitief, consentratie
 
 3. Noem drie manieren om door een website te navigeren met jouw screenreader.
 
 Tab, Tab shift, enter,
 
 ### 26 sept
+
 <img src="idk.jpg" width="50%"> bi-weekly geek
 <img src="C Welingelichte Cookie Consent.jpg" width="50%">
 
-
 ### 21 sept light en dark mode knop
+
 <img src="lightdarkknop.jpg" width="50%"> Na veel onderzoeken en uitproberen, is het mij gelukt om de light en dark mode knop toe te voegen.
 
 <img src="lightdarkknop2.jpg" width="50%">
@@ -311,6 +321,7 @@ belangrijkste is H1 en daarna H2, etc
 Ik klik altijd op alles afwijzen, ook al voor deze les.
 
 ### 19 sept Feedback van vrijdag
+
 - "Pagina verder uitbreiden waarbij je wild kamperen duidelijk overbrengt"
 
 Ik weet nog niet of wild kamperen is wat ik wil verwerken in mijn website. Ik had ook wat andere ideeën. Daarom wil ik eerst kijken wat ik het liefst nog wil toevoegen voordat ik verder ga met de volgende pagina.
@@ -324,6 +335,7 @@ Ik ga daarom nu in mijn learning log alle keuzes op een rijtje zetten en duideli
 deze heb ik nu toegevoegd aan mijn scherm "galerij"
 
 ### 18 sept check out en retrospect opdracht
+
 <img src="bd9c2410-ffa9-4e7d-88b4-b35f1f9295f3.JPG" width="50%"> retrospect opdracht
 <img src="retrospect1.1.jpg" width="50%">
 <img src="retrospect1.2.jpg" width="50%">
@@ -355,7 +367,7 @@ Ik was vanaf het begin erg enthousiast over mijn concept en wilde het meteen uit
 
 Lukt het om je ideeën te schetsen?
 
-Wanneer ik een idee krijg, leg ik dit altijd vast in een schets zodat ik het niet vergeet. Wel merk ik dat mijn schetsen nu nog niet goed gedetailleerd zijn. Ik wil dus mijn volgende schetsen wat gedetailleerder gaan maken. Zodat ik in mijn schets al een beetje kan zien of het idee eigenlijk wel werkt. 
+Wanneer ik een idee krijg, leg ik dit altijd vast in een schets zodat ik het niet vergeet. Wel merk ik dat mijn schetsen nu nog niet goed gedetailleerd zijn. Ik wil dus mijn volgende schetsen wat gedetailleerder gaan maken. Zodat ik in mijn schets al een beetje kan zien of het idee eigenlijk wel werkt.
 Hier is een compleet ingevulde reflectie op basis van de vragen uit jouw screenshots en jouw project (het digitale tuintje met bergen, de collage en de zon die overgaat in een maan bij dark mode).
 
 Wat doet deze CSS-property?
@@ -366,7 +378,7 @@ Ik heb gekozen voor een minimalistische opzet waarin de visuele sfeer centraal s
 
 Hoe kan ik dit soort content vormgeven?
 
-Voor de collage van bergen heb ik gebruikgemaakt van photoshop. Het zijn foto’s die ik zelf heb gemaakt op verschillende vakanties. Het geeft mij daardoor een vrolijk en rustgevend gevoel, ik kan al die bergen dan bij elkaar zien. 
+Voor de collage van bergen heb ik gebruikgemaakt van photoshop. Het zijn foto’s die ik zelf heb gemaakt op verschillende vakanties. Het geeft mij daardoor een vrolijk en rustgevend gevoel, ik kan al die bergen dan bij elkaar zien.
 
 Wat als ik hier nu eens 1000 invul?
 
@@ -405,14 +417,17 @@ Wat vond ik (niet) leuk?
 Ik vond het leuk om te werken aan een idee waar ik heel verheugd van werd. Ik vond het niet leuk dat ik eraan moest werken met veel stress en tijdsdruk.
 
 ### 16 sept dark en light mode toegepast op website
+
 <img src="lightmode.jpg" width="50%">
 <img src="darkmode.jpg" width="50%"> met aria-current="page" wordt de pagina knop home licht blauw omdat de website zich daar bevint.
 
 ### 15 sept Deep dive grid
+
 <img src="grid1.jpg" width="50%">
 <img src="grid2.jpg" width="50%">
 
 ### 14 sept
+
 Poging tot toevoegen van light en dark mode toggel, met de svg's.
 <img src="code1.jpg" width="50%">
 <img src="code2.jpg" width="50%">
@@ -430,21 +445,24 @@ de deepdives toepassen, css gebruiken
 Ik heb aan mijn tweetal beschreven wat mijn plan is voor mijn website. Veel foto's toevoegen. Light en dark effect. Weinig tekst.
 
 ### 13 sept, font en feedback
+
 <img src="web1.jpg" width="50%"> Font toegepast op mijn website. Hierbij heb ik @fontface gebruikt. Ik heb ook een light en darkmode gemaakt met custom properties. Met de light en dark mode wil ik een effect maken dat het dag of nacht is in de bergen.
 <img src="feedback1.jpg" width="50%"> Dit heb ik nu in mijn website gedaan. Ik vond dit een goed idee omdat ik daardoor beter 1 idee kan uitwerken in plaats van verschillende ideetjes minder goed afgewerkt laten.
 
 ### 11 sept schermschetsen
+
 <img src="schermen 1.jpg" width="50%">
 <img src="schermen 2.jpg" width="50%">
 <img src="schets3.jpg" width="50%">
 
 ### 10 sept Deep dive gradient
+
 Geoefend met verschillende gardients maken:
 
 <img src="gradients.jpg" width="50%">
 
-
 ### 9 sept online les
+
 <img src="1.jpg" width="50%">
 <img src="2.jpg" width="50%">
 <img src="crazy 8.jpg" width="50%">
@@ -452,7 +470,6 @@ Geoefend met verschillende gardients maken:
 <img src="visualr.jpg" width="50%"> Uit mijn visuele onderzoek kwam naar voren dat ik voor mijn lettertype graag een vrije, natuurlijke vorm wilde. Dit past goed bij mijn onderwerp en vind ik zelf ook heel mooi.
 
 Verder had ik al bedacht om een collage van verschillende berg foto's te maken. Omdat ik veel mooie bergen heb gezien op mijn vakanties vond ik dit een leuke manier om die allemaal te kunnen laten zien.
-
 
 1. Leg uit waar het Visual Research in 3 stappen naartoe werkt
 
@@ -467,14 +484,15 @@ Kijkers overhalen meer activiteiten in de bergen te doen om ervoor te zorgen dat
 In mijn eerste schets heb ik een zon die in een maan veranderd, geschetst. Het idee daaracht is dat als je er op klikt je overstapt van ligt naar dark mode. Dit vond ik zelf echt een leuk idee dus ik zou het wel heel leuk vinf=den als ik dit in mijn tuintje kan verwerken.
 
 ### 8 sept Deep dive: light and dark mode
+
 Foto's van de opdracht die ik heb gemaak. Ik heb veel van deze deep dive geleerd en veel inspiratie opgedaan. Bij 1 oktober leg ik uit wat voor inspiratie.
 
 <img src="makkie.jpg" width="50%">
 <img src="kipkakie.jpg" width="50%">
 <img src="katten.jpg" width="50%">
 
-
 ### 7 sept website analyseren
+
 Samenwerking in groepjes van 4:
 
 <img src="web analyse samen.jpg" width="50%"> In een groepje de websites analyseren.
@@ -491,19 +509,21 @@ Het is heel erg persoonlijk. Er hoeft geen perfectie in te zitten. Je kan er je 
 
 Dat iemand een website Webby vind verschilde heel erg per persoon dus wij denken dat het heel erg een mening is. Maar over het algemeen dat het voor iedereen belangrijk is dat er een eigen insteek en persoonlijkheid in gestoken is.
 
-3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden. let op: dit zijn 
-jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma:
+3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden. let op: dit zijn
+   jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma:
 
 Op dit moment heb ik bedacht het thema bergen te gaan gebruiken. Ik wil in mijn website laten zien wat voor activiteiten er allemaal gedaan kunnen worden in de bergen. Met animaties en collages wil ik de schoonheid en uniekheid van bergen laten zien.
 
 ### 4 sept Deep dive: praktische css, fonts met kleur en effecten
+
 Ik heb bij de praktische css oa veel mee geluisterd.
 
 Een screenshot van een paar tags waarbij ik heb mee geschreven:
 <img src="codepen praktische css.jpg" width="50%">
 
 ### 2 sept Deep dive: Typography
-Voor deze les heb ik informatie vezamelt over Dolly Parton die ik al over haar wist. Daarmee heb ik schetsjes gemaakt om die kennis visueel duidelijk te maken. 
+
+Voor deze les heb ik informatie vezamelt over Dolly Parton die ik al over haar wist. Daarmee heb ik schetsjes gemaakt om die kennis visueel duidelijk te maken.
 
 <img src="dollyp.jpg" width="50%">
 <img src="country dollyp.jpg" width="50%">
@@ -516,9 +536,8 @@ wij hebben beide voor github gekozen. het is een platform die je nodig hebt om e
 
 2. Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.
 
-Voor mijn domeinnaam heb ik gewoon mijn roepnaam gebruikt omdat ik niet wist waar de opdracht over zou gaan. 
+Voor mijn domeinnaam heb ik gewoon mijn roepnaam gebruikt omdat ik niet wist waar de opdracht over zou gaan.
 
 3. Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
 
 Ik schrijf een code en synchronyseer het.
-
