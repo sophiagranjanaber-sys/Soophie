@@ -192,7 +192,9 @@ grootte
 
 ### 3 okt feedback van Vasilis verwerken en retrospect opdacht
 
-<img src="altweggehaald.jpg" width="50%"> Bij de toegankelijkheids test stond er voor decoratieve afbeeldingen een lege alt te plaatsen. Daarom heb ik dat bij alle foto's gedaan. Vasilis heeft me tijdens het feedback moment verteld dat het belangrijk is bij deze afbeeldingen wel alt neer te zetten omdat het het belangrijkste deel van de pagina is.
+<img src="altweggehaald.jpg" width="50%"> 
+
+Tijdens de toegankelijkheidstest kreeg ik het advies om decoratieve afbeeldingen een lege alt tekst te geven. Daarom had ik dit in eerste instantie bij alle foto’s op mijn website gedaan. Tijdens het feedbackmoment wees Vasilis me erop dat de foto’s juist een belangrijk onderdeel van mijn pagina zijn en daarom niet als decoratief beschouwd moeten worden zodat bezoekers die gebruikmaken van een schermlezer ook de inhoud van de foto’s kunnen begrijpen.
 
 <img src="retrospect2.1.jpg" width="50%">
 <img src="retrospect2.2.jpg" width="50%">
@@ -200,11 +202,15 @@ grootte
 
 Feedback van Vasilis:
 
-- Wat meer focusen op onderzoek doen naar cookies en de cookie popupp toevoegen, daarna verder met je website. Want je website ziet er goed uit, het is te zien dat je dat leuk leuk vindt.
+- Wat meer focusen op onderzoek doen naar cookies en de cookie popupp toevoegen, daarna verder met je website. Want je website ziet er goed uit, het is te zien dat je dat leuk vindt.
 
 - schetsen maken voor cookie popupp
 
+Schetsen staan bij 14 oktober
+
 - wcag checklist moet nog afgemaakt worden
+
+Mijn video’s hadden oorspronkelijk geen captions. In plaats van ondertiteling toe te voegen, heb ik ervoor gekozen om het geluid uit te zetten. Dit heb ik bewust gedaan, omdat het geluid voornamelijk bestaat uit gesprekken van mensen in een boulderhal. Wat er wordt gezegd, is niet relevant voor de inhoud van de video’s. Nu is de hele lijst goed.
 
 - Oefenen met screenreader
 
@@ -213,43 +219,52 @@ Feedback van Vasilis:
 <img src="wcag1.jpg" width="50%">
 <img src="wcag2.jpg" width="50%">
 <img src="wcag3.jpg" width="50%">
-<img src="wcag4.jpg" width="50%"> Na de eerste test heb ik bijna alles verbeterd. Ik moet nu nog uitvogelen hoe ik horizontal scroling weghaal en captions en transscript toevoeg.
-
+<img src="wcag4.jpg" width="50%"> 
 <img src="toegankelijkheidstest.jpeg" width="50%">
 <img src="toegankelijkheidstest2.jpeg" width="50%">
 <img src="toegankelijkheidstest3.jpeg" width="50%">
 <img src="toegankelijkheidstest4.jpeg" width="50%">
-<img src="toegankelijkheidstest1.jpeg" width="50%"> Dit heb ik verbeterd en is nu allemaal goed.
+<img src="toegankelijkheidstest1.jpeg" width="50%"> 
+
+Dit heb ik verbeterd en is nu allemaal goed.
 
 ### 1 okt keuzes
 
 Waarom heb ik voor dit font gekozen?
 
-Mijn zoektocht begon in Adobe Illustrator. Ik vond daar een mooi font dat goed paste bij het thema bergen en natuur, maar wist toen nog niet dat ik daar de font niet op kan downloaden. Daarom ben ik overgestapt naar Google Fonts.
+Mijn zoektocht naar een lettertype begon in Adobe Illustrator. Daar vond ik een lettertype dat goed paste bij het thema bergen en natuur. Omdat ik dit lettertype niet kon gebruiken op mijn website, ben ik verder gaan zoeken op Google Fonts.
 
-Hier koos ik voor Indie Flower. De vrije, handgeschreven vorm geeft de website een natuurlijk en persoonlijk karakter, precies wat ik zocht in plaats van een standaard, zakelijk lettertype.
+Uiteindelijk heb ik gekozen voor Indie Flower. De vrije, handgeschreven vorm geeft de website een natuurlijk en persoonlijk karakter. Dit past beter bij de sfeer die ik wil creëren.
 
 Waarom heb ik gekozen voor het onderwerp bergen?
 
-Bergen geven mij een gevoel van vrijheid, rust en avontuur. Ik houd enorm van buiten zijn, de natuur ontdekken en activiteiten zoals boulderen en klimmen. Door bergen als thema te kiezen, kon ik een onderwerp nemen waar ik écht enthousiast over ben. Het leek mij een onderwerp waar ik heel creatief mee kon zijn, omdat ik vrijwel meteen verschillende ideeën in mijn hoofd had, zoals de collage van bergen. Dit maakte het ontwerpen en bouwen van de website leuker en zorgde ervoor dat ik graag verschillende creatieve dingen wilde uitproberen met CSS.
+Bergen geven mij een gevoel van vrijheid, rust en avontuur. Ik houd ervan om buiten te zijn, de natuur te ontdekken en activiteiten te ondernemen, zoals boulderen en klimmen. Daarom wilde ik een onderwerp kiezen waar ik zelf enthousiast over ben. Ik merkte dat ik hierdoor al snel veel ideeën kreeg, zoals het maken van een collage met bergfoto’s. Dit maakte het ontwerpproces leuker en motiveerde me om verschillende creatieve mogelijkheden met CSS uit te proberen.
 
 Hoe ben ik op het idee van de zon en de maan gekomen?
 
-Tijdens de light/dark mode deep dive gaf Vasilis aan dat hij het vaak te veel moeite vindt om een schakelaar op een website te zetten, en hij vroeg wie daar nu eigenlijk echt op klikt. Mijn reactie was direct: “Ik klik daar altijd op, vind ik leuk om te zien!” Tijdens de les ben ik gaan nadenken over hoe ik zo'n interactieve toggle in mijn eigen website kon verwerken, terwijl ik tegelijkertijd leerde welke technische mogelijkheden er allemaal waren met CSS. Zo ontstond het idee om de dag en nachtstand visueel te koppelen aan een zon en een maan, bovenop de bergen.
+Tijdens de Light/Dark Mode Deep Dive vertelde Vasilis dat hij het vaak te veel moeite vindt om een schakelaar voor light en darkmode aan een website toe te voegen. Hij vroeg wie daar eigenlijk op klikt. Mijn reactie was dat ik daar zelf juist graag op klik, omdat ik het leuk vind om te zien hoe een website verandert. Hierdoor ben ik tijdens de les gaan nadenken over hoe ik deze interactie in mijn eigen website kon verwerken. Zo ontstond het idee om de light en darkmode te koppelen aan een zon en een maan boven de bergen, zodat de bezoeker kan wisselen tussen dag en nacht.
 
-Waarom heb ik toch geen pagina over wildkamperen gemaakt?
+Waarom heb ik uiteindelijk geen pagina over wildkamperen gemaakt?
 
-Zelf heb ik weinig ervaring met wildkamperen, terwijl boulderen juist een grote passie van me is. Het leek me daarom veel interessanter en echter om een pagina te maken aan een onderwerp waar ik zelf actief mee bezig ben en mijn eigen foto's en video's voor kan gebruiken.
+Ik heb hier zelf weinig ervaring mee, terwijl boulderen juist een weekelijkse activiteit voor mij is. Daarom leek het me interessanter om een pagina over klimmen te maken. Ik kan hiervoor mijn eigen foto’s en video’s gebruiken, waardoor de website persoonlijker wordt en de inhoud beter aansluit bij mijn eigen ervaringen en interesses.
 
 ### 30 sept kleur aanpassen
 
-<img src="toggeltoegevoegd.jpg" width="50%"> Uit mijn toegankelijkheids test bleek dat de zon/maan niet bereikbaar waren met tab. Dit kwam omdat er geen toggel zichtbaar was. Dus om dit op te lossen heb ik toch een zichtbare toggel toegevoegd.
+<img src="toggeltoegevoegd.jpg" width="50%"> 
+
+Uit mijn toegankelijkheidstest bleek dat de zon en maanknop niet bereikbaar waren met de Tab. Dit kwam doordat de radiobuttons onzichtbaar waren gemaakt en er geen zichtbare toggle aanwezig was. Om dit probleem op te lossen, heb ik een zichtbare toggle toegevoegd.
 
 <img src="galerij.jpg" width="50%">
 <img src="galerijkleuraangepast.jpg" width="50%">
-<img src="galerijdefinitievekleur.jpg" width="50%"> Omdat ik nog niet tevreden was met de kleuren van mijn website, ik vond ze te fel en niet natuurlijk genoeg, heb ik verschillende combinaties uitgeprobeerd. Uiteindelijk heb ik op de homepage het donkerblauw aangepast naar een nog diepere blauwtint, en zijn de twee verschillende groentinten veranderd naar een wat meer moerasgroen.
+<img src="galerijdefinitievekleur.jpg" width="50%"> 
 
-<img src="focuskleurtoevoegen.jpg" width="50%"> Uit mijn toegankelijkheidstest bleek dat er een duidelijke focuskleur nodig was voor het navigeren met de Tab-toets. Ik heb ervoor gekozen om deze kleur per pagina aan te passen: omdat de drie pagina's elk een eigen kleurenpalet hebben, zorgt een afgestemde focuskleur voor het beste contrast en een duidelijkere weergave.
+Omdat ik nog niet tevreden was met de kleuren van mijn website, heb ik verschillende kleurencombinaties uitgeprobeerd. Ik vond de oorspronkelijke kleuren te fel en niet natuurlijk genoeg. Uiteindelijk heb ik het donkerblauw op de homepage vervangen door een diepere blauwtint en de twee groentinten aangepast naar een meer moerasachtige kleur. Hierdoor sluiten de kleuren beter aan bij de natuurlijke sfeer die ik met mijn website wil creëren.
+
+Op de galerijpagina heb ik bewust gekozen voor groen, omdat hier foto’s van bergen te zien zijn. De kleur groen sluit goed aan bij de natuur op deze foto’s.
+
+<img src="focuskleurtoevoegen.jpg" width="50%"> 
+
+Uit mijn toegankelijkheidstest bleek dat er een duidelijke focuskleur nodig was voor het navigeren met de Tab-toets. Ik heb ervoor gekozen om deze kleur per pagina anders te doen. Omdat de drie pagina's elk een eigen kleurenpalet hebben, zorgt een afgestemde focuskleur voor het beste contrast en een duidelijkere weergave.
 
 checkout
 
@@ -293,11 +308,14 @@ zicht, cognitief, consentratie
 
 3. Noem drie manieren om door een website te navigeren met jouw screenreader.
 
-Tab, Tab shift, enter,
+Tab, Tab shift, enter, 
+
+control option u, pijltje links recht boven en onder: voor venster menu
 
 ### 26 sept
+bi-weekly geek
 
-<img src="idk.jpg" width="50%"> bi-weekly geek
+<img src="idk.jpg" width="50%"> 
 <img src="C Welingelichte Cookie Consent.jpg" width="50%">
 
 ### 21 sept light en dark mode knop
