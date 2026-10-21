@@ -467,31 +467,29 @@ Geoefend met verschillende gardients maken:
 <img src="2.jpg" width="50%">
 <img src="crazy 8.jpg" width="50%">
 
-<img src="visualr.jpg" width="50%"> Uit mijn visuele onderzoek kwam naar voren dat ik voor mijn lettertype graag een vrije, natuurlijke vorm wilde. Dit past goed bij mijn onderwerp en vind ik zelf ook heel mooi.
+<img src="visualr.jpg" width="50%"> Uit mijn visuele onderzoek kwam naar voren dat ik op zoek was naar een lettertype met een vrije en natuurlijke vorm. Dit past goed bij het onderwerp en de sfeer die ik met mijn ontwerp wil overbrengen. Daarnaast vind ik deze stijl zelf erg mooi.
 
-Verder had ik al bedacht om een collage van verschillende berg foto's te maken. Omdat ik veel mooie bergen heb gezien op mijn vakanties vond ik dit een leuke manier om die allemaal te kunnen laten zien.
+Ook had ik al het idee om een collage te maken van verschillende bergfoto’s. Tijdens mijn vakanties heb ik veel mooie bergen gezien, die ik graag in mijn ontwerp wilde verwerken. Door verschillende foto’s te combineren in één collage, kan ik deze landschappen samenbrengen en een persoonlijke betekenis aan mijn ontwerp geven.
 
 1. Leg uit waar het Visual Research in 3 stappen naartoe werkt
 
-Beelden, foto's, schetsen verzamelen. Verzameling van informatie. Lijdt tot patronen vinden om jou stijl en ontwerp te kunnen analyseren.
+Visual Research begint met het verzamelen van beelden, foto’s, schetsen en andere visuele inspiratie. Vervolgens analyseer je deze verzameling om overeenkomsten, patronen en stijlen te zien. Deze inzichten helpen je om een eigen stijl te kiezen voor de tuin.
 
-3. Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
+3. Vertel in 2 zinnen waar jouw Garden over gaat en met welke content je dat gaat doen.
 
-Kijkers overhalen meer activiteiten in de bergen te doen om ervoor te zorgen dat er meer respect ontstaat voor de natuur. Aan de hand van collages en informatie over hoe makkelijk het is om de bergen in te gaan.
+Mijn Garden is erop gericht om mensen te inspireren om meer activiteiten in de bergen te ondernemen, zodat ze meer waardering en respect krijgen voor de natuur. Dit wil ik doen met collages van bergfoto’s en informatie over leuke activiteiten om in de bergen te doen.
 
-5. Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
+5. Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren of verder zou willen onderzoeken.
 
-In mijn eerste schets heb ik een zon die in een maan veranderd, geschetst. Het idee daaracht is dat als je er op klikt je overstapt van ligt naar dark mode. Dit vond ik zelf echt een leuk idee dus ik zou het wel heel leuk vinf=den als ik dit in mijn tuintje kan verwerken.
+In mijn eerste schets van de Crazy 8 heb ik een zon getekend die in een maan verandert. Het idee is dat de bezoeker door op de zon of maan te klikken kan wisselen tussen de light mode en dark mode. Dit vind ik een leuk en interactief idee dat ik graag verder wil uitwerken.
 
 ### 8 sept Deep dive: light and dark mode
 
-Screenshots van de opdracht die ik heb gemaak. Ik heb veel van deze deep dive geleerd en veel inspiratie opgedaan. Bij 1 oktober leg ik uit wat voor inspiratie.
+Screenshots van de opdracht die ik heb gemaak. Ik heb veel van deze deep dive geleerd en veel inspiratie opgedaan. In de log van 1 oktober leg ik uit wat voor inspiratie.
 
 <img src="makkie.jpg" width="50%">
 <img src="kipkakie.jpg" width="50%">
 <img src="katten.jpg" width="50%">
-
-![alt text](IMG_7534.heic)
 
 ### 7 sept website analyseren
 
