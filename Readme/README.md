@@ -94,7 +94,7 @@ Omdat ik veel verschillende schetsen had gemaakt en twijfelde over de juiste sam
 
 Om de code van de cookies te schrijven heb ik gekeken naar de code van de deepdive. Deze heb ik aangepast tot dat mijn popup eruit zag zoals hierboven te zien is.
 
-### feedback, check out en animatie deepdive - 9 okt
+### 9 okt feedback, check out en animatie deepdive
 
 <img src="animatiedeepdive.jpg" width="50%"> Ik heb hier de oefeningentjes gedaan van de deep dive. Het heeft me nog geen inspiratie gegeven hoe ik het kan toepassen op mijn lyrics.
 
@@ -118,7 +118,7 @@ Sfeer en uitstraling: De fijnere lijnen van de dunnere letters van bepaalde woor
 
 Omdat het nummer subtiele melodische modulaties en toonhoogteverschillen heeft die niet plotseling omslaan, sluit een vloeiende, golvende animatie hier goed bij aan.
 
-### Spinvis - voor ik vergeet
+### 7 en 8 okt Spinvis - voor ik vergeet
 
 <img src="voorik1.jpg" width="50%">
 <img src="voorik2.jpg" width="50%">
@@ -126,31 +126,43 @@ Omdat het nummer subtiele melodische modulaties en toonhoogteverschillen heeft d
 <img src="voorik4.jpg" width="50%">
 <img src="voorik5.jpg" width="50%">
 <img src="voorik6.jpg" width="50%">
-<img src="voorik7.jpg" width="50%"> Achteraf gezien had ik in mijn schetsfase meer kunnen variëren door actiever te experimenteren met verschillende vormen, groottes en witruimtes. Door dat breder te verkennen, was ik waarschijnlijk op meer ontwerpideeën uitgekomen.
+<img src="voorik7.jpg" width="50%"> 
+
+Achteraf gezien had ik in mijn schetsfase meer kunnen variëren door actiever te experimenteren met verschillende vormen, groottes en witruimtes. Door dat breder te verkennen, was ik waarschijnlijk op meer ontwerpideeën uitgekomen.
 
 <img src="geencookies.jpg" width="50%">
 <img src="geencookies2.jpg" width="50%">
-<img src="geencookies3.jpg" width="50%"> Voor mijn cookie-popup heb ik onderzocht welke cookies mijn website gebruikt. Hieruit bleek dat de site momenteel helemaal geen cookies plaatst. Ik heb daarom aan Vasilis gevraagd of ik functionaliteiten met cookies moest toevoegen, of dat ik fictieve cookies mocht gebruiken. Omdat het om een prototype gaat, adviseerde hij om gewoon zelf een cookie te bedenken.
+<img src="geencookies3.jpg" width="50%"> 
+
+Voor mijn cookie-popup heb ik onderzocht welke cookies mijn website gebruikt. Hieruit bleek dat de site momenteel helemaal geen cookies plaatst. Ik heb daarom aan Vasilis gevraagd of ik functionaliteiten met cookies moest toevoegen, of dat ik fictieve cookies mocht gebruiken. Omdat het om een prototype gaat, adviseerde hij om gewoon zelf een cookie te bedenken.
 
 <img src="headercode.jpg" width="50%">
-<img src="geensticky.jpg" width="50%"> Mijn header bleef niet sticky. Om dit op te lossen had ik height: 100% toegevoegd. Daarna heb ik met Vasilis gekeken waarom het niet werkte, dit kwam omdat ik position: sticky in de h1 heb gezet. Dus nu heb ik dit aangepast.
+<img src="geensticky.jpg" width="50%"> 
+
+Mijn header bleef niet sticky. Om dit op te lossen had ik height: 100% toegevoegd. Daarna heb ik met Vasilis gekeken waarom het niet werkte, dit kwam omdat ik position: sticky in de h1 heb gezet. Dus nu heb ik dit aangepast.
 
 <img src="horizontalescrol.jpg" width="50%">
-<img src="horizontalscrolcode.jpg" width="50%"> ik heb "straten en examens en vakanties" aan elkaar geschreven omdat het in het nummer klinkt alsof het 1 woord is. Ik heb daardoor wel moeite gehald met horizontale scrol. Om dat op te lossen heb ik 2 media queries toegevoegd.
+<img src="horizontalscrolcode.jpg" width="50%"> 
 
-<img src="Voorikvergeet1.jpg" width="50%"> Hier is mijn schets vertaling naar html/css te zien van een deel van de lyrics van voor ik vergeet. Ik zou graag later nog meer dingentjes willen toevoegen zoals een scheve titel. Ik nu vooral erop gelet dat het zo goed mogelijk leest zoal het in het nummer echt wordt uitgesproken. Door de letters binnen een woord kleiner of groter te laten worden hoop ik over te brengen dat de toon omhoog gaat.
+ik heb "straten en examens en vakanties" aan elkaar geschreven omdat het in het nummer klinkt alsof het 1 woord is. Ik heb daardoor wel moeite gehald met horizontale scrol. Om dat op te lossen heb ik 2 media queries toegevoegd.
+
+<img src="Voorikvergeet1.jpg" width="50%"> 
+
+Hier is mijn schets vertaling naar html/css te zien van een deel van de lyrics van voor ik vergeet. Ik zou graag later nog meer dingentjes willen toevoegen zoals een scheve titel. Ik nu vooral erop gelet dat het zo goed mogelijk leest zoal het in het nummer echt wordt uitgesproken. Door de letters binnen een woord kleiner of groter te laten worden hoop ik over te brengen dat de toon omhoog gaat.
 
 Ik heb de letters groter gemaakt door een span binnen een h of p te zetten:
 
 <img src="lettervergotenmetspan.jpg" width="50%">
 
-### deepdive intresantere layout
+### 6 okt - deepdive intresantere layout
 
 <img src="Interesanterelayouts.jpg" width="50%">
 <img src="interesanterelayout2.jpg" width="50%">
 
 <img src="horizontalscroling2.jpg" width="50%">
-<img src="horizontalscroling.jpg" width="50%"> Ik heb hier met Vasilis gekeken waarom er een horizontal scrol zat in mijn website op de telefoon. Dit heb ik daarna in mijn code toegepast.
+<img src="horizontalscroling.jpg" width="50%"> 
+
+Ik heb hier met Vasilis gekeken waarom er een horizontal scrol zat in mijn website op de telefoon. De zon was te breedt. Dit heb ik daarna in mijn code aangepast.
 
 ### 5 okt checkout
 
