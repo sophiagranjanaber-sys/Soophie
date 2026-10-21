@@ -446,14 +446,21 @@ Ik heb aan mijn tweetal beschreven wat mijn plan is voor mijn website. Veel foto
 
 ### 13 sept, font en feedback
 
-<img src="web1.jpg" width="50%"> Font toegepast op mijn website. Hierbij heb ik @fontface gebruikt. Ik heb ook een light en darkmode gemaakt met custom properties. Met de light en dark mode wil ik een effect maken dat het dag of nacht is in de bergen.
-<img src="feedback1.jpg" width="50%"> Dit heb ik nu in mijn website gedaan. Ik vond dit een goed idee omdat ik daardoor beter 1 idee kan uitwerken in plaats van verschillende ideetjes minder goed afgewerkt laten.
+<img src="web1.jpg" width="50%"> 
+
+Ik heb het gekozen lettertype toegepast op mijn website met behulp van @font-face. Daarnaast heb ik een lightmode en darkmode gemaakt met behulp van CSS custom properties. Door tussen de twee thema's te wisselen wil ik het effect creëren dat het dag of nacht is in de bergen.
+
+<img src="feedback1.jpg" width="50%"> 
+
+Dit heb ik nu in mijn website gedaan. Ik vond dit een goed idee omdat ik daardoor beter 1 idee kan uitwerken in plaats van verschillende ideetjes minder goed afgewerkt laten.
 
 ### 11 sept schermschetsen
 
 <img src="schermen 1.jpg" width="50%">
 <img src="schermen 2.jpg" width="50%">
 <img src="schets3.jpg" width="50%">
+
+Ik had bedacht om de navigatie op een telefoon bovenaan te plaatsen en op een laptop aan de rechterkant. Uiteindelijk heb ik ervoor gekozen om de navigatie ook op de laptop bovenaan te houden. Ik was hiermee begonnen en merkte dat ik het juist mooi vond dat de bezoeker naar beneden moest scrollen om bij de collages te komen. Hierdoor ontstaat er een overgang van de navigatie naar de visuele inhoud van mijn website.
 
 ### 10 sept Deep dive gradient
 
