@@ -12,6 +12,7 @@ Feedback:
 Vandaag heb ik geleerd dat je met MARKS in je code verschillende onderdelen kunt markeren. Dit maakt het een stuk overzichtelijker en makkelijker om specifieke onderdelen terug te vinden. Vasilis gaf me de feedback om mijn code netter te organiseren. Zo stond mijn body bijvoorbeeld midden in de rest van mijn code, waardoor de structuur onoverzichtelijk was.
 
 Naar aanleiding van deze feedback heb ik mijn code opnieuw georganiseerd. Ik heb MARKS toegevoegd aan de verschillende onderdelen en alles gesorteerd in dezelfde volgorde als in mijn html. Hierdoor is mijn code overzichtelijker geworden en kan ik onderdelen sneller terugvinden. Achteraf gezien had ik deze werkwijze graag eerder willen ontdekken, omdat het me veel tijd kan besparen tijdens het werken aan mijn website.
+
 <img src="MARK.jpg" width="50%">
 
 Ik had gevraagd of de classes in mijn cookies wel echt nodig waren. Hierbij stelde Vasilis voor het te vervangen voor nth-of-type (Ik was even vergeten dat die mogelijkheid er was), dus dat heb ik nu aangepast.
