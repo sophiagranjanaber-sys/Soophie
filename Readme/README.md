@@ -8,11 +8,20 @@ Feedback:
 
 We hebben in 3 tallen gekeken naar elkaars website en elkaar feedback gegeven.
 
-<img src="Feedback2.jpg" width="80%">
-<img src="feedback3.jpg" width="80%">
+<img src="Feedback2.jpg" width="100%">
+<img src="feedback3.jpg" width="100%">
+
+### 20 okt deep dive met vasilis
+Tijdens deze deep dive heeft Vasilis naar mijn lyric ontwerp gekeken. Ik heb hem toen laten zien dt ik de bogen en cirkels met coordinaten heb geschreven.
+
+<img src="coordinaten.jpg" width="50%">
+
+Helaas (maar ook leuk en handig om te zien dat het mogelijk is) heeft hij me toen laten zien dat het een stuk makkelijker kan door coordinaten te vereenvoudigen: 
+<img src="klokkenmanier.jpg" width="50%">
+
+Als ik alle feedback optijd heb kunnen verwerken in mijn website en lyric ontwerp wil ik deze manier graag toepassen. 
 
 ### 19 okt - feedback Vasilis en Joëlle
-
 Vandaag heb ik geleerd dat je met MARKS in je code verschillende onderdelen kunt markeren. Dit maakt het een stuk overzichtelijker en makkelijker om specifieke onderdelen terug te vinden. Vasilis gaf me de feedback om mijn code netter te organiseren. Zo stond mijn body bijvoorbeeld midden in de rest van mijn code, waardoor de structuur onoverzichtelijk was.
 
 Naar aanleiding van deze feedback heb ik mijn code opnieuw georganiseerd. Ik heb MARKS toegevoegd aan de verschillende onderdelen en alles gesorteerd in dezelfde volgorde als in mijn html. Hierdoor is mijn code overzichtelijker geworden en kan ik onderdelen sneller terugvinden. Achteraf gezien had ik deze werkwijze graag eerder willen ontdekken, omdat het me veel tijd kan besparen tijdens het werken aan mijn website.
@@ -21,32 +30,34 @@ Naar aanleiding van deze feedback heb ik mijn code opnieuw georganiseerd. Ik heb
 
 Ik had gevraagd of de classes in mijn cookies wel echt nodig waren. Hierbij stelde Vasilis voor het te vervangen voor nth-of-type (Ik was even vergeten dat die mogelijkheid er was), dus dat heb ik nu aangepast.
 
-<img src="webbytest.jpg" width="50%"> bij wel/niet verrast hoort te staan: Ik ben verbaast over hoeveel ik heb leren coderen.
+<img src="webbytest.jpg" width="50%"> 
 
 Uit mijn eigen test heb ik gehaald dat ik nog een animatie en een CSS-gradient wil toevoegen. Ik dacht hierbij aan een gradient die geïnspireerd is op een zonsondergang, zodat de visuele sfeer aansluit bij de natuur en de bergen. Ook merkte ik dat mijn foto in de collage zich niet goed aanpast aan kleinere schermen. Daarnaast wil ik de cookie-popup zichtbaarder maken.
 
 Van Joëlle kreeg ik de feedback om alle navigatieknoppen toe te voegen aan de pagina’s Klim en Gallerij. De links naar Spinvis en mijn README ontbraken hier nog. Dit heb ik inmiddels aangepast, zodat de bezoeker vanaf iedere pagina naar de lyrics en de README kan navigeren.
 
-Aan het begin van het project kreeg ik van mijn moeder de feedback dat de zon nog niet duidelijk herkenbaar was als knop. Ik had hier toen nog niets mee gedaan, maar door Joëlle’s suggestie om een animatie toe te voegen, ben ik hier opnieuw over gaan nadenken. Ik besloot de zon te laten draaien en heb dezelfde animatie ook op de maan toegepast. Hiermee hoop ik duidelijker te maken dat beide elementen interactief zijn en dat de bezoeker erop kan klikken. En het is natuurlijk ook leuk om een annimatie in mijn website te hebben.
+Aan het begin van het project kreeg ik van mijn moeder de feedback dat de zon nog niet duidelijk herkenbaar was als knop. Ik had hier toen nog niets mee gedaan, maar door Joëlle’s suggestie om een animatie aan de zon toe te voegen, ben ik hier opnieuw over gaan nadenken. Ik besloot de zon te laten draaien en heb dezelfde animatie ook op de maan toegepast. Hiermee hoop ik duidelijker te maken dat beide elementen interactief zijn en dat de bezoeker erop kan klikken. Daarnaast is het natuurlijk ook leuk om een animatie aan mijn website toe te voegen.
 
-Tot slot adviseerde Joëlle om de cookie popup direct bij het openen van de website te tonen. Dit leek mij een goede oplossing, omdat de melding hierdoor beter opvalt. Ik kan de knop onderaan de pagina behouden, terwijl de cookie informatie als een duidelijke popup over de website verschijnt.
+Tot slot adviseerde Joëlle om de cookie-popup direct bij het openen van de website te tonen. Dit leek mij een goede oplossing, omdat de melding hierdoor beter opvalt.
 
 ### 17 okt - lyric uitwerken
 
-<img src="nieuwecode.jpg" width="50%"> Bij het schrijven van deze code merk ik dat ik meer notities aan het schrijven ben en dat ik dat heel handig vind om te doen omdat ik alles makkelijker terug kan vinden en aanpassen. Bij alle vorige codes die ik heb geschreven heb ik af en toe een paar notities gezet maar is het vooral code.
+<img src="nieuwecode.jpg" width="50%"> 
 
-<img src="vergeet23.jpg" width="50%">
-<img src="vergeet21.jpg" width="50%"> 
-<img src="vergeet22.jpg" width="50%"> 
-<img src="vergeet24.jpg" width="50%">
+Tijdens het schrijven van deze code merk ik dat ik meer notities toevoeg dan bij mijn eerdere projecten. Ik vind dit erg handig, omdat ik hierdoor makkelijker onderdelen kan terugvinden en aanpassen. Bij mijn vorige codes schreef ik af en toe een paar notities, maar bestond het grootste deel uit code. Door nu meer uitleg en opmerkingen toe te voegen, houd ik mijn code overzichtelijker en begrijp ik beter wat ik op welke plek heb gedaan.
 
-### Annotatie – Iteraties van de schetsen
+<img src="vergeet23.jpg" width="45%">
+<img src="vergeet21.jpg" width="45%"> 
+<img src="vergeet22.jpg" width="45%"> 
+<img src="vergeet24.jpg" width="45%">
 
 Ik heb verschillende iteraties van mijn schetsen gemaakt, omdat de oorspronkelijke schets op de laptop niet helemaal overeenkwam met wat ik wilde verbeelden. De vierkanten sloten visueel niet goed aan bij de rest van de compositie, waardoor ik verschillende varianten heb uitgeprobeerd.
 
 Daarnaast twijfelde ik over het toevoegen van de kleinere woorden ‘voor’ en ‘ik’. Uiteindelijk heb ik ervoor gekozen om deze toe te voegen, omdat de zin ‘voor ik vergeet’ in het nummer voortdurend wordt herhaald. Door alleen deze twee kernwoorden subtiel te herhalen, probeer ik de herhaling uit het nummer visueel te vertalen, zonder de volledige zin steeds letterlijk terug te laten komen.
 
 Van alle tussenstappen heb ik screenshots gemaakt, zodat ik de verschillende versies kon vergelijken en op basis daarvan een bewuste keuze kon maken voor de uiteindelijke compositie.
+
+Met de verschillende vormen probeer ik de rustige, vloeiende beweging van het nummer *Voor ik vergeet* te verbeelden. Ik heb geëxperimenteerd met de plaatsing en vorm van de tekst, bijvoorbeeld door worden onder elkaar te schrijven en langs de cirkel te laten lopen. Door de verschillende vormen in elkaar over te laten lopen, hoop ik meer samenhang in het ontwerp te creëren. Zo probeer ik de sfeer van het nummer op een visuele manier te vertalen naar de lyrics.
 
 <img src="vergeet25.jpg" width="50%"> 
 <img src="vergeet26.jpg" width="50%"> 
@@ -60,7 +71,8 @@ Van alle tussenstappen heb ik screenshots gemaakt, zodat ik de verschillende ver
 
 ### 16 okt - nieuwe schetsen voor lyrics
 
-Omdat ik nog erg ontevreden was met mijn lyric ontwerp heb ik heel veel nieuwe scheten gemaakt. de vorige keer had ik maar een paar schetsen gemaakt en er was weinig verandering per schets. Dit keer heb ik juist het tegenovergestelde gedaan omdat ik denk dat dat voor een beter resultaat gaat zorgen.
+Omdat ik nog erg ontevreden was over mijn lyricontwerp, heb ik veel nieuwe schetsen gemaakt. De vorige keer had ik maar een paar schetsen gemaakt en waren de verschillen tussen de ontwerpen klein. Dit keer heb ik juist het tegenovergestelde gedaan, omdat ik denk dat het onderzoeken van verschillende richtingen tot een beter resultaat kan leiden.
+Ik heb ervoor gekozen om de feedback van Vasilis niet direct in mijn HTML uit te werken, maar deze wel mee te nemen in mijn schetsen. In plaats van in een schriftje te tekenen, heb ik op A4-papier gewerkt, zodat ik meer ruimte had om te experimenteren met grote verschillen tussen witregels en kleine en grote woorden. Hierdoor kon ik uitzoeken hoe ik de meest passende hiërarchie voor mijn lyricontwerp kon creëren.
 
 <img src="vergeet1.jpg" width="45%">
 <img src="vergeet2.jpg" width="45%">
@@ -68,16 +80,17 @@ Omdat ik nog erg ontevreden was met mijn lyric ontwerp heb ik heel veel nieuwe s
 <img src="vergeet4.jpg" width="45%">
 <img src="vergeet5.jpg" width="45%">
 <img src="vergeet6.jpg" width="45%">
-<img src="vergeet7.jpg" width="45%"> 
+<img src="vergeet7.jpg" width="45%">
 
-Bij deze schets wilde ik een animatie koppelen aan een specifiek geluid in de muziek. In het nummer hoor je een soort fonkeling die doet denken aan twinkelende sterren. Om dit visueel te vertalen, animeer ik de woorden appart van dik naar dun. Hierdoor hoop een sterreneffect na te maken dat het geluid in de tekst versterkt en er visueel mooi uitziet.
+Bij deze schets wilde ik een animatie koppelen aan een specifiek geluid in de muziek. In het nummer hoor je een soort fonkeling die doet denken aan twinkelende sterren. Om dit visueel te vertalen, heb ik de woorden om en om van dik naar dun laten veranderen. Hiermee hoop ik een sterreneffect na te maken dat het geluid in de tekst visueel versterkt en er tegelijkertijd mooi uitziet.
 
 <img src="vergeet8.jpg" width="45%">
 <img src="vergeet9.jpg" width="45%">
 <img src="vergeet10.jpg" width="45%">
 
-Omdat ik veel verschillende schetsen had gemaakt en twijfelde over de juiste samenhang, heb ik mijn favorieten stukjes uitgeknipt. Door losse onderdelen handmatig te combineren en te schuiven, kon ik verschillende lay-outs en combinaties direct vergelijken. Dit gaf mij inzicht in welke combinatie het meest passend was voor de uiteindelijke uitwerking in code.
-<img src="vergeet11.jpg" width="45%">
+Omdat ik veel verschillende schetsen had gemaakt en twijfelde over de samenhang, heb ik mijn favoriete onderdelen uitgeknipt. Door deze los van elkaar te combineren en te verschuiven, kon ik verschillende lay-outs en combinaties uitproberen en direct met elkaar vergelijken. Dit hielp me om beter inzicht te krijgen in welke onderdelen goed bij elkaar pasten en welke combinatie ik het beste kon gebruiken voor de uiteindelijke uitwerking in code.
+
+<img src="vergeet11.jpg" width="45%">     
 <img src="vergeet12.jpg" width="45%">
 <img src="vergeet13.jpg" width="45%">
 <img src="vergeet14.jpg" width="45%">
