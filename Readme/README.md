@@ -150,9 +150,7 @@ Ik heb ‘straten en examens en vakanties’ aan elkaar geschreven, omdat het in
 
 <img src="Voorikvergeet1.jpg" width="50%"> 
 
-Hier is te zien hoe ik een deel van de lyrics van *Voor ik vergeet* heb vertaald naar HTML en CSS. Ik wil later nog meer details toevoegen, zoals een scheve titel. Op dit moment heb ik me vooral gericht op de leesbaarheid en op het zo goed mogelijk weergeven van hoe de tekst in het nummer wordt uitgesproken. Door de letters binnen een woord groter of kleiner te maken, probeer ik de veranderingen in toonhoogte visueel over te brengen.
-
-Ik heb de letters groter gemaakt door een span binnen een h of p te zetten:
+Hier is te zien hoe ik een deel van de lyrics van *Voor ik vergeet* heb vertaald naar HTML en CSS. Ik wil later nog meer details toevoegen, zoals een scheve titel. Hiermee wil ik de vormgeving wat speelser maken. Op dit moment heb ik me vooral gericht op de leesbaarheid en op het zo goed mogelijk weergeven van hoe de tekst in het nummer wordt uitgesproken. Door de letters binnen een woord groter of kleiner te maken, probeer ik de veranderingen in toonhoogte visueel over te brengen en door letters dikker te maken laat ik zien dat het woord wat steviger wordt uitgesproken.
 
 <img src="lettervergotenmetspan.jpg" width="50%">
 
@@ -164,7 +162,7 @@ Ik heb de letters groter gemaakt door een span binnen een h of p te zetten:
 <img src="horizontalscroling2.jpg" width="50%">
 <img src="horizontalscroling.jpg" width="50%"> 
 
-Ik heb hier met Vasilis gekeken waarom er een horizontal scrol zat in mijn website op de telefoon. De zon was te breedt. Dit heb ik daarna in mijn code aangepast.
+Ik heb hier met Vasilis gekeken waarom er een horizontal scrol zat in mijn website op de telefoon. De zon was te breedt. Dit heb ik daarna in mijn code aangepast door de width naar 100vw te brengen en er een max-width aan toe te voegen van 500px.
 
 ### 5 okt checkout
 
