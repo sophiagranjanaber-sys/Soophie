@@ -128,27 +128,29 @@ Omdat het nummer subtiele melodische modulaties en toonhoogteverschillen heeft d
 <img src="voorik6.jpg" width="50%">
 <img src="voorik7.jpg" width="50%"> 
 
-Achteraf gezien had ik in mijn schetsfase meer kunnen variëren door actiever te experimenteren met verschillende vormen, groottes en witruimtes. Door dat breder te verkennen, was ik waarschijnlijk op meer ontwerpideeën uitgekomen.
+Achteraf gezien had ik tijdens de schetsfase meer kunnen variëren door meer te experimenteren met verschillende vormen, groottes en witruimtes. Door meer verschillende mogelijkheden uit te proberen, had ik waarschijnlijk op meer ontwerpideeën kunnen komen. Dit neem ik mee naar mijn volgend schets moment.
+
+Voor mijn cookie-popup heb ik onderzocht welke cookies mijn website gebruikt. Hieruit bleek dat mijn website op dit moment helemaal geen cookies plaatst. Daarom heb ik Vasilis gevraagd of ik functionaliteiten moest toevoegen die cookies gebruiken, of dat ik voor mijn prototype een fictieve cookie mocht bedenken. Omdat het om een prototype gaat, adviseerde hij mij om zelf een cookie te bedenken. Hierdoor kon ik de cookie-popup toch uitwerken en meenemen in het ontwerp, zonder dat ik daadwerkelijk cookies aan mijn website hoefde toe te voegen.
+
+Met behulp van gemini heb ik onderzocht welke cookies mijn website gebruikt. Gemini heeft me toen stap voor stap uitgelegd hoe ik dat kan vinden via inspecteren:
 
 <img src="geencookies.jpg" width="50%">
 <img src="geencookies2.jpg" width="50%">
 <img src="geencookies3.jpg" width="50%"> 
 
-Voor mijn cookie-popup heb ik onderzocht welke cookies mijn website gebruikt. Hieruit bleek dat de site momenteel helemaal geen cookies plaatst. Ik heb daarom aan Vasilis gevraagd of ik functionaliteiten met cookies moest toevoegen, of dat ik fictieve cookies mocht gebruiken. Omdat het om een prototype gaat, adviseerde hij om gewoon zelf een cookie te bedenken.
+Mijn header bleef niet sticky. Om dit op te lossen had ik height: 100% toegevoegd. hierbij had gemini mij geholpen. Dit loste het probleem wel op, maar ik wist dat het niet de juiste manier was. Daarom heb ik met Vasilis gekeken waarom het niet werkte zonder de height, dit kwam omdat ik position: sticky in de h1 had gezet ipv in de header. Nu heb ik dit verbeterd.
 
 <img src="headercode.jpg" width="50%">
 <img src="geensticky.jpg" width="50%"> 
 
-Mijn header bleef niet sticky. Om dit op te lossen had ik height: 100% toegevoegd. Daarna heb ik met Vasilis gekeken waarom het niet werkte, dit kwam omdat ik position: sticky in de h1 heb gezet. Dus nu heb ik dit aangepast.
-
 <img src="horizontalescrol.jpg" width="50%">
 <img src="horizontalscrolcode.jpg" width="50%"> 
 
-ik heb "straten en examens en vakanties" aan elkaar geschreven omdat het in het nummer klinkt alsof het 1 woord is. Ik heb daardoor wel moeite gehald met horizontale scrol. Om dat op te lossen heb ik 2 media queries toegevoegd.
+Ik heb ‘straten en examens en vakanties’ aan elkaar geschreven, omdat het in het nummer klinkt alsof het één woord is. Hierdoor liep ik wel tegen problemen met horizontaal scrollen aan. Om dit op te lossen, heb ik twee media queries toegevoegd, zodat de tekst zich beter aanpast aan verschillende schermformaten.
 
 <img src="Voorikvergeet1.jpg" width="50%"> 
 
-Hier is mijn schets vertaling naar html/css te zien van een deel van de lyrics van voor ik vergeet. Ik zou graag later nog meer dingentjes willen toevoegen zoals een scheve titel. Ik nu vooral erop gelet dat het zo goed mogelijk leest zoal het in het nummer echt wordt uitgesproken. Door de letters binnen een woord kleiner of groter te laten worden hoop ik over te brengen dat de toon omhoog gaat.
+Hier is te zien hoe ik een deel van de lyrics van *Voor ik vergeet* heb vertaald naar HTML en CSS. Ik wil later nog meer details toevoegen, zoals een scheve titel. Op dit moment heb ik me vooral gericht op de leesbaarheid en op het zo goed mogelijk weergeven van hoe de tekst in het nummer wordt uitgesproken. Door de letters binnen een woord groter of kleiner te maken, probeer ik de veranderingen in toonhoogte visueel over te brengen.
 
 Ik heb de letters groter gemaakt door een span binnen een h of p te zetten:
 
