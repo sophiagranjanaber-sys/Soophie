@@ -62,47 +62,50 @@ Van alle tussenstappen heb ik screenshots gemaakt, zodat ik de verschillende ver
 
 Omdat ik nog erg ontevreden was met mijn lyric ontwerp heb ik heel veel nieuwe scheten gemaakt. de vorige keer had ik maar een paar schetsen gemaakt en er was weinig verandering per schets. Dit keer heb ik juist het tegenovergestelde gedaan omdat ik denk dat dat voor een beter resultaat gaat zorgen.
 
-<img src="vergeet1.jpg" width="50%">
-<img src="vergeet2.jpg" width="50%">
-<img src="vergeet3.jpg" width="50%">
-<img src="vergeet4.jpg" width="50%">
-<img src="vergeet5.jpg" width="50%">
-<img src="vergeet6.jpg" width="50%">
-<img src="vergeet7.jpg" width="50%"> Bij deze schets wilde ik een animatie koppelen aan een specifiek geluid in de muziek. In het nummer hoor je een soort fonkeling die doet denken aan twinkelende sterren. Om dit visueel te vertalen, animeer ik de woorden appart van dik naar dun. Hierdoor hoop een sterreneffect na te maken dat het geluid in de tekst versterkt en er visueel mooi uitziet.
+<img src="vergeet1.jpg" width="45%">
+<img src="vergeet2.jpg" width="45%">
+<img src="vergeet3.jpg" width="45%">
+<img src="vergeet4.jpg" width="45%">
+<img src="vergeet5.jpg" width="45%">
+<img src="vergeet6.jpg" width="45%">
+<img src="vergeet7.jpg" width="45%"> 
 
-<img src="vergeet8.jpg" width="50%">
-<img src="vergeet9.jpg" width="50%">
-<img src="vergeet10.jpg" width="50%">
+Bij deze schets wilde ik een animatie koppelen aan een specifiek geluid in de muziek. In het nummer hoor je een soort fonkeling die doet denken aan twinkelende sterren. Om dit visueel te vertalen, animeer ik de woorden appart van dik naar dun. Hierdoor hoop een sterreneffect na te maken dat het geluid in de tekst versterkt en er visueel mooi uitziet.
+
+<img src="vergeet8.jpg" width="45%">
+<img src="vergeet9.jpg" width="45%">
+<img src="vergeet10.jpg" width="45%">
 
 Omdat ik veel verschillende schetsen had gemaakt en twijfelde over de juiste samenhang, heb ik mijn favorieten stukjes uitgeknipt. Door losse onderdelen handmatig te combineren en te schuiven, kon ik verschillende lay-outs en combinaties direct vergelijken. Dit gaf mij inzicht in welke combinatie het meest passend was voor de uiteindelijke uitwerking in code.
-<img src="vergeet11.jpg" width="50%">
-<img src="vergeet12.jpg" width="50%">
-<img src="vergeet13.jpg" width="50%">
-<img src="vergeet14.jpg" width="50%">
-<img src="vergeet15.jpg" width="50%">
-<img src="vergeet16.jpg" width="50%">
-<img src="vergeet17.jpg" width="50%">
-<img src="vergeet18.jpg" width="50%">
-<img src="vergeet19.jpg" width="50%">
+<img src="vergeet11.jpg" width="45%">
+<img src="vergeet12.jpg" width="45%">
+<img src="vergeet13.jpg" width="45%">
+<img src="vergeet14.jpg" width="45%">
+<img src="vergeet15.jpg" width="45%">
+<img src="vergeet16.jpg" width="45%">
+<img src="vergeet17.jpg" width="45%">
+<img src="vergeet18.jpg" width="45%">
+<img src="vergeet19.jpg" width="45%">
 
 ### 14 okt - cookies popup ontwerpen
 
 <img src="cookies1.jpg" width="50%">
-<img src="cookies2.jpg" width="50%"> Ik heb hier verschillende tekeningen gemaakt voor mijn cookie popup. Uiteindelijk heb ik gekozen voor de paars gele popup. Ik vond die kleuren het beste bij elkaar passen en ook bij de rest van mijn website. Paars is een kleur die ik nog niet had gebruikt en ik hebruik voor elk scherm een andere kleuren combinatie. Ondanks dat er  nog geen paars in zat vond ik het wel goed passend bij de donkeren marine en groene kleuren.
+<img src="cookies2.jpg" width="50%"> 
+
+Ik heb verschillende schetsen gemaakt voor mijn cookie-popup. Uiteindelijk heb ik gekozen voor de paars-gele variant, omdat ik deze kleurencombinatie het beste bij elkaar vond passen en ook goed bij de rest van mijn website vond aansluiten. Paars was een kleur die ik nog niet eerder had gebruikt als achtergrond kleur. Omdat ik voor elk scherm een andere kleurencombinatie gebruik, leek het me leuk om ook hier een nieuwe kleur toe te voegen en het leek mij goed te passen bij de donkere marineblauwe en groene tinten die ik al had gebruikt.
 
 <img src="cookies3.png" width="50%">
 
 Om de code van de cookies te schrijven heb ik gekeken naar de code van de deepdive. Deze heb ik aangepast tot dat mijn popup eruit zag zoals hierboven te zien is.
 
 ### 9 okt feedback, check out en animatie deepdive
+<img src="animatiedeepdive.jpg" width="50%"> 
 
-<img src="animatiedeepdive.jpg" width="50%"> Ik heb hier de oefeningentjes gedaan van de deep dive. Het heeft me nog geen inspiratie gegeven hoe ik het kan toepassen op mijn lyrics.
+Ik heb de oefeningen van de deep dive gemaakt, maar deze hebben me nog geen directe inspiratie gegeven voor hoe ik de technieken wil toepassen op mijn lyrics.
 
-Het nummer van Spinvis vind ik een uitdagend stuk om vorm te geven. Het is een rustig nummer waarin juist de poëzie van de tekst centraal staat. Mijn eerste gevoel was daarom dat het overmatig uitvergroten van de typografiegeen goed effect zou hebben aan die subtiliteit. Tegelijkertijd ben ik nog niet tevreden met het huidige resultaat. Om het ontwerp naar een hoger niveau te brengen en nieuwe invalshoeken te ontdekken, ga ik de feedback van Vasilis volgen: juist wél bewust te gaan overdrijven. Door die overdrijvingen in vormgeving uit te proberen, wil ik onderzoeken hoe ik het nummer meer visuele expressie kan geven zonder de rustige poëzie te verliezen.
+Het nummer *Voor ik vergeet* van Spinvis vind ik een uitdaging om vorm te geven. Het is een rustig nummer waarin de poëzie van de tekst centraal staat. Daarom dacht ik in eerste instantie dat het overmatig uitvergroten van de typografie afbreuk zou doen aan de subtiliteit van het nummer. Tegelijkertijd ben ik nog niet tevreden met mijn huidige resultaat.
 
-Feedback Vasilis:
-
-Alles heel erg overdrijven in grootes en afstalden in je lyrics zodat het minder rommelig lijkt. Mischien dat het er daarna nog steeds niet goed uitziet maar het brengt vaak wel ideeën op
+Vasilis gaf me de feedback om de groottes van de tekst en de afstanden ertussen sterk te overdrijven om inspiratie op te doen voor een verdere iteratie.
 
 1. Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
 
@@ -120,13 +123,10 @@ Omdat het nummer subtiele melodische modulaties en toonhoogteverschillen heeft d
 
 ### 7 en 8 okt Spinvis - voor ik vergeet
 
-<img src="voorik1.jpg" width="50%">
-<img src="voorik2.jpg" width="50%">
-<img src="voorik3.jpg" width="50%">
-<img src="voorik4.jpg" width="50%">
-<img src="voorik5.jpg" width="50%">
-<img src="voorik6.jpg" width="50%">
-<img src="voorik7.jpg" width="50%"> 
+<img src="voorik1.jpg" width="45%"> <img src="voorik2.jpg" width="45%">
+<img src="voorik3.jpg" width="45%"> <img src="voorik4.jpg" width="45%">
+<img src="voorik5.jpg" width="45%"> <img src="voorik6.jpg" width="45%">
+<img src="voorik7.jpg" width="45%"> 
 
 Achteraf gezien had ik tijdens de schetsfase meer kunnen variëren door meer te experimenteren met verschillende vormen, groottes en witruimtes. Door meer verschillende mogelijkheden uit te proberen, had ik waarschijnlijk op meer ontwerpideeën kunnen komen. Dit neem ik mee naar mijn volgend schets moment.
 
@@ -228,15 +228,13 @@ Mijn video’s hadden oorspronkelijk geen captions. In plaats van ondertiteling 
 
 ### 2 okt wcag checklist
 
-<img src="wcag1.jpg" width="50%">
-<img src="wcag2.jpg" width="50%">
-<img src="wcag3.jpg" width="50%">
-<img src="wcag4.jpg" width="50%"> 
-<img src="toegankelijkheidstest.jpeg" width="50%">
-<img src="toegankelijkheidstest2.jpeg" width="50%">
-<img src="toegankelijkheidstest3.jpeg" width="50%">
-<img src="toegankelijkheidstest4.jpeg" width="50%">
-<img src="toegankelijkheidstest1.jpeg" width="50%"> 
+<img src="wcag1.jpg" width="45%"> <img src="wcag2.jpg" width="45%">
+<img src="wcag3.jpg" width="45%"> <img src="wcag4.jpg" width="45%"> 
+<img src="toegankelijkheidstest.jpeg" width="45%">
+<img src="toegankelijkheidstest2.jpeg" width="45%">
+<img src="toegankelijkheidstest3.jpeg" width="45%">
+<img src="toegankelijkheidstest4.jpeg" width="45%">
+<img src="toegankelijkheidstest1.jpeg" width="45%"> 
 
 Dit heb ik verbeterd en is nu allemaal goed.
 
