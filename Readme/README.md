@@ -4,12 +4,28 @@
 
 <img src="Biweekly3.jpg" width="50%">
 
-Feedback:
+- 
+- 
+**Feedback Christina en Casper:**
 
 We hebben in 3 tallen gekeken naar elkaars website en elkaar feedback gegeven.
 
 <img src="Feedback2.jpg" width="100%">
 <img src="feedback3.jpg" width="100%">
+
+Ik heb best wel wat moeite gehad om echt wat feedback te krijgen van Christina en Casper, zij waren oa aan het afvinken wat ik had gedaan. Wat belangrijke punten die ik eruit heb gehaald:
+
+- Ik heb geen reduced motion, ik zag dat Christina dit wel had, dat zou ik nog moeten toevoegen.
+
+- Ik kan meer experimenten doen met mijn lyric voor een beter resultaat
+
+- cookie pop-up met position: fixed 
+
+- Vreder experimenteren met mijn lyric
+
+
+**Feedback van Barbera**
+- 'Je lyric ontwerp lijkt nu voor mij nog niet op 1 geheel. De verschillende vormen zorgen ervoor dat het slordig oogt. Ik raad aan om 1 vorm te kiezen ipv meerdere vormen.'
 
 ### 20 okt deep dive met vasilis
 Tijdens deze deep dive heeft Vasilis naar mijn lyric ontwerp gekeken. Ik heb hem toen laten zien dt ik de bogen en cirkels met coordinaten heb geschreven.
@@ -59,6 +75,8 @@ Van alle tussenstappen heb ik screenshots gemaakt, zodat ik de verschillende ver
 
 Met de verschillende vormen probeer ik de rustige, vloeiende beweging van het nummer *Voor ik vergeet* te verbeelden. Ik heb geëxperimenteerd met de plaatsing en vorm van de tekst, bijvoorbeeld door worden onder elkaar te schrijven en langs de cirkel te laten lopen. Door de verschillende vormen in elkaar over te laten lopen, hoop ik meer samenhang in het ontwerp te creëren. Zo probeer ik de sfeer van het nummer op een visuele manier te vertalen naar de lyrics.
 
+De lettervergroting heb ik overgenomen uit mijn eerste experiment. Ik vond dit effect nog steeds goed passen bij het nummer en heb er veel positieve feedback op ontvangen. Daarom heb ik ervoor gekozen om dit element te behouden in mijn uiteindelijke lyricontwerp.
+
 <img src="vergeet25.jpg" width="50%"> 
 <img src="vergeet26.jpg" width="50%"> 
 <img src="vergeet27.jpg" width="50%"> 
@@ -69,7 +87,7 @@ Met de verschillende vormen probeer ik de rustige, vloeiende beweging van het nu
 
 <img src="animatie.jpg" width="50%">
 
-### 16 okt - nieuwe schetsen voor lyrics
+### 16 okt - nieuwe schetsen voor lyrics (spinvis.html)
 
 Omdat ik nog erg ontevreden was over mijn lyricontwerp, heb ik veel nieuwe schetsen gemaakt. De vorige keer had ik maar een paar schetsen gemaakt en waren de verschillen tussen de ontwerpen klein. Dit keer heb ik juist het tegenovergestelde gedaan, omdat ik denk dat het onderzoeken van verschillende richtingen tot een beter resultaat kan leiden.
 Ik heb ervoor gekozen om de feedback van Vasilis niet direct in mijn HTML uit te werken, maar deze wel mee te nemen in mijn schetsen. In plaats van in een schriftje te tekenen, heb ik op A4-papier gewerkt, zodat ik meer ruimte had om te experimenteren met grote verschillen tussen witregels en kleine en grote woorden. Hierdoor kon ik uitzoeken hoe ik de meest passende hiërarchie voor mijn lyricontwerp kon creëren.
@@ -134,7 +152,7 @@ Sfeer en uitstraling: De fijnere lijnen van de dunnere letters van bepaalde woor
 
 Omdat het nummer subtiele melodische modulaties en toonhoogteverschillen heeft die niet plotseling omslaan, sluit een vloeiende, golvende animatie hier goed bij aan.
 
-### 7 en 8 okt Spinvis - voor ik vergeet
+### 7 en 8 okt Spinvis - voor ik vergeet (spinvis1.html)
 
 <img src="voorik1.jpg" width="45%"> <img src="voorik2.jpg" width="45%">
 <img src="voorik3.jpg" width="45%"> <img src="voorik4.jpg" width="45%">
