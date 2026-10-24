@@ -17,11 +17,20 @@ Ik heb best wel wat moeite gehad om echt wat feedback te krijgen van Christina e
 
 - Ik heb geen reduced motion, ik zag dat Christina dit wel had, dat zou ik nog moeten toevoegen.
 
+Met behulp van ChatGPT heb ik een `prefers-reduced-motion`-instelling toegevoegd voor de zon en de maan. Hierdoor worden de animaties verminderd voor gebruikers die in hun apparaatinstellingen hebben aangegeven dat ze minder beweging willen zien.
+
+<img src="reducedmotion1.jpg" width="45%">
+<img src="reducedmotion2.jpg" width="45%">
+<img src="reducedmotion3.jpg" width="45%">
+<img src="reducedmotion4.jpg" width="45%">
+
 - Ik kan meer experimenten doen met mijn lyric voor een beter resultaat
 
 - cookie pop-up met position: fixed 
 
-- Vreder experimenteren met mijn lyric
+<img src="javascriptterug.jpg" width="50%">
+
+Ik heb nu `position: fixed` toegevoegd. Er was ook tegen mij gezegd dat ik geen JavaScript nodig had voor de popup. Nadat ik mijn JavaScript had verwijderd, werkte de popup echter niet meer. Daarom heb ik het JavaScript weer teruggezet.
 
 
 **Feedback van Barbera**
