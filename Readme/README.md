@@ -1,6 +1,45 @@
 ## Learning Log
+### algemene reflectie
 
-### 21 okt
+Tijdens dit project heb ik veel geleerd over het ontwerpen en bouwen van een website. Door feedback van anderen te verwerken, ben ik kritischer gaan kijken naar mijn eigen ontwerpkeuzes. Niet alle feedback heb ik uiteindelijk overgenomen. Zo heb ik bij mijn lyricontwerp voor Spinvis besloten om de bogen en cirkels te behouden, omdat deze beter passen bij de rustige sfeer die ik met het nummer wil overbrengen. Ik heb hier ook positieve feedback op gekregen van klasgenoten die het nummer nog niet kenden, ik heb met hun gevraagd hoe zij denken dat het klinkt. Dit heeft mij laten zien dat het belangrijk is om feedback serieus te nemen, maar ook om zelf te blijven nadenken over wat het beste bij mijn ontwerp past.
+
+Daarnaast heb ik veel geleerd over coderen en toegankelijkheid. Ik heb bijvoorbeeld de zon en maananimaties toegepast en rekening gehouden met gebruikers die minder beweging willen zien (reduced motion). Als ik nu code lees, kan ik deze vaak met gemak begrijpen, wat ik echt geweldig vind. Het voelt een beetje alsof ik een nieuwe taal heb geleerd. Daar ben ik heel trots op.
+
+Ik had graag meer willen ontwerpen voor mijn website. Omdat ik veel tijd heb besteed aan het begrijpen van de code, heb ik voor mijn gevoel te weinig ontworpen voor de tuin. Hoewel ik HTML en CSS nu veel beter begrijp, had ik graag meer creatieve elementen aan mijn website willen toevoegen. Voor een volgend project wil ik daarom proberen een betere balans te vinden.
+
+### webby en logheid check en expo
+
+<img src="webbycheck.jpg" width="50%">
+<img src="logheidcheck.jpg" width="50%">
+
+- We hebben samen gekeken naar de grootte van de knoppen op een telefoonformaat. Naar mijn mening waren ze groot genoeg, maar bij een volgende iteratie zou ik dit verder willen testen om daar zeker van te zijn.
+
+- Ik had de radio buttons van de zon en de maan eerst onzichtbaar gemaakt. Omdat ze daardoor geen tabfocus kregen, heb ik ze weer toegevoegd. Ik ging er daarna vanuit dat ze ook klikbaar waren, maar nu blijkt dat toch niet het geval te zijn. Dit zou ik dus in een verdere iteratie moeten aanpassen
+
+- Om mijn website visueel interessanter te maken, zou ik graag nog een gradient en scrollanimatie willen toevoegen.
+
+<img src="expo.jpg" width="50%">
+
+Ik ben ik heel blij met alle complimentjes uit de expo. Het geeft me een goed gevoel over mijn website.
+
+### retrospect sprint 3
+Mijn laatste 6 weken: een hele zware en mooie hike waar ik na afloop met heel veel trots over vertel.
+
+<img src="retrospect3.jpg" width="50%">
+<img src="retrospect3.2.jpg" width="50%">
+<img src="retrospect3.3.jpg" width="50%">
+
+Omdat ik vrijdag niet bij de les kon zijn heb ik de retrospect thuis zelfstandig gemaakt.
+
+### eindsprint To Do
+
+<img src="todo.jpg" width="50%">
+
+na de laastste les op maandag heb ik een kleine overzicht gemaakt van wat ik nog zou doen volgend de feedback uit de les.
+
+**De font in mijn website is gedownload van google fonts**
+
+### biweekly geek en feedback
 
 <img src="Biweekly3.jpg" width="50%">
 
@@ -36,7 +75,11 @@ Ik heb nu `position: fixed` toegevoegd. Er was ook tegen mij gezegd dat ik geen 
 **Feedback van Barbera**
 - 'Je lyric ontwerp lijkt nu voor mij nog niet op 1 geheel. De verschillende vormen zorgen ervoor dat het slordig oogt. Ik raad aan om 1 vorm te kiezen ipv meerdere vormen.'
 
-### 20 okt deep dive met vasilis
+<img src="iteratie.jpg" width="50%">
+
+Ik ben hier begonnen met het verwerken van de feedback van Barbera. Ik begrijp wat ze met haar feedback bedoelt, maar nu ik de tekst recht en in dezelfde vorm zie, behoud ik toch liever de bogen en cirkels. Daarnaast heb ik hier ook veel positieve feedback op gekregen van onder anderen mijn klasgenoten. Hoewel zij het nummer nooit eerder hadden gehoord, kwam het over als iets heel rustigs, moois en bijzonders. Dat is precies wat ik met mijn ontwerp hoop uit te stralen.
+
+### deep dive met vasilis
 Tijdens deze deep dive heeft Vasilis naar mijn lyric ontwerp gekeken. Ik heb hem toen laten zien dt ik de bogen en cirkels met coordinaten heb geschreven.
 
 <img src="coordinaten.jpg" width="50%">
@@ -46,7 +89,7 @@ Helaas (maar ook leuk en handig om te zien dat het mogelijk is) heeft hij me toe
 
 Als ik alle feedback optijd heb kunnen verwerken in mijn website en lyric ontwerp wil ik deze manier graag toepassen. 
 
-### 19 okt - feedback Vasilis en Joëlle
+### feedback Vasilis en Joëlle
 Vandaag heb ik geleerd dat je met MARKS in je code verschillende onderdelen kunt markeren. Dit maakt het een stuk overzichtelijker en makkelijker om specifieke onderdelen terug te vinden. Vasilis gaf me de feedback om mijn code netter te organiseren. Zo stond mijn body bijvoorbeeld midden in de rest van mijn code, waardoor de structuur onoverzichtelijk was.
 
 Naar aanleiding van deze feedback heb ik mijn code opnieuw georganiseerd. Ik heb MARKS toegevoegd aan de verschillende onderdelen en alles gesorteerd in dezelfde volgorde als in mijn html. Hierdoor is mijn code overzichtelijker geworden en kan ik onderdelen sneller terugvinden. Achteraf gezien had ik deze werkwijze graag eerder willen ontdekken, omdat het me veel tijd kan besparen tijdens het werken aan mijn website.
@@ -65,7 +108,7 @@ Aan het begin van het project kreeg ik van mijn moeder de feedback dat de zon no
 
 Tot slot adviseerde Joëlle om de cookie-popup direct bij het openen van de website te tonen. Dit leek mij een goede oplossing, omdat de melding hierdoor beter opvalt.
 
-### 17 okt - lyric uitwerken
+### lyric uitwerken
 
 <img src="nieuwecode.jpg" width="50%"> 
 
@@ -96,7 +139,7 @@ De lettervergroting heb ik overgenomen uit mijn eerste experiment. Ik vond dit e
 
 <img src="animatie.jpg" width="50%">
 
-### 16 okt - nieuwe schetsen voor lyrics (spinvis.html)
+### nieuwe schetsen voor lyrics (spinvis.html)
 
 Omdat ik nog erg ontevreden was over mijn lyricontwerp, heb ik veel nieuwe schetsen gemaakt. De vorige keer had ik maar een paar schetsen gemaakt en waren de verschillen tussen de ontwerpen klein. Dit keer heb ik juist het tegenovergestelde gedaan, omdat ik denk dat het onderzoeken van verschillende richtingen tot een beter resultaat kan leiden.
 Ik heb ervoor gekozen om de feedback van Vasilis niet direct in mijn HTML uit te werken, maar deze wel mee te nemen in mijn schetsen. In plaats van in een schriftje te tekenen, heb ik op A4-papier gewerkt, zodat ik meer ruimte had om te experimenteren met grote verschillen tussen witregels en kleine en grote woorden. Hierdoor kon ik uitzoeken hoe ik de meest passende hiërarchie voor mijn lyricontwerp kon creëren.
@@ -127,7 +170,7 @@ Omdat ik veel verschillende schetsen had gemaakt en twijfelde over de samenhang,
 <img src="vergeet18.jpg" width="45%">
 <img src="vergeet19.jpg" width="45%">
 
-### 14 okt - cookies popup ontwerpen
+### cookies popup ontwerpen
 
 <img src="cookies1.jpg" width="50%">
 <img src="cookies2.jpg" width="50%"> 
@@ -138,7 +181,7 @@ Ik heb verschillende schetsen gemaakt voor mijn cookie-popup. Uiteindelijk heb i
 
 Om de code van de cookies te schrijven heb ik gekeken naar de code van de deepdive. Deze heb ik aangepast tot dat mijn popup eruit zag zoals hierboven te zien is.
 
-### 9 okt feedback, check out en animatie deepdive
+### feedback, check out en animatie deepdive
 <img src="animatiedeepdive.jpg" width="50%"> 
 
 Ik heb de oefeningen van de deep dive gemaakt, maar deze hebben me nog geen directe inspiratie gegeven voor hoe ik de technieken wil toepassen op mijn lyrics.
@@ -161,7 +204,7 @@ Sfeer en uitstraling: De fijnere lijnen van de dunnere letters van bepaalde woor
 
 Omdat het nummer subtiele melodische modulaties en toonhoogteverschillen heeft die niet plotseling omslaan, sluit een vloeiende, golvende animatie hier goed bij aan.
 
-### 7 en 8 okt Spinvis - voor ik vergeet (spinvis1.html)
+### Spinvis - voor ik vergeet (spinvis1.html) en cookies
 
 <img src="voorik1.jpg" width="45%"> <img src="voorik2.jpg" width="45%">
 <img src="voorik3.jpg" width="45%"> <img src="voorik4.jpg" width="45%">
@@ -194,7 +237,7 @@ Hier is te zien hoe ik een deel van de lyrics van *Voor ik vergeet* heb vertaald
 
 <img src="lettervergotenmetspan.jpg" width="50%">
 
-### 6 okt - deepdive intresantere layout
+### deepdive intresantere layout
 
 <img src="Interesanterelayouts.jpg" width="50%">
 <img src="interesanterelayout2.jpg" width="50%">
@@ -204,7 +247,7 @@ Hier is te zien hoe ik een deel van de lyrics van *Voor ik vergeet* heb vertaald
 
 Ik heb hier met Vasilis gekeken waarom er een horizontal scrol zat in mijn website op de telefoon. De zon was te breedt. Dit heb ik daarna in mijn code aangepast door de width naar 100vw te brengen en er een max-width aan toe te voegen van 500px.
 
-### 5 okt checkout
+### checkout
 
 1. Leg uit wat er met de volgende termen bedoeld wordt:
 
@@ -242,7 +285,7 @@ Tussen 40 en 60 px omdat dat het meest leesbaar is.
 
 grootte
 
-### 3 okt feedback van Vasilis verwerken en retrospect opdacht
+### feedback van Vasilis verwerken en retrospect opdacht
 
 <img src="altweggehaald.jpg" width="50%"> 
 
@@ -266,7 +309,7 @@ Mijn video’s hadden oorspronkelijk geen captions. In plaats van ondertiteling 
 
 - Oefenen met screenreader
 
-### 2 okt wcag checklist
+### wcag checklist
 
 <img src="wcag1.jpg" width="45%"> <img src="wcag2.jpg" width="45%">
 <img src="wcag3.jpg" width="45%"> <img src="wcag4.jpg" width="45%"> 
@@ -278,7 +321,7 @@ Mijn video’s hadden oorspronkelijk geen captions. In plaats van ondertiteling 
 
 Dit heb ik verbeterd en is nu allemaal goed.
 
-### 1 okt keuzes
+### keuzes
 
 Waarom heb ik voor dit font gekozen?
 
@@ -298,7 +341,7 @@ Waarom heb ik uiteindelijk geen pagina over wildkamperen gemaakt?
 
 Ik heb hier zelf weinig ervaring mee, terwijl boulderen juist een weekelijkse activiteit voor mij is. Daarom leek het me interessanter om een pagina over klimmen te maken. Ik kan hiervoor mijn eigen foto’s en video’s gebruiken, waardoor de website persoonlijker wordt en de inhoud beter aansluit bij mijn eigen ervaringen en interesses.
 
-### 30 sept kleur aanpassen
+### kleuren aanpassen en checkout
 
 <img src="toggeltoegevoegd.jpg" width="50%"> 
 
@@ -334,7 +377,7 @@ Blind
 
 Ik denk niet dat ik daardoor heel erg beperkt word in het ontwerpen. Maar het zijn wel veel dingen waar ik rekening mee moet houden.
 
-### 28 sept
+### biweekly en checkout
 
 <img src="Bi-weeklyGeek1.jpg" width="50%">
 <img src="Bi-weeklyGeek2.jpg" width="50%">
@@ -362,20 +405,18 @@ Tab, Tab shift, enter,
 
 control option u, pijltje links recht boven en onder: voor venster menu
 
-### 26 sept
+### biweekly geek en cookie consent
 bi-weekly geek
 
 <img src="idk.jpg" width="50%"> 
 <img src="C Welingelichte Cookie Consent.jpg" width="50%">
 
-### 21 sept light en dark mode knop
+### light en dark mode knop en checkout
 Na veel onderzoek en experimenteren, met behulp van Gemini, is het me uiteindelijk gelukt om de light en darkmodeknop aan mijn website toe te voegen. Hiervoor heb ik gebruikgemaakt van input type="radio", waarin ik afbeeldingen van een zon en een maan heb geplaatst. Door de opacity van de radiobuttons op 0 te zetten, zijn die onzichtbaar. Hierdoor blijven alleen de afbeeldingen van de zon en de maan zichtbaar, die de bezoeker kan gebruiken om tussen de light en darkmode te wisselen.
 
 <img src="lightdarkknop2.jpg" width="50%">
 
 <img src="lightdarkknopobstacel.jpg" width="50%"> 
-
-Ik had onderweg een probleem. De blauwe achtergront was zwart geworden.
 
 1. Wat zijn HTML landmark role elements?
 
@@ -389,7 +430,7 @@ belangrijkste is H1 en daarna H2, etc
 
 Ik klik altijd op alles afwijzen, ook al voor deze les.
 
-### 19 sept Feedback van vrijdag
+### Feedback van vrijdag
 
 - "Pagina verder uitbreiden waarbij je wild kamperen duidelijk overbrengt"
 
@@ -403,7 +444,7 @@ Om dit te verbeteren, ga ik in mijn learning log mijn keuzes op een rijtje zette
 
 Dit heb ik inmiddels toegevoegd aan mijn pagina Galerij, zodat de indeling zich beter kan aanpassen aan verschillende schermformaten.
 
-### 18 sept check out en retrospect opdracht
+### check out en retrospect opdracht
 
 <img src="biweeklee.jpeg" width="50%">
 <img src="retrospect1.1.jpg" width="50%">
@@ -487,7 +528,7 @@ Wat vond ik (niet) leuk?
 
 Ik vond het leuk om te werken aan een idee waar ik heel verheugd van werd. Ik vond het niet leuk dat ik eraan moest werken met veel stress en tijdsdruk.
 
-### 16 sept dark en light mode toegepast op website
+### dark en light mode toegepast op website
 
 <img src="lightmode.jpg" width="50%">
 <img src="darkmode.jpg" width="50%"> 
@@ -498,12 +539,13 @@ Met `aria-current="page"` heb ik ervoor gezorgd dat de Home-knop lichtblauw kleu
 
 Ik heb aan chat gpt gevraagd om stappen om in illustrator een zo te maken. Ik wist dat het mogelijk was om de stralen op perfecte afstand van elkaar neer te zetten, ik wist alleen niet precies hoe daarom heb ik daar hulp bij gevraagd aan chatgpt:
 <img src="zontekenen.jpg" width="50%"> 
-### 15 sept Deep dive grid
+
+### Deep dive grid
 
 <img src="grid1.jpg" width="50%">
 <img src="grid2.jpg" width="50%">
 
-### 14 sept
+### light/darkmode knop en checkout
 
 Poging tot toevoegen van light en dark mode toggel, met de svg's.
 <img src="code1.jpg" width="50%">
@@ -521,7 +563,7 @@ de deepdives toepassen, css gebruiken
 
 Ik heb aan mijn tweetal beschreven wat mijn plan is voor mijn website. Veel foto's toevoegen. Light en dark effect. Weinig tekst.
 
-### 13 sept, font en feedback
+### font in tuintje en feedback verwerkt
 
 <img src="web1.jpg" width="50%"> 
 
@@ -531,7 +573,7 @@ Ik heb het gekozen lettertype toegepast op mijn website met behulp van @font-fac
 
 Dit heb ik nu in mijn website gedaan. Ik vond dit een goed idee omdat ik daardoor beter 1 idee kan uitwerken in plaats van verschillende ideetjes minder goed afgewerkt laten.
 
-### 11 sept schermschetsen
+### Schermschetsen
 
 <img src="schermen 1.jpg" width="50%">
 <img src="schermen 2.jpg" width="50%">
@@ -539,13 +581,13 @@ Dit heb ik nu in mijn website gedaan. Ik vond dit een goed idee omdat ik daardoo
 
 Ik had bedacht om de navigatie op een telefoon bovenaan te plaatsen en op een laptop aan de rechterkant. Uiteindelijk heb ik ervoor gekozen om de navigatie ook op de laptop bovenaan te houden. Ik was hiermee begonnen en merkte dat ik het juist mooi vond dat de bezoeker naar beneden moest scrollen om bij de collages te komen. Hierdoor ontstaat er een overgang van de navigatie naar de visuele inhoud van mijn website.
 
-### 10 sept Deep dive gradient
+### Deep dive gradient
 
 Geoefend met verschillende gardients maken:
 
 <img src="gradients.jpg" width="50%">
 
-### 9 sept online les
+### visual research en checkout
 
 <img src="1.jpg" width="50%">
 <img src="2.jpg" width="50%">
@@ -567,7 +609,7 @@ Mijn Garden is erop gericht om mensen te inspireren om meer activiteiten in de b
 
 In mijn eerste schets van de Crazy 8 heb ik een zon getekend die in een maan verandert. Het idee is dat de bezoeker door op de zon of maan te klikken kan wisselen tussen de light mode en dark mode. Dit vind ik een leuk en interactief idee dat ik graag verder wil uitwerken.
 
-### 8 sept Deep dive: light and dark mode
+### Deep dive: light and dark mode
 
 Screenshots van de opdracht die ik heb gemaak. Ik heb veel van deze deep dive geleerd en veel inspiratie opgedaan. In de log van 1 oktober leg ik uit wat voor inspiratie.
 
@@ -575,7 +617,7 @@ Screenshots van de opdracht die ik heb gemaak. Ik heb veel van deze deep dive ge
 <img src="kipkakie.jpg" width="50%">
 <img src="katten.jpg" width="50%">
 
-### 7 sept website analyseren
+### website analyse en checkout
 
 Samenwerking in groepjes van 4:
 
@@ -598,21 +640,21 @@ Dat iemand een website Webby vind verschilde heel erg per persoon dus wij denken
 
 Op dit moment heb ik bedacht het thema bergen te gaan gebruiken. Ik wil in mijn website laten zien wat voor activiteiten er allemaal gedaan kunnen worden in de bergen. Met animaties en collages wil ik de schoonheid en uniekheid van bergen laten zien.
 
-### 4 sept Deep dive: praktische css, fonts met kleur en effecten
+### Deep dive: praktische css, fonts met kleur en effecten
 
 Ik heb bij de praktische css oa veel mee geluisterd.
 
 Een screenshot van een paar tags waarbij ik heb mee geschreven:
 <img src="codepen praktische css.jpg" width="50%">
 
-### 2 sept Deep dive: Typography
+### Deep dive: Typography
 
 Voor deze les heb ik informatie vezamelt over Dolly Parton die ik al over haar wist. Daarmee heb ik schetsjes gemaakt om die kennis visueel duidelijk te maken.
 
 <img src="dollyp.jpg" width="50%">
 <img src="country dollyp.jpg" width="50%">
 
-### 31 aug - Kickoff
+### Kickoff checkout
 
 1. Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
 
