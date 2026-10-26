@@ -85,12 +85,12 @@ h2 {
 }
 
 h2 span {
-  position: absolute;     
+  position: absolute;   
   font-size: clamp(2rem, 5.5vw, 3rem); 
   font-variation-settings: 
     "wght" 200, 
     "SRFS" 60;       
-  transform-origin: center bottom; 
+  
 }
 
 /* Coördinaten en rotaties voor letterboog */
