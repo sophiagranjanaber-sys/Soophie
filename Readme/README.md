@@ -14,7 +14,7 @@ Ik had graag meer willen ontwerpen voor mijn website. Omdat ik veel tijd heb bes
 
 - We hebben samen gekeken naar de grootte van de knoppen op een telefoonformaat. Naar mijn mening waren ze groot genoeg, maar bij een volgende iteratie zou ik dit verder willen testen om daar zeker van te zijn.
 
-- Ik had de radio buttons van de zon en de maan eerst onzichtbaar gemaakt. Omdat ze daardoor geen tabfocus kregen, heb ik ze weer toegevoegd. Ik ging er daarna vanuit dat ze ook klikbaar waren, maar nu blijkt dat toch niet het geval te zijn. Dit zou ik dus in een verdere iteratie moeten aanpassen
+- Ik had de radio buttons van de zon en de maan eerst onzichtbaar gemaakt. Omdat ze daardoor geen tabfocus kregen, heb ik ze weer toegevoegd. Ik ging er daarna vanuit dat ze ook klikbaar waren, maar nu blijkt dat toch niet het geval te zijn. Dit zou ik dus in een verdere iteratie moeten aanpassen.
 
 - Om mijn website visueel interessanter te maken, zou ik graag nog een gradient en scrollanimatie willen toevoegen.
 
@@ -31,7 +31,7 @@ Mijn laatste 6 weken: een hele zware en mooie hike waar ik na afloop met heel ve
 
 Omdat ik vrijdag niet bij de les kon zijn heb ik de retrospect thuis zelfstandig gemaakt.
 
-### eindsprint To Do
+### Eindsprint To Do
 
 <img src="todo.jpg" width="50%">
 
